@@ -1,0 +1,5 @@
+<html><body><p>Am 11. September 2001 war ich gerade eine Woche als Wehrdienstleistender bei der Bundeswehr gewesen. Nachmittags, bei Unterrichtsende, berichtete unser Kompaniechef von den Ereignissen in New York. Mein erster Gedanke war: Das gibt Krieg.
+
+Ich hatte Angst. Angst, dass das Schlimmste erst noch kommt. Angst, vielleicht selbst darin involviert zu werden. Letzteres war natürlich Unsinn. Aber es war auch niemand da, der uns das sagte.
+
+Mit diesen Gedanken verbrachte ich den Abend mit meinen Kameraden vor dem Fernseher im Mannschaftsheim. Am folgenden Tag gab es einen Kasernen-Appell. Angesichts des Angriffs auf einen NATO-Partner rechneten wir mit allem. Wieder Angst. Am Ende war es nur eine Schweigeminute. Glücklicherweise.</p></body></html>

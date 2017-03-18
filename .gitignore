@@ -1,0 +1,7 @@
+# Nikola
+.*
+cache/
+output/
+private/
+sop/
+state_data.json
