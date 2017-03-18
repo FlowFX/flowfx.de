@@ -1,4 +1,7 @@
 language: python
+cache:
+- apt
+- pip
 python:
 - 3.5
 addons:
