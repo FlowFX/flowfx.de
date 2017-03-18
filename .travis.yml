@@ -1,7 +1,7 @@
 language: python
 cache:
 - apt
-- pip
+- pijp
 python:
 - 3.5
 addons:
