@@ -1,6 +1,6 @@
 <!-- 
-.. title: Mocking database calls in Django view tests
-.. slug: mocking-database-calls-when-testing-django-views
+.. title: Automatically deploy Nikola-powered site with rsync and Travis CI
+.. slug: automatically-deploy-nikola-powered-site-with-rsync-and-travis-ci
 .. date: 2017-03-18 17:42:01 UTC-06:00
 .. tags: travis ci, ssh, rsync, nikola, deployment, draft
 .. category: 
