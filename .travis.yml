@@ -9,10 +9,18 @@ addons:
     packages:
     - graphviz
     - yui-compressor
+before_install:
+- openssl aes-256-cbc -K $encrypted_f658ad278ec9_key -iv $encrypted_f658ad278ec9_iv
+  -in deploy_key.enc -out deploy_key -d
 install:
 - pip install 'Nikola[extras]'
 - pip install -r requirements.txt
 script:
 - nikola build
+after_success:
+- eval "$(ssh-agent -s)"
+- chmod 600 deploy_key
+- ssh-add deploy_key
+- nikola deploy
 notifications:
   email: false
