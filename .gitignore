@@ -5,3 +5,4 @@ output/
 private/
 sop/
 state_data.json
+__pycache__
