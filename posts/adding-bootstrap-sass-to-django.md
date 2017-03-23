@@ -14,6 +14,7 @@ https://django-compressor.readthedocs.io/en/latest/quickstart/#installation
 (venv)$ pip install csscompressor django-compressor django-libsass
 ```
 
+<<<<<<< HEAD
 ```python
 INSTALLED_APPS = [
     ...
