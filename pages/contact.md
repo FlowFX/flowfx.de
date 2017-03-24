@@ -9,8 +9,6 @@
 .. type: text
 -->
 
-<!-- ![Florian](/images/profilfoto-florian-posdziech-300x300.jpg){.img-responsive .img-portrait} -->
-
 I am active on the [Twitter](https://twitter.com/flowfx_).
 
 Or contact me via
@@ -21,19 +19,23 @@ Or contact me via
   * [PGP-Key](/static/5F6BFA2A.asc)
   * Fingerprint: E493 8659 B54B B6B7 26E1 7D97 9DFE 19DE 5F6B FA2A
 
-<!-- and
+or
 
 ## secure instant messaging
 
+  * [Signal](https://whispersystems.org/)
+
+if you happen to have my phone number.
+
+<!--
   * Threema: [P6XEBY5X](threema://add?id=P6XEBY5X)
   * iMessage: [flowfx@icloud.com](imessage://flowfx@apple.com)
-  * [Signal](https://whispersystems.org/)
  -->
 
-or
 
 ## also
 
+* [GitHub](https://github.com/flowfx/)
 * [Facebook](https://www.facebook.com/FlowFX/)
 * [Linkedin](https://www.linkedin.com/in/flowfx)
 
@@ -45,7 +47,7 @@ or
 
 As required by German law.
 
-## Angaben gemäß § 5 TMG:
+## Angaben gemäß § 5 TMG:
 
 Florian Posdziech & Helmut Posdziech GbR  
 Ernst-Ludwig-Straße 16  
@@ -84,4 +86,4 @@ Diese Website nutzt Funktionen des  Webanalysedienstes Google Analytics. Anbiet
 
 Im Falle der Aktivierung der IP-Anonymisierung auf dieser Webseite wird Ihre IP-Adresse von Google jedoch innerhalb von Mitgliedstaaten der Europäischen Union oder in anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum zuvor gekürzt. Nur in Ausnahmefällen wird die volle IP-Adresse an einen Server von Google in den USA übertragen und dort gekürzt. Im Auftrag des Betreibers dieser Website wird Google diese Informationen benutzen, um Ihre Nutzung der Website auszuwerten, um Reports über die Websiteaktivitäten zusammenzustellen und um weitere mit der Websitenutzung und der Internetnutzung verbundene Dienstleistungen gegenüber dem Websitebetreiber zu erbringen. Die im Rahmen von Google Analytics von Ihrem Browser übermittelte IP-Adresse wird nicht mit anderen Daten von Google zusammengeführt.
 
-Sie können die Speicherung der Cookies durch eine entsprechende Einstellung Ihrer Browser-Software verhindern; wir weisen Sie jedoch darauf hin, dass Sie in diesem Fall gegebenenfalls nicht sämtliche Funktionen dieser Website vollumfänglich werden nutzen können. Sie können darüber hinaus die Erfassung der durch das Cookie erzeugten und auf Ihre Nutzung der Website bezogenen Daten (inkl. Ihrer IP-Adresse) an Google sowie die Verarbeitung dieser Daten durch Google verhindern, indem sie das [hier](gaoptout?hl=de](http://tools.google.com/dlpage/gaoptout?hl=de) verfügbare Browser-Plugin herunterladen und installieren.
+Sie können die Speicherung der Cookies durch eine entsprechende Einstellung Ihrer Browser-Software verhindern; wir weisen Sie jedoch darauf hin, dass Sie in diesem Fall gegebenenfalls nicht sämtliche Funktionen dieser Website vollumfänglich werden nutzen können. Sie können darüber hinaus die Erfassung der durch das Cookie erzeugten und auf Ihre Nutzung der Website bezogenen Daten (inkl. Ihrer IP-Adresse) an Google sowie die Verarbeitung dieser Daten durch Google verhindern, indem sie das [hier](http://tools.google.com/dlpage/gaoptout?hl=de) verfügbare Browser-Plugin herunterladen und installieren.
