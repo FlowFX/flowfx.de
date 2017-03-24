@@ -21,7 +21,7 @@ Start your terminal.app and copy and paste the installation command from the Hom
 ## Install Python3
 When homebrew is installed, stay in the terminal.app and install Python3 using this command.
 
-    $ brew install python3`
+    $ brew install python3
 
 Now, the commands <code>python3</code> and <code>pip3</code> are available on the command line. You can check the installed Python version with
 
@@ -33,7 +33,7 @@ Next, use <code>pip3</code> to install the virtualenvwrapper tool ([Official doc
 
     $ pip3 install virtualenvwrapper
 
-Open the file <code>/Users/angelykke/.bashrc</code> in your text editor (like SublimeText), and add the following lines at the bottom.
+Open the file <code>/Users/<your_username>/.bashrc</code> in your text editor (like SublimeText), and add the following lines at the bottom.
 
 ```
 export WORKON_HOME=$HOME/.virtualenvs
