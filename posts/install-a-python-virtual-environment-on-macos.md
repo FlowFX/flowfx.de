@@ -2,7 +2,7 @@
 .. title: How to install a Python virtual environment on macOS
 .. slug: install-a-python-virtual-environment-on-macos
 .. date: 2017-03-24 10:00:00 UTC-06:00
-.. tags: python, virtualenvwrapper, draft
+.. tags: python, virtualenvwrapper, macos, homebrew
 .. category: 
 .. link: 
 .. description: 
