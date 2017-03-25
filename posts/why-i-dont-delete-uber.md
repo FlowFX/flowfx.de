@@ -13,5 +13,10 @@ Write good stuff here.
 
 Uber is not a nice company. 
 
+- safe, clean cars with seatbelts and working breaks
+- Waze for navigation and traffic information
+- no rip-off by the drivers, fixed price in advance
+- cautious drivers
+- safe for drunken and late-night rides
 
-
+Uber the only company offering that level of service here.
