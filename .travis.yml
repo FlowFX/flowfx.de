@@ -1,7 +1,7 @@
 language: python
 cache:
-- apt
-- pip
+  apt: true
+  pip: true
   directories:
   - cache
 python:
