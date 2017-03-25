@@ -4,6 +4,7 @@ cache:
   pip: true
   directories:
   - cache
+  - output
 python:
 - 3.5
 addons:
