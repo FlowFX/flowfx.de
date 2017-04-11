@@ -9,9 +9,9 @@
 .. type: text
 -->
 
-I am active on the [Twitter](https://twitter.com/flowfx_).
+I am active on the [Twitter](https://twitter.com/flowfx_), and this new [Mastodon](https://ohai.su/@flowfx) thing.
 
-Or contact me via
+You can also contact me via
 
 ## email
 
@@ -24,8 +24,9 @@ or
 ## secure instant messaging
 
   * [Signal](https://whispersystems.org/)
+  * WhatsApp
 
-if you happen to have my phone number.
+if you happen to have my phone number (and my phone is working at the moment).
 
 <!--
   * Threema: [P6XEBY5X](threema://add?id=P6XEBY5X)
