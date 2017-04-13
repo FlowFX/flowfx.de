@@ -23,10 +23,14 @@ or
 
 ## secure instant messaging
 
-  * [Signal](https://whispersystems.org/)
+but not right now. Because the repair shop where I had dropped off my phone got robbed. So no
+
+  * [Signal](https://whispersystems.org/) or 
   * WhatsApp
 
-if you happen to have my phone number (and my phone is working at the moment).
+for now.
+
+<!-- if you happen to have my phone number (and my phone is working at the moment).-->
 
 <!--
   * Threema: [P6XEBY5X](threema://add?id=P6XEBY5X)
