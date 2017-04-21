@@ -122,4 +122,4 @@ takes the <code>PotatoDetailView</code> and, first of all, disables the <code>ge
 
 There is no database call, no need for the django_db mark, just more speed.
 
-For a [ListView](http://ccbv.co.uk/projects/Django/1.10/django.views.generic.list/ListView/), the method that has to be replaced by the patch is <code>get_queryset</code>. Check out [<code>test_list_view</code>](https://github.com/FlowFX/sturdy-potato/blob/master/tests/test_views_with_mocks.py#L32) in the example project.
+For a [ListView](http://ccbv.co.uk/projects/Django/1.10/django.views.generic.list/ListView/), the method that has to be replaced by the patch is <code>get_queryset</code>. Check out [<code>test_list_view</code>](https://github.com/FlowFX/sturdy-potato/blob/master/potatoes/tests/test_models_with_mocks.py#L32) in the example project.
