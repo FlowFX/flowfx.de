@@ -2,7 +2,7 @@
 .. title: The Cat Empire live at Lowlands festival 2014
 .. slug: the-cat-empire-live-at-lowlands-festival-2014
 .. date: 2017-05-02 13:05:52 UTC-05:00
-.. tags: youtube, music, the cat empire, live
+.. tags: Youtube, music, the cat empire, Live
 .. category: 
 .. link: 
 .. description: 
