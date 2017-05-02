@@ -1,5 +1,5 @@
 <!-- 
-.. title: Disable Django logging with pytest fixture
+.. title: Disable Django/Python logging with pytest fixture
 .. slug: disable-django-logging-with-pytest-fixture
 .. date: 2017-04-10 12:11:39 UTC-05:00
 .. tags: python, django, logging, pytest, fixture
