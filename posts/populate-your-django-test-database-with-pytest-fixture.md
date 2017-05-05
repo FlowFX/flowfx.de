@@ -47,5 +47,4 @@ Now, in every test that needs it, I use this session-scoped fixture, and the tes
 def test_my_potatoes(db, django_db_setup):
     # GIVEN a full database of potatoes, as provided by the django_db_setup fixture
     all_my_potatoes = Potato.objects.all()
-    …
 ```
