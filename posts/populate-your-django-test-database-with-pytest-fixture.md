@@ -18,14 +18,14 @@ Because it took me a while to find this, I document it here. It works like this:
 ## Dump the data
 Using Django's own [`dumpdata`](https://docs.djangoproject.com/en/1.11/ref/django-admin/#dumpdata) management command, you dump all or selected tables from your local database into a JSON file in a subfolder of the app named `fixtures`. My Django app is called `potatoes`, and I want the data for my two models `Potato` and `SturdyPotato`.
 
-```
+``` bash
 $ ./manage.py dumpdata potatoes.Potato potatoes.SturdyPotato -o potatoes/fixtures/potatoes_data.json
 ```
 
 ## Load the data
 The corresponding [`loaddata`](https://docs.djangoproject.com/en/1.11/ref/django-admin/#loaddata) command can be used with pytest's `django_db_setup` fixture to load the data into the test database.
 
-```
+``` python
 # tests/conftest.py
 
 import pytest
@@ -41,7 +41,7 @@ def django_db_setup(django_db_setup, django_db_blocker):
 ## Use pytest fixture
 Now, in every test that needs it, I use this session-scoped fixture, and the test data is available.
 
-```
+``` python
 # tests/test_models.py
 
 def test_my_potatoes(db, django_db_setup):
