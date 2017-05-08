@@ -16,6 +16,7 @@ I'm in Mexico City,
 
 - working on a pretty neat [Django](https://www.djangoproject.com/) project for a local start-up company,
 - having fun with [LaTeX](https://www.latex-project.org/) again,
+- looking into [SciPy](https://www.scipy.org/),
 - working on a new, Django-based version of [Reggae CDMX](https://reggae-cdmx.com),
 - producing new episodes of [Tacos und Limetten](http://tacosundlimetten.de/) and [Cultural Comments](http://podcast.c3s.cc/),
 - reading the phenomenal *[Expanse](https://en.wikipedia.org/wiki/The_Expanse_(novel_series))* series by James S. A. Corey, and
@@ -30,4 +31,4 @@ I'm in Mexico City,
 <!-- - still studying [Test-Driven Development](http://www.obeythetestinggoat.com/).-->
 
 
-When my activities or priorities change, I’ll update this page. Last update was April 11th, 2017.
+When my activities or priorities change, I’ll update this page. Last update was May 8th, 2017.
