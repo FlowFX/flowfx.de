@@ -23,17 +23,17 @@ When homebrew is installed, stay in the terminal.app and install Python3 using t
 
     $ brew install python3
 
-Now, the commands <code>python3</code> and <code>pip3</code> are available on the command line. You can check the installed Python version with
+Now, the commands `python3` and `pip3` are available on the command line. You can check the installed Python version with
 
     $ python3 --version
     Python 3.6.0
 
 ## Install virtualenvwrapper
-Next, use <code>pip3</code> to install the virtualenvwrapper tool ([Official documentation](http://virtualenvwrapper.readthedocs.io/en/latest/install.html)) that makes working with virtual environments easy. I don't even know how much easier, because I only ever use virtualenvwrapper.
+Next, use `pip3` to install the virtualenvwrapper tool ([Official documentation](http://virtualenvwrapper.readthedocs.io/en/latest/install.html)) that makes working with virtual environments easy. I don't even know how much easier, because I only ever use virtualenvwrapper.
 
     $ pip3 install virtualenvwrapper
 
-Open the file <code>/Users/<your_username>/.bashrc</code> in your text editor (like SublimeText), and add the following lines at the bottom.
+Open the file `/Users/<your_username>/.bashrc` in your text editor (like SublimeText), and add the following lines at the bottom.
 
 ```
 export WORKON_HOME=$HOME/.virtualenvs
@@ -43,7 +43,7 @@ source /usr/local/bin/virtualenvwrapper.sh
 Quit and reload the terminal.app
 
 ## Create a virtual environment
-Finally, we can create a virtual environment. Go into our project directory (e.g. <code>~/code/secret_project/</code>,
+Finally, we can create a virtual environment. Go into our project directory (e.g. `~/code/secret_project/`,
 
     $ cd code/secret_project/
 
