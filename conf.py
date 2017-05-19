@@ -132,6 +132,7 @@ DEFAULT_LANG = "en"
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ("/", "Blog"),
+        ("/about/", "About"),
         ("/now/", "Now"),
         ("/contact/", "Contact"),
         # ("/what-i-do/", "What I Do"),
