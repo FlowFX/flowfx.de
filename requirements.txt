@@ -2,7 +2,7 @@ Logbook==1.0.0
 Mako==1.0.6
 Markdown==2.6.8
 MarkupSafe==1.0
-Nikola==7.8.8
+Nikola==7.8.9
 Pillow==4.1.1
 PyRSS2Gen==1.1
 PyYAML==3.12
