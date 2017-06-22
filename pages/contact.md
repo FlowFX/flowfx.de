@@ -19,17 +19,17 @@ You can also contact me via
   * [PGP-Key](/static/5F6BFA2A.asc)
   * Fingerprint: E493 8659 B54B B6B7 26E1 7D97 9DFE 19DE 5F6B FA2A
 
-or
+which I read from time to time, or
 
 ## secure instant messaging
 
-  * [Signal](https://whispersystems.org/) or
-  * WhatsApp
+  * [Signal](https://whispersystems.org/),
+  * WhatsApp and
+  * Threema: [P6XEBY5X](threema://add?id=9MFDMJTZ)
 
 if you happen to have my phone number.
 
 <!--
-  * Threema: [P6XEBY5X](threema://add?id=P6XEBY5X)
   * iMessage: [flowfx@icloud.com](imessage://flowfx@apple.com)
  -->
 
