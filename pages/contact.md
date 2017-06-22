@@ -23,14 +23,10 @@ or
 
 ## secure instant messaging
 
-but not right now. Because the repair shop where I had dropped off my phone got robbed. So no
-
-  * [Signal](https://whispersystems.org/) or 
+  * [Signal](https://whispersystems.org/) or
   * WhatsApp
 
-for now.
-
-<!-- if you happen to have my phone number (and my phone is working at the moment).-->
+if you happen to have my phone number.
 
 <!--
   * Threema: [P6XEBY5X](threema://add?id=P6XEBY5X)
@@ -40,8 +36,8 @@ for now.
 
 ## also
 
-* [GitHub](https://github.com/flowfx/)
 * [Facebook](https://www.facebook.com/FlowFX/)
+* [GitHub](https://github.com/flowfx/)
 * [Linkedin](https://www.linkedin.com/in/flowfx)
 
 
