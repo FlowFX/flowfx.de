@@ -2,7 +2,7 @@
 .. title: Neue Podcastfolgen Juli 2017
 .. slug: neue-podcastfolgen-juli-2017
 .. date: 2017-07-05 08:16:11 UTC-05:00
-.. tags: podcast, mexiko, c3s
+.. tags: podcast, mexiko, C3S
 .. category: 
 .. link: 
 .. description: 
