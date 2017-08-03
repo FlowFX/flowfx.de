@@ -10,7 +10,7 @@ Pygments==2.2.0
 Unidecode==0.04.21
 Yapsy==1.11.223
 blinker==1.4
-docutils==0.13.1
+docutils==0.14
 html5lib==0.999999999
 lxml==3.8.0
 pyparsing==2.2.0
