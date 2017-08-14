@@ -97,7 +97,7 @@ Travis offers a toool to encrypt files  that allows to add the SSH private key t
 
 First, I encrypt the deploy key,
 ```bash
-.travis $ travis login --github-token
+.travis $ travis login
 .travis $ travis encrypt-file deploy_key --add
 ```
 
