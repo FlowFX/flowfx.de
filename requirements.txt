@@ -1,6 +1,6 @@
 Logbook==1.1.0
 Mako==1.0.7
-Markdown==2.6.8
+Markdown==2.6.9
 MarkupSafe==1.0
 Nikola==7.8.9
 Pillow==4.2.1
