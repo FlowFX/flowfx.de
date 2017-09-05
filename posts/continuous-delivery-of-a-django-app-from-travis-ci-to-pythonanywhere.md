@@ -9,43 +9,48 @@
 .. type: text
 -->
 
-[Reggae CDMX](https://www.reggae-cdmx.com) is a calendar for all reggae and dub related events in Mexico City. I am currently working on a rewrite as a Django web app, and the site is not available. But what is already working is the continuous delivery pipeline from [GitHub](https://github.com/FlowFX/reggae-cdmx/) via [Travis CI](https://travis-ci.org/) to [PythonAnywhere](https://www.pythonanywhere.com/user/flowfx/consoles/).
+This post describes the configuration of a continuous delivery pipeline that deploys a Django project from [GitHub](https://github.com/FlowFX/unkenmathe.de/) via [Travis CI](https://travis-ci.org/) to [PythonAnywhere](https://www.pythonanywhere.com/user/flowfx/consoles/).
 
-(This is no introduction to Travis CI, PythonAnywhere nor Git.)
+All code samples come from a pet project of mine: [Unkenmathe](https://www.unkenmathe.de) ([GitHub repository](https://github.com/flowfx/unkenmathe.de)).
 
-Here is how I set it up:
+Please note that this is no introduction to Travis CI, PythonAnywhere nor Git.
+
+Here are the steps that I take.
 
 ## 1. Deploy Django project
 PythonAnywhere's guide for [Deploying an existing Django project on PythonAnywhere](https://help.pythonanywhere.com/pages/DeployExistingDjangoProject) explains everything to manually set  up the web app.
 
-For reference, the Reggae CDMX code is checked out to
+For reference, the Unkenmathe code is checked out to
+
 ```bash
-/var/www/sites/reggae-cdmx.com
+/var/www/sites/unkenmathe.de
 ```
 
 and the virtual environment lives at
+
 ```bash
-~/.virtualenvs/reggae-cdmx/
+~/.virtualenvs/unkenmathe.de/
 ```
 
 ## 2. Prepare Git push deployment
 PythonAnywhere has a comprehensive guide to set up [Git push deployments](https://blog.pythonanywhere.com/87/).
 
 My bare repository is located at
-```
-~/bare-repos/reggae-cdmx.git
+
+```bash
+~/bare-repos/unkenmathe.git
 ```
 
 
 The `post-receive` hook looks like this:
 
 ```
-# ~/bare-repos/reggae-cdmx.git/hooks/post-receive
+# ~/bare-repos/unkenmathe.git/hooks/post-receive
 #!/bin/bash
 
-BASE_DIR=/var/www/sites/reggae-cdmx.com
-PYTHON=$HOME/.virtualenvs/reggae-cdmx.com/bin/python
-PIP=$HOME/.virtualenvs/reggae-cdmx.com/bin/pip
+BASE_DIR=/var/www/sites/unkenmathe.de
+PYTHON=$HOME/.virtualenvs/unkenmathe.de/bin/python
+PIP=$HOME/.virtualenvs/unkenmathe.de/bin/pip
 MANAGE=$BASE_DIR/manage.py
 
 echo "=== configure Django ==="
@@ -58,10 +63,9 @@ echo "=== checkout new code ==="
 GIT_WORK_TREE=$BASE_DIR git checkout -f
 
 echo "=== install dependencies in virtual environment ==="
-$PIP install -q --upgrade -r $BASE_DIR/requirements/production.txt
+$PIP install -q -r $BASE_DIR/requirements/production.txt
 
-echo "=== compress and collect static files ==="
-$PYTHON $MANAGE compress --force
+echo "=== collect static files ==="
 $PYTHON $MANAGE collectstatic --no-input
 
 echo "=== update database ==="
@@ -70,14 +74,14 @@ $PYTHON $MANAGE migrate --no-input
 
 
 ## 3. Custom deployment with Travis CI
-I set up the repository in Travis CI for automatic builds on pull requests and branch changes. In order to deploy to PythonAnywhere, I use Travis's [Custom deployment](https://docs.travis-ci.com/user/deployment/custom/).
+I set up the repository in Travis CI for automatic builds on pull requests and branch pushes. In order to deploy to PythonAnywhere, I use Travis's [Custom deployment](https://docs.travis-ci.com/user/deployment/custom/).
 
 All Travis related files live in the `.travis` subdirectory of the Django project. This is of course completely arbitrary.
 
 ```bash
-~ $ cd ~/code/reggae-cdmx/
-reggae-cdmx $ mkdir .travis
-reggae-cdmx $ cd .travis
+~ $ cd ~/code/unkenmathe/
+unkenmathe $ mkdir .travis
+unkenmathe $ cd .travis
 ```
 
 ### Create SSH keys
@@ -88,32 +92,36 @@ reggae-cdmx $ cd .travis
 ```
 
 Copy the public key to the PythonAnywhere account (see PythonAnywhere: [SSH access](https://help.pythonanywhere.com/pages/SSHAccess)).
+
 ```bash
 .travis $ ssh-copy-id -i deploy_key flowfx@ssh.pythonanywhere.com
 ```
 
 ### Encrypt SSH key and add it to the repository
-Travis offers a toool to encrypt files  that allows to add the SSH private key to the Git repository. See [Encrypting files](https://docs.travis-ci.com/user/encrypting-files/) for a complete how-to.
+Travis offers a tool to encrypt files  that allows to add the SSH private key to the Git repository. See [Encrypting files](https://docs.travis-ci.com/user/encrypting-files/) for a complete how-to.
 
 First, I encrypt the deploy key,
+
 ```bash
 .travis $ travis login
 .travis $ travis encrypt-file deploy_key --add
 ```
 
 then add it to the Git repository.
+
 ```bash
 .travis $ git add deploy_key.enc
 ```
 
 Last, I make sure the decrypted key is never pushed to the public GitHub repository:
+
 ```bash
-reggae-cdmx $ echo 'deploy_key' >> .gitignore
+unkenmathe $ echo 'deploy_key' >> .gitignore
 ```
 
 
 ### Configure Travis CI
-A simplified `.travis.yml` configuration file ([here the one used for Reggae CDMX](https://github.com/FlowFX/reggae-cdmx/blob/master/.travis.yml)) looks like this. The `before_install` part is added automatically by the `travis encrypt-file deploy_key --add` command. The `ssh_known_hosts` line is also required for push deployment with Git/SSH.
+A simplified `.travis.yml` configuration file ([here the one used for Unkenmathe](https://github.com/FlowFX/unkenmathe.de/blob/master/.travis.yml)) looks like this. The `before_install` part is added automatically by the `travis encrypt-file deploy_key --add` command. The `ssh_known_hosts` line is also required for push deployment with Git/SSH.
 
 Hopefully, the rest is documented sufficiently by the comments.
 
@@ -139,7 +147,7 @@ after_success:
   - chmod 600 deploy_key
   - ssh-add deploy_key
   # configure remote repository
-  - git remote add pythonanywhere flowfx@ssh.pythonanywhere.com:/home/flowfx/bare-repos/reggae-cdmx.git
+  - git remote add pythonanywhere flowfx@ssh.pythonanywhere.com:/home/flowfx/bare-repos/unkenmathe.git
   # push master branch to production 
   - git push -f pythonanywhere master
   # reload PythonAnywhere web app via the API
@@ -154,7 +162,7 @@ notifications:
 
 
 ### Reload web app
-The `after_success` step includes the call to `.travis/reload-webapp.py`, which is a Python script to reload the web app via the [PythonAnywhere API](https://help.pythonanywhere.com/pages/API/). This is more or less copied directly from the documentation.
+The `after_success` step includes a call to `.travis/reload-webapp.py`, which is a Python script that reloads the web app via the [PythonAnywhere API](https://help.pythonanywhere.com/pages/API/). This is more or less copied directly from the documentation.
 
 ```
 # .travis/reload-webapp.py
@@ -203,5 +211,8 @@ These are the resources you need:
 ### Future
 I need to look into Travis's [Script deployment](https://docs.travis-ci.com/user/deployment/script/) which looks like a much cleaner way to run the deployment commands.
 
-### comment!
+### Comment!
 If you find the one error that I missed, [please tell me about it](link://slug/contact)!
+
+## Updates
+- 5/9/2017: used Unkenmathe as example project, formatting.
