@@ -28,3 +28,15 @@ Using [pytest fixtures](http://doc.pytest.org/en/latest/fixture.html):
         settings.DEFAULT_FILE_STORAGE = 'inmemorystorage.InMemoryStorage'
 
 That's it. When using this <code>in_memory</code> fixture in a test function, the files will never be written on disk.
+
+### Update 5/9/2017
+It's actually much easier than this. I now configure the in-memory file storage directly in the Django configuration file that pytest uses.
+
+```python
+# config/settings/testing.py
+"""Django configuration for testing and CI environments."""
+from .common import *
+
+# Use in-memory file storage
+DEFAULT_FILE_STORAGE = 'inmemorystorage.InMemoryStorage'
+```
