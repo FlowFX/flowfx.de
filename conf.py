@@ -816,24 +816,22 @@ FEED_READ_MORE_LINK = '<p><a href="{link}">{read_more}…</a> ({min_remaining_re
 FEED_LINKS_APPEND_QUERY = False
 
 # A HTML fragment describing the license, for the sidebar.
-# (translatable)
-# LICENSE = ""
-# I recommend using the Creative Commons' wizard:
-# https://creativecommons.org/choose/
 LICENSE = """
-All written words and my own photos are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>. Everything else is subject to copyright law, unless indicated otherwise.
+All content is licensed under a <a rel="license"
+href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>,
+unless stated otherwise. Embedded YouTube videos are excempt for obvious reasons.
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a>
 """
 
 # A small copyright notice for the page footer (in HTML).
-# (translatable)
 CONTENT_FOOTER = """
-<a href="/archive.html">Archive</a> – <a href="/rss.xml">RSS</a><br/>
-Contents &copy; 2009 – {date} by <a href="mailto:{email}">{author}</a> 
+<a href="/archive.html">Archive</a>
+– <a href="/rss.xml">RSS</a>
 – <a href="/contact/#impressum">Impressum</a> & <a href="/contact/#datenschutz">Datenschutz</a> 
 – Powered by <a href="https://getnikola.com" rel="nofollow">Nikola</a><br/><br/>
 {license}
 """
+#Contents &copy; 2009 – {date} by <a href="mailto:{email}">{author}</a> 
 
 # Things that will be passed to CONTENT_FOOTER.format().  This is done
 # for translatability, as dicts are not formattable.  Nikola will
