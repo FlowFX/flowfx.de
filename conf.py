@@ -828,10 +828,10 @@ CONTENT_FOOTER = """
 <a href="/archive.html">Archive</a>
 – <a href="/rss.xml">RSS</a>
 – <a href="/contact/#impressum">Impressum</a> & <a href="/contact/#datenschutz">Datenschutz</a> 
+– 2009-{date} by <a href="mailto:{email}">{author}</a> 
 – Powered by <a href="https://getnikola.com" rel="nofollow">Nikola</a><br/><br/>
 {license}
 """
-#Contents &copy; 2009 – {date} by <a href="mailto:{email}">{author}</a> 
 
 # Things that will be passed to CONTENT_FOOTER.format().  This is done
 # for translatability, as dicts are not formattable.  Nikola will
