@@ -24,7 +24,7 @@ which I read from time to time, or
 ## secure instant messaging
 
   * [Signal](https://whispersystems.org/),
-  * WhatsApp and
+  * WhatsApp
 
 if you happen to have my phone number.
 
