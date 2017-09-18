@@ -9,7 +9,7 @@
 .. type: text
 -->
 
-I am active on the [Twitter](https://twitter.com/flowfx_), and this new [Mastodon](https://ohai.su/@flowfx) thing.
+I am active on the [Twitter](https://twitter.com/flowfx_), and this new [Mastodon](https://chaos.social/@flowfx) thing.
 
 You can also contact me via
 
@@ -25,11 +25,11 @@ which I read from time to time, or
 
   * [Signal](https://whispersystems.org/),
   * WhatsApp and
-  * Threema: [P6XEBY5X](threema://add?id=9MFDMJTZ)
 
 if you happen to have my phone number.
 
 <!--
+  * Threema: [P6XEBY5X](threema://add?id=9MFDMJTZ)
   * iMessage: [flowfx@icloud.com](imessage://flowfx@apple.com)
  -->
 
