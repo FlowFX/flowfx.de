@@ -44,7 +44,7 @@ def test_example_form(name, age, validity):
     assert form.is_valid() is validity
 ```
 
-with the same test using multiple parameterization markers:
+to the same test using multiple parameterization markers:
  
 ```python
 @pytest.mark.parametrize(
