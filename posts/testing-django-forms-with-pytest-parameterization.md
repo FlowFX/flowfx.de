@@ -44,3 +44,5 @@ Here, three values are parameterized: the input for the two form fields and, giv
 When working in a TDD-style, I start with one test case, code the  form logic, then add the next test case by adding just one line of parameters. And repeat.
 
 <small>If you think there is a better way to test Django forms, please drop me a line [on the Twitter](https://www.twitter.com/flowfx_)!</small>
+
+### Update 10/10/2017: [pytest parameter matrices](link://slug/pytest-parameter-matrices)
