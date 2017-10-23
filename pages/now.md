@@ -15,13 +15,14 @@
 I'm in Mexico City,
 
 - developing a Django app for [Lexa.mx](https://www.lexa.mx/),
-- having fun with [LaTeX](https://www.latex-project.org/) again,
-- working on some side projects,
-- producing new episodes of [Tacos und Limetten](http://tacosundlimetten.de/) and [Cultural Comments](http://podcast.c3s.cc/),
-- reading [Neuromancer](https://en.wikipedia.org/wiki/Neuromancer), and
+- preparing a new podcast with [Nick Farr](https://twitter.com/Nickf4rr),
+- reading [Unbroken](https://en.wikipedia.org/wiki/Unbroken:_A_World_War_II_Story_of_Survival,_Resilience,_and_Redemption), and
 - mentally preparing for our return to Germany next year.
 
 
+<!-- - having fun with [LaTeX](https://www.latex-project.org/) again, -->
+<!-- - producing new episodes of [Tacos und Limetten](http://tacosundlimetten.de/) and [Cultural Comments](http://podcast.c3s.cc/), -->
+<!-- - reading [Neuromancer](https://en.wikipedia.org/wiki/Neuromancer), and -->
 <!-- - reading [The Kingkiller Chronicle](https://en.wikipedia.org/wiki/The_Kingkiller_Chronicle), and -->
 <!-- - working on a new, Django-based version of [Reggae CDMX](https://reggae-cdmx.com), -->
 <!-- - reading the phenomenal *[Expanse](https://en.wikipedia.org/wiki/The_Expanse_(novel_series))* series by James S. A. Corey, and -->
