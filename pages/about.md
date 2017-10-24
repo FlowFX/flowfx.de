@@ -58,8 +58,9 @@ This website is generated with [Nikola](https://getnikola.com/).
   * [Mac OS X](https://en.wikipedia.org/wiki/OS_X).
 
 
-<!--
 *****
+tbc
+<!--
 
 My journey to being able to honestly calling myself a developer or coder was long and slow. But I finally made it. [How I learned to code](#).
 
