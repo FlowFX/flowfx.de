@@ -11,47 +11,14 @@
 
 <div class="row">
   <div class="col-sm-8 col-sm-push-4">
-<p>My name is Florian Posdziech. I was born and raised in Germany, and went to school there, in the USA and in Norway. I currently live in Mexico City, Mexico.</p>
-<p>I’ve been a student, researcher, IT consultant, bike courier, tutor, teacher, system administrator, web developer and probably some more. Nowadays, I mostly develop Django and Python apps.</p>
+<p>My name is Florian Posdziech. I was born and raised in Germany, and went to school there, the USA and Norway. I currently live in Mexico City, Mexico.</p>
+<p>I’ve been a student, researcher, IT consultant, bike courier, tutor, teacher, system administrator and web developer. Nowadays, I mostly develop Django and Python apps.</p>
 <p>Check my <a href="link://slug/now">Now page</a> to see what I'm up to at the moment.
   </div>
   <div class="col-sm-4 col-sm-pull-8">
     <img src="/images/flowfx.jpg" alt="" class="img-responsive">
   </div>
 </div>
-
-*****
-
-<!--
-## Life
-
-I have lived, studied and worked in 4 different countries by now. Germany, of course, Rhode Island in the United States of America as a High School Senior, Norway as a University student, and currently Mexico, as a husband to a teacher.
-
-I've been a student, researcher, IT consultant, bike courier, tutor, teacher, systems administrator, web developer and probably some more 
-
-*****
--->
-
-## Tech
-
-Technologies, tools and services that I am currently working with (in descending order of fun):
-
-  * [Python](https://www.python.org/), [Django](https://www.djangoproject.com/).
-  * [LaTeX](https://www.latex-project.org).
-  * [Jinja2](http://jinja.pocoo.org).
-  * [Git](http://git-scm.com/), [GitHub](https://github.com/).
-  * [Travis CI](https://travis-ci.org/), [CircleCI](https://circleci.com).
-  * [VueJS](https://vuejs.org), [jQuery](https://jquery.com/).
-  * CSS, SASS, [Bootstrap 4](https://getbootstrap.com/).
-
-This website is generated with [Nikola](https://getnikola.com/).
-
-<!--
-### Operating systems I can tolerate:
-  * [GNU/Linux](https://www.gnu.org/gnu/linux-and-gnu.en.html). I'm comfortable with Ubuntu, Debian and Arch.
-  * [Mac OS X](https://en.wikipedia.org/wiki/OS_X).
--->
-
 
 *****
 
@@ -62,7 +29,36 @@ I am an avid podcast listener. My recommendations are: [Hardcore History](http:/
 I also produce podcasts of my own: [Cultural Comments](#) – the C3S podcast and [Tacos und Limetten](https://tacosundlimetten.de/), about Mexico.
 
 <!--
+## Life
+I have lived, studied and worked in 4 different countries by now. Germany, of course, Rhode Island, USA as a High School senior, Norway as a University student, and currently Mexico, as a husband to a teacher.
 
+I've been a student, researcher, IT consultant, bike courier, tutor, teacher, systems administrator, web developer and probably some more 
+
+I’ve been a student, researcher, IT consultant, bike courier, tutor, teacher, system administrator and web developer. Nowadays, I mostly develop Django and Python apps.
+-->
+
+*****
+## Tech
+
+Technologies, tools and services that I am currently working with (in descending order of fun):
+
+  * [Python](https://www.python.org/), [Django](https://www.djangoproject.com/).
+  * [LaTeX](https://www.latex-project.org).
+  * [pytest](#).
+  * [Jinja2](http://jinja.pocoo.org).
+  * [Git](http://git-scm.com/), [GitHub](https://github.com/).
+  * [Travis CI](https://travis-ci.org/), [CircleCI](https://circleci.com).
+  * [VueJS](https://vuejs.org), [jQuery](https://jquery.com/).
+  * CSS, SASS, [Bootstrap 4](https://getbootstrap.com/).
+
+This website is generated with [Nikola](https://getnikola.com/).
+
+### Operating systems I can tolerate:
+  * [GNU/Linux](https://www.gnu.org/gnu/linux-and-gnu.en.html). I'm comfortable with Ubuntu, Debian and Arch.
+  * [Mac OS X](https://en.wikipedia.org/wiki/OS_X).
+
+
+<!--
 *****
 
 My journey to being able to honestly calling myself a developer or coder was long and slow. But I finally made it. [How I learned to code](#).
