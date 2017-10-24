@@ -15,24 +15,17 @@
 I'm in Mexico City,
 
 - developing a Django app for [Lexa.mx](https://www.lexa.mx/),
+- working on some Django-based side projects,
 - preparing a new podcast with [Nick Farr](https://twitter.com/Nickf4rr),
 - reading [Unbroken](https://en.wikipedia.org/wiki/Unbroken:_A_World_War_II_Story_of_Survival,_Resilience,_and_Redemption), and
 - mentally preparing for our return to Germany next year.
 
 
-<!-- - having fun with [LaTeX](https://www.latex-project.org/) again, -->
 <!-- - producing new episodes of [Tacos und Limetten](http://tacosundlimetten.de/) and [Cultural Comments](http://podcast.c3s.cc/), -->
-<!-- - reading [Neuromancer](https://en.wikipedia.org/wiki/Neuromancer), and -->
 <!-- - reading [The Kingkiller Chronicle](https://en.wikipedia.org/wiki/The_Kingkiller_Chronicle), and -->
 <!-- - working on a new, Django-based version of [Reggae CDMX](https://reggae-cdmx.com), -->
 <!-- - reading the phenomenal *[Expanse](https://en.wikipedia.org/wiki/The_Expanse_(novel_series))* series by James S. A. Corey, and -->
-<!-- - still keeping my clients' WordPress sites running and humming. -->
-<!-- - preparing for our next trip to the South Mexican jungle.-->
-<!-- - studying [User Story Mapping](http://shop.oreilly.com/product/0636920033851.do).-->
-<!-- - reading lots of stupid start-up/silicon valley books. Because reasons.-->
-<!-- - working on client projects in [Kirby](https://getkirby.com/).-->
-<!-- - running and [Reggae CDMX](https://reggae-cdmx.com), a comprehensive event calendar for the Reggae and Dub scene in Mexico City.-->
 <!-- - still studying [Test-Driven Development](http://www.obeythetestinggoat.com/).-->
 
 
-When my activities or priorities change, I’ll update this page. Last update was August 18th, 2017.
+When my activities or priorities change, I’ll update this page. Last update was October 23rd, 2017.
