@@ -28,14 +28,6 @@ I am an avid podcast listener. My recommendations are: [Hardcore History](http:/
 
 I also produce podcasts of my own: [Cultural Comments](#) – the C3S podcast and [Tacos und Limetten](https://tacosundlimetten.de/), about Mexico.
 
-<!--
-## Life
-I have lived, studied and worked in 4 different countries by now. Germany, of course, Rhode Island, USA as a High School senior, Norway as a University student, and currently Mexico, as a husband to a teacher.
-
-I've been a student, researcher, IT consultant, bike courier, tutor, teacher, systems administrator, web developer and probably some more 
-
-I’ve been a student, researcher, IT consultant, bike courier, tutor, teacher, system administrator and web developer. Nowadays, I mostly develop Django and Python apps.
--->
 
 *****
 ## Tech
@@ -60,51 +52,3 @@ This website is generated with [Nikola](https://getnikola.com/).
 
 *****
 tbc
-<!--
-
-My journey to being able to honestly calling myself a developer or coder was long and slow. But I finally made it. [How I learned to code](#).
-
-I like testing stuff, and I especially like testing stuff with pytest. So [I write about how I'm using pytest](http://flowfx.de/categories/pytest/) from time to time.
-
-If you really, really want to, you can check out my [CV](/cv/).
-
-As for web development, I must consider myself pretty old-school. My most advanced adventures in the Frontend world are with jQuery and VueJS. But I'm learning every day. Whether I want to or not.
-
-*****
-
-I took my first steps with Linux in 2004, while living in Trondheim. There, I finally had a room-mate that knew her stuff and could teach me. I went all in with Gentoo Linux. Later came Debian, Ubuntu and Arch. If I had a second machine for work besides my MacBook, I'd put Arch LInux on it.
-
-[GNU/Linux](https://www.gnu.org/gnu/linux-and-gnu.en.html),
-
-*****
-
-### Typesetting
-
-I'm a pysicist by training, so I _love_ [LaTeX](https://www.latex-project.org). 
-
-As every sane person does, I love [Markdown](https://daringfireball.net/projects/markdown/), too.
-
-*****
-
-I played with [Flask](http://flask.pocoo.org) for a while, using [SQLAlchemy](https://www.sqlalchemy.org/) and everything, and it taught me a lot. Then I seriously tried out [Django](https://www.djangoproject.com/), and I'm not moving back anytime soon. The Django magic is the right thing for me. Its ORM as well.
-
-*****
-
-The only editor I can really work with anymore is [VIM](http://www.vim.org/). Most of my time I spend in the [PyCharm](https://www.jetbrains.com/pycharm/) IDE in VIM mode.
-
-*****
-
-#### others that I use
-
-  * Tools that I am especially fond of: [LaTeX](https://www.latex-project.org/), [nvALT](http://brettterpstra.com/projects/nvalt/), [Pacifico Clara](http://www.discoverpacifico.com/).
-
--->
-
-<!--
-### My favorite web services for hosting and domains:
-
-  * [domainFactory](https://www.df.eu/) (Germand domain registry and hosting provider).
-  * [Hover](https://hover.com/mdaQ1dJv) (North American domain registry).
-  * [DreamHost](https://www.dreamhost.com) (North American hosting provider).
-  * [PythonAnywhere](https://www.pythonanywhere.com/) (Hosting for Python Apps).
--->
