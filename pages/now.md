@@ -14,10 +14,11 @@
 
 I'm in Mexico City,
 
-- developing a Django app for [Lexa.mx](https://www.lexa.mx/),
+- developing the [Lexa.mx](https://www.lexa.mx/) Django app,
 - working on some Django-based side projects,
-- preparing a new podcast with [Nick Farr](https://twitter.com/Nickf4rr), and
-- mentally preparing for our return to Germany next year.
+- starting to look for a new job sometime next year,
+- recording episodes of [Several Ways To Live In Mexico](https://severalwaystolive.com/) with [Nick Farr](https://twitter.com/Nickf4rr), and
+- preparing for our return to Germany next year.
 
 
 <!-- - producing new episodes of [Tacos und Limetten](http://tacosundlimetten.de/) and [Cultural Comments](http://podcast.c3s.cc/), -->
@@ -28,4 +29,4 @@ I'm in Mexico City,
 <!-- - reading book 3 of the [Three body problem](https://en.wikipedia.org/wiki/The_Three-Body_Problem_(novel)) trilogy,-->
 
 
-When my activities or priorities change, I’ll update this page. Last update was November 9th, 2017.
+When my activities or priorities change, I’ll update this page. Last update was November 27th, 2017.
