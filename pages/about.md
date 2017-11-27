@@ -26,7 +26,7 @@
 
 I am an avid podcast listener. My recommendations are: [Hardcore History](http://www.dancarlin.com/hardcore-history-series/) by Dan Carlin (especially the WW1 and Djingis Khan series), [The Poscast](https://itunes.apple.com/us/podcast/the-poscast/id757346885) (pure sillyness), and in German, of course [Logbuch:Netzpolitik](https://logbuch-netzpolitik.de/).
 
-I also produce podcasts of my own: [Cultural Comments](#) – the C3S podcast and [Tacos und Limetten](https://tacosundlimetten.de/), about Mexico.
+I also produce podcasts of my own: [Cultural Comments](#) – the C3S podcast and [Tacos und Limetten](https://tacosundlimetten.de/), about Mexico. Newest addition to this list is [Several Ways To Live In Mexico City](https://severalwaystolive.com/), an English speaking podcast about life and food in Mexico.
 
 
 *****
