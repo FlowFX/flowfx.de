@@ -1,15 +1,15 @@
 <!--
-.. title: Continuous delivery of a Django app from Travis CI to PythonAnywhere
+.. title: Continuous deployment of a Django app from Travis CI to PythonAnywhere
 .. slug: continuous-delivery-of-a-django-app-from-travis-ci-to-pythonanywhere
 .. date: 2017-07-27 12:20:32 UTC-05:00
-.. tags: pythonanywhere, django, python, travis ci, continuous delivery, github
+.. tags: pythonanywhere, django, python, travis ci, continuous deployment, github
 .. category: 
 .. link: 
 .. description: 
 .. type: text
 -->
 
-This post describes the configuration of a continuous delivery pipeline that deploys a Django project from [GitHub](https://github.com/FlowFX/unkenmathe.de/) via [Travis CI](https://travis-ci.org/) to [PythonAnywhere](https://www.pythonanywhere.com/user/flowfx/consoles/).
+This post describes the configuration of a continuous deployment pipeline that deploys a Django project from [GitHub](https://github.com/FlowFX/unkenmathe.de/) via [Travis CI](https://travis-ci.org/) to [PythonAnywhere](https://www.pythonanywhere.com/user/flowfx/consoles/).
 
 All code samples come from a pet project of mine: [Unkenmathe](https://www.unkenmathe.de) ([GitHub repository](https://github.com/flowfx/unkenmathe.de)).
 
