@@ -14,11 +14,11 @@
 
 I'm in Mexico City,
 
-- developing a Django app for [Lexa.mx](https://www.lexa.mx/),
-- working on some Django-based side projects,
-- preparing a new podcast with [Nick Farr](https://twitter.com/Nickf4rr),
-- reading [Unbroken](https://en.wikipedia.org/wiki/Unbroken:_A_World_War_II_Story_of_Survival,_Resilience,_and_Redemption), and
-- mentally preparing for our return to Germany next year.
+- finishing work on the [Lexa.mx](https://www.lexa.mx/) Django app,
+- looking for a new, remote-working opportunity as a junior developer or test engineer, 
+- recording episodes of [Several Ways To Live In Mexico](https://severalwaystolive.com/) with [Nick Farr](https://twitter.com/Nickf4rr),
+- re-start working on [Reggae CDMX](https://github.com/FlowFX/reggae-cdmx.com) and [Unkenmathe](https://github.com/FlowFX/unkenmathe.de), and
+- preparing for our return to Germany next year.
 
 
 <!-- - producing new episodes of [Tacos und Limetten](http://tacosundlimetten.de/) and [Cultural Comments](http://podcast.c3s.cc/), -->
@@ -26,6 +26,7 @@ I'm in Mexico City,
 <!-- - working on a new, Django-based version of [Reggae CDMX](https://reggae-cdmx.com), -->
 <!-- - reading the phenomenal *[Expanse](https://en.wikipedia.org/wiki/The_Expanse_(novel_series))* series by James S. A. Corey, and -->
 <!-- - still studying [Test-Driven Development](http://www.obeythetestinggoat.com/).-->
+<!-- - reading book 3 of the [Three body problem](https://en.wikipedia.org/wiki/The_Three-Body_Problem_(novel)) trilogy,-->
 
 
-When my activities or priorities change, I’ll update this page. Last update was October 23rd, 2017.
+When my activities or priorities change, I’ll update this page. Last update was December 13th, 2017.
