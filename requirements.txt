@@ -3,7 +3,7 @@ Mako==1.0.7
 Markdown==2.6.10
 MarkupSafe==1.0
 Nikola==7.8.10
-Pillow==4.3.0
+Pillow==5.0.0
 PyRSS2Gen==1.1
 PyYAML==3.12
 Pygments==2.2.0
