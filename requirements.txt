@@ -7,7 +7,7 @@ Pillow==5.0.0
 PyRSS2Gen==1.1
 PyYAML==3.12
 Pygments==2.2.0
-Unidecode==0.04.21
+Unidecode==1.0.22
 Yapsy==1.11.223
 blinker==1.4
 docutils==0.14
