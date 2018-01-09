@@ -26,7 +26,7 @@ At the same time, this was my first serious Django project. I had to learn _a lo
 
 My favorite part of the Lexa app is how we use [Jinja2](http://jinja.pocoo.org/) templates and [LaTeX](https://en.wikipedia.org/wiki/LaTeX) to dynamically generate the contract PDFs. I've wanted to do this for a long time, ever since a friend and I got the idea for [Unkenmathe](https://github.com/FlowFX/unkenmathe.de).
 
-The frontend is ... subject to future improvements. I don't feel comfortable writing CSS because it is so much trial and error for me. For a little bit of dynamic behavior, I sprinkled some [VueJS](https://vuejs.org/) and jQuery on top of everything, mainly the forms, which works nicely. But before I do more JavaScript development I first have to learn how to test that stuff. Developing the backend following the [TDD](https://en.wikipedia.org/wiki/Test-driven_development) methodology and then testing all the frontend functions manually in the browser feels very wrong.
+The frontend is ... subject to future improvements. I don't feel comfortable writing CSS because it is so much trial and error for me. For a little bit of dynamic behavior, I sprinkled some [VueJS](https://vuejs.org/) and jQuery on top of everything, mainly the forms, which works nicely. But before I do more JavaScript development I first have to learn how to test that stuff. Developing the backend following the <abbr title="Test-Driven Development">TDD</abbr> methodology and then testing all the frontend functions manually in the browser feels very wrong.
 
 I also set up and maintained our continuous delivery pipeline using GitHub, CircleCI and [PythonAnywhere](https://www.pythonanywhere.com/).
 
@@ -72,7 +72,7 @@ But this way I got to know my friend [Angélica](https://angelica-ramos.com/) wi
 ## 2016
 I had wanted to learn to program for a long time, but it had never clicked. Reading "programming" books never worked for me.
 
-2016 it finally did click, and it took a book written for non-developers: [Hello Web App](hellowebbooks.com/learn-django/) by [Tracy Osborn](https://twitter.com/limedaring). It's an introduction to Django for designers and provided me with enough knowledge to later advance to the two other Django books that I cannot recommend enough: [<strike>Obey the Testing Goat</strike> Test-Driven Development with Python](http://www.obeythetestinggoat.com/pages/book.html) by [Harry Percival](@hjwp) and [Two Scoops of Django](https://www.twoscoopspress.com/) by [Audrey Roy Greenfeld](https://twitter.com/audreyr) and [Daniel Roy Greenfeld](https://twitter.com/pydanny).
+2016 it finally did click, and it took a book written for non-developers: [Hello Web App](hellowebbooks.com/learn-django/) by [Tracy Osborn](https://twitter.com/limedaring). It's an introduction to Django for designers and provided me with enough knowledge to later advance to the two other Django books that I cannot recommend enough: [<s>Obey the Testing Goat</s> Test-Driven Development with Python](http://www.obeythetestinggoat.com/pages/book.html) by [Harry Percival](@hjwp) and [Two Scoops of Django](https://www.twoscoopspress.com/) by [Audrey Roy Greenfeld](https://twitter.com/audreyr) and [Daniel Roy Greenfeld](https://twitter.com/pydanny).
 
 I've since started working on a couple personal side projects, most notably [Unkenmathe](https://github.com/FlowFX/unkenmathe.de/) and [Reggae CDMD](https://www.reggae-cdmx.com/) which are both still works in progress.
 
