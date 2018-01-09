@@ -2,7 +2,7 @@
 .. title: A short work history. Looking for more.
 .. slug: looking-for-work-django-developer-can-do-a-lot
 .. date: 2018-01-09 10:08:55 UTC-06:00
-.. tags: job, python, django, draft
+.. tags: job, python, django
 .. category: 
 .. link: 
 .. description: 
