@@ -39,9 +39,7 @@ For those not interested in my further work history and how I got to where I am 
 ## 2009
 A little bit of history.
 
-I left University in early 2009 with a degree in physics, the good-old German "Diplom" (equivalent to a Master of Science). This single piece of paper is incredibly valuable, especially because nobody knows what it actually represents.
-
-From time to time I am reminded of what I did learned in University, and that is a particular way of thinking, ingrained into us students by endless exercises in higher Mathematics. My best example is [this story of how I finally understood list comprehensions](https://flowfx.de/blog/list-comprehensions-for-physicists/).
+I left University in early 2009 with a degree in physics, the good-old German "Diplom" (equivalent to a Master of Science). From time to time I am reminded of what I did learned in University, and that is a particular way of thinking, ingrained into us students by endless exercises in higher Mathematics. My best example is [this story of how I finally understood list comprehensions](https://flowfx.de/blog/list-comprehensions-for-physicists/).
 
 But 2009 was not a good year for anybody looking for a job, let alone someone without any real world skills. My only coding skills back then consisted of a little bit of Matlab, numerically solving ordinary differential equations. Sounds amazing, but  it's really not. At least I got to experience working as a bike messenger for a few months.
 
