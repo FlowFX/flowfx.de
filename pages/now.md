@@ -15,7 +15,7 @@
 I'm in Mexico City,
 
 - looking for a new job, either remote or located close to Mannheim, Germany,
-- working on the [Full Stack Web Development](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004) nanodegree program at [Udacity](https://www.udacity.com/) filling some knowledge gaps,
+- working on the [Full Stack Web Development](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004) nanodegree program at [Udacity](https://www.udacity.com/) to fill some knowledge gaps,
 - reading the Alexander von Humboldt biography [The Invention of Nature](http://www.andreawulf.com/about-the-invention-of-nature.html),
 - recording episodes of [Several Ways To Live In Mexico](https://severalwaystolive.com/) with [Nick Farr](https://twitter.com/Nickf4rr),
 - working on a new, Django-based version of [Reggae CDMX](https://reggae-cdmx.com), and
