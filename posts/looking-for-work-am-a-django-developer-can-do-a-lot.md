@@ -72,7 +72,7 @@ I had wanted to learn to program for a long time, but it had never clicked. Read
 
 2016 it finally did click, and it took a book written for non-developers: [Hello Web App](hellowebbooks.com/learn-django/) by [Tracy Osborn](https://twitter.com/limedaring). It's an introduction to Django for designers and provided me with enough knowledge to later advance to the two other Django books that I cannot recommend enough: [<s>Obey the Testing Goat</s> Test-Driven Development with Python](http://www.obeythetestinggoat.com/pages/book.html) by [Harry Percival](@hjwp) and [Two Scoops of Django](https://www.twoscoopspress.com/) by [Audrey Roy Greenfeld](https://twitter.com/audreyr) and [Daniel Roy Greenfeld](https://twitter.com/pydanny).
 
-I've since started working on a couple personal side projects, most notably [Unkenmathe](https://github.com/FlowFX/unkenmathe.de/) and [Reggae CDMD](https://www.reggae-cdmx.com/) which are both still works in progress.
+I've since started working on a couple personal side projects, most notably [Unkenmathe](https://github.com/FlowFX/unkenmathe.de/) and [Reggae CDMX](https://github.com/FlowFX/reggae-cdmx.com) which are both still works in progress.
 
 In December of 2016 Angélica and I then sat down with the 3 lawyers that had the idea for Lexa.mx, and that would be my primary occupation for the next 12 months.
 
