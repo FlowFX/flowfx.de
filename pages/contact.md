@@ -9,7 +9,7 @@
 .. type: text
 -->
 
-I am active on the [Twitter](https://twitter.com/flowfx_), and this new [Mastodon](https://chaos.social/@flowfx) thing.
+I am active on the [Twitter](https://twitter.com/flowfx_) and the [Fediverse](https://chaos.social/@flowfx) aka Mastodon.
 
 You can also contact me via
 
