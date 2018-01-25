@@ -96,5 +96,5 @@ If all this makes you want to think about maybe hiring me, or if you know a frie
 
 Until then I'll be happily working on Udacity's [Full Stack Web Development Nanodegree](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004) program to fill some knowledge gaps.
 
-<small>**Update 13/01/2018: minor edits.**</small>
+<small>**Update 13/01/2018: minor edits.**</small><br>
 <small>**Update 24/01/2018: generalize desired role.**</small>
