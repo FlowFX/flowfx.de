@@ -24,8 +24,11 @@ which I read from time to time, or
 ## secure instant messaging
 
   * Threema: [W74AJR5U](threema://add?id=W74AJR5U),
+  * [Wire](https://wire.com/): @flowfx,
+
+and, preferably,
+
   * [Signal](https://whispersystems.org/),
-  * WhatsApp
 
 if you happen to have my phone number.
 
