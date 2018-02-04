@@ -24,6 +24,7 @@ which I read from time to time, or
 ## secure instant messaging
 
   * Threema: [W74AJR5U](threema://add?id=W74AJR5U),
+  * [Keybase](https://keybase.io/flowfx): flowfx,
   * [Wire](https://wire.com/): @flowfx,
 
 and, preferably,
