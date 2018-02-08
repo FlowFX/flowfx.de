@@ -1,4 +1,4 @@
-Logbook==1.1.0
+Logbook==1.2.1
 Mako==1.0.7
 Markdown==2.6.11
 MarkupSafe==1.0
