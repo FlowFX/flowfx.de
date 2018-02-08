@@ -11,7 +11,7 @@
 
 My wife Kathrin will not like this post. She will find it self-deprecating and underselling my abilities. But this is my blog, so I don't care.
 
-**TL;DR: I am looking for a job as a <s>Django/Python</s> web/software developer or a test (automation) engineer, working remotely or in the Rhein-Neckar area in Germany. Starting now.**
+**TL;DR: I am looking for a job as a Django/Python web developer or a test (automation) engineer, working remotely or in the Rhein-Neckar area in Germany. Starting now.**
 
 
 ## 2017
@@ -78,7 +78,7 @@ In December of 2016 Angélica and I then sat down with the 3 lawyers that had th
 
 <a name="to-the-table"></a>
 ## What else I'm bringing to the table
-I am looking for a job as a <s>Django/Python</s> **web or software developer**.
+I am looking for a job as a **Django/Python web developer**.
 
 After working on many projects as the sole developer, it's way past time for me to join a team of developers and learn that part of software and web development.
 
@@ -97,4 +97,3 @@ If all this makes you want to think about maybe hiring me, or if you know a frie
 Until then I'll be happily working on Udacity's [Full Stack Web Development Nanodegree](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004) program to fill some knowledge gaps.
 
 <small>**Update 13/01/2018: minor edits.**</small><br>
-<small>**Update 24/01/2018: generalize desired role.**</small>
