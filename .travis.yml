@@ -6,10 +6,11 @@ cache:
   - cache
   - output
 python:
-- 3.5
+- 3.6
 addons:
   apt:
     packages:
+    - pipenv
     - graphviz
     - yui-compressor
   ssh_known_hosts: anaconda.dreamhost.com
@@ -17,8 +18,7 @@ before_install:
 - openssl aes-256-cbc -K $encrypted_f658ad278ec9_key -iv $encrypted_f658ad278ec9_iv
   -in deploy_key.enc -out deploy_key -d
 install:
-- pip install 'Nikola[extras]'
-- pip install -r requirements.txt
+- pipenv install
 script:
 - nikola build
 after_success:
