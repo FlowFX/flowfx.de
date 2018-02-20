@@ -15,7 +15,7 @@ You can also contact me via
 
 ## email
 
-  * <a href = '&#109;&#97;&#105;&#108;&#116;&#111;:&#104;&#97;&#108;&#108;&#111;&#64;&#102;&#108;&#111;&#119;&#102;&#120;&#46;&#100;&#101;'>&#104;&#97;&#108;&#108;&#111;&#64;&#102;&#108;&#111;&#119;&#102;&#120;&#46;&#100;&#101;</a>
+  * hallo (at) <span style="display: none">don't spam me</span> flowfx (dot) <span style="display: none">really, please don't</span> de
   * [PGP-Key](/static/5F6BFA2A.asc)
   * Fingerprint: E493 8659 B54B B6B7 26E1 7D97 9DFE 19DE 5F6B FA2A
 
