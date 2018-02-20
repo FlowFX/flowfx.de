@@ -27,7 +27,7 @@ SITE_URL = "https://flowfx.de/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://flowfx.org/"
-BLOG_EMAIL = "hallo@flowfx.de"
+BLOG_EMAIL = ""
 BLOG_CONTACT_PAGE = "/contact/"
 BLOG_DESCRIPTION = "Florian Posdziech – reggae trombone player. web developer. expat."  # (translatable)
 
