@@ -37,7 +37,6 @@ if you happen to have my phone number.
 
 * [Facebook](https://www.facebook.com/FlowFX/)
 * [GitHub](https://github.com/flowfx/)
-* [Linkedin](https://www.linkedin.com/in/flowfx)
 
 
 ****
