@@ -9,6 +9,10 @@
 .. type: text
 -->
 
+*Update 23/02/2018: don't do this! Do this: [My Python Development Environment, 2018 Edition](https://jacobian.org/writing/python-environment-2018/) by Jacop Kaplan-Moss.*
+
+---
+
 This one is for my amazing designer [Angélica](https://angelica-ramos.com). I should have written it before I failed to install a Python virtual environment on her machine this week.
 
 First of all: trust me, when I tell you that you want to use a virtual environment for your Python work. Second: there are many ways to install and use virtual environments. This one works for me(TM).
