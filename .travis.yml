@@ -1,10 +1,4 @@
 language: python
-cache:
-  apt: true
-  pip: true
-  directories:
-  - cache
-  - output
 python:
 - 3.6
 addons:
