@@ -9,7 +9,7 @@
 .. type: text
 -->
 
-*Update 23/02/2018: don't do this! Do this: [My Python Development Environment, 2018 Edition](https://jacobian.org/writing/python-environment-2018/) by Jacop Kaplan-Moss.*
+**Update 23/02/2018: don't do this! Do this: [My Python Development Environment, 2018 Edition](https://jacobian.org/writing/python-environment-2018/) by Jacop Kaplan-Moss.**
 
 ---
 
