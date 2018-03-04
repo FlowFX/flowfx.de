@@ -29,7 +29,7 @@ SITE_URL = "https://flowfx.de/"
 # BASE_URL = "https://flowfx.org/"
 BLOG_EMAIL = ""
 BLOG_CONTACT_PAGE = "/contact/"
-BLOG_DESCRIPTION = "Florian Posdziech – reggae trombone player. web developer. expat."  # (translatable)
+BLOG_DESCRIPTION = "Personal blog of Florian Posdziech: reggae trombone player, python and django developer, expat."  # (translatable)
 
 # Nikola is multilingual!
 #
