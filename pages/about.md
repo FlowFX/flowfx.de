@@ -32,22 +32,16 @@ I also produce podcasts of my own: [Cultural Comments](#) – the C3S podcast an
 *****
 ## Tech
 
-Technologies, tools and services that I am currently working with (in descending order of fun):
+Technologies, tools and services that I like working with:
 
-  * [Python](https://www.python.org/), [Django](https://www.djangoproject.com/).
-  * [LaTeX](https://www.latex-project.org).
-  * [pytest](#).
-  * [Jinja2](http://jinja.pocoo.org).
-  * [Git](http://git-scm.com/), [GitHub](https://github.com/).
-  * [Travis CI](https://travis-ci.org/), [CircleCI](https://circleci.com).
-  * [VueJS](https://vuejs.org), [jQuery](https://jquery.com/).
-  * CSS, SASS, [Bootstrap 4](https://getbootstrap.com/).
+  * [Python](https://www.python.org/), [Django](https://www.djangoproject.com/)
+  * [LaTeX](https://www.latex-project.org)
+  * [pytest](https://docs.pytest.org/en/latest/)
+  * [Git](http://git-scm.com/)
+  * [Travis CI](https://travis-ci.org/)
+  * [PythonAnywhere](https://www.pythonanywhere.com/)
 
-This website is generated with [Nikola](https://getnikola.com/).
-
-### Operating systems I can tolerate:
-  * [GNU/Linux](https://www.gnu.org/gnu/linux-and-gnu.en.html). I'm comfortable with Ubuntu, Debian and Arch.
-  * [Mac OS X](https://en.wikipedia.org/wiki/OS_X).
+This website is generated with [Nikola](https://getnikola.com/). You can find my GitHub profile on … [GitHub](https://github.com/flowfx/).
 
 
 *****
