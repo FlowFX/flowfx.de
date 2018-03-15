@@ -15,14 +15,14 @@
 I'm in Mexico City,
 
 - [looking for a new job](link://slug/looking-for-work-django-developer-can-do-a-lot), either remote or located close to Mannheim, Germany,
-- working on the [Full Stack Web Development](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004) nanodegree program at [Udacity](https://www.udacity.com/) to fill some knowledge gaps,
-- reading the Alexander von Humboldt biography [The Invention of Nature](http://www.andreawulf.com/about-the-invention-of-nature.html),
-- recording episodes of [Several Ways To Live In Mexico](https://severalwaystolive.com/) with [Nick Farr](https://twitter.com/Nickf4rr),
-- working on a new, Django-based version of [Reggae CDMX](https://reggae-cdmx.com), and
+- reading  [Ancillary Justice](https://www.goodreads.com/book/show/17333324-ancillary-justic) by Ann Leckie,
+- recording [Several Ways To Live In Mexico](https://severalwaystolive.com/) with [Nick Farr](https://twitter.com/Nickf4rr),
+- working on a new version of [Reggae CDMX](https://reggae-cdmx.com), and
 - looking forward to our return to Germany in July.
 
 
+<!-- - working on the [Full Stack Web Development](https://www.udacity.com/course/full-stack-web-developer-nanodegree-nd004) nanodegree program at [Udacity](https://www.udacity.com/) to fill some knowledge gaps,-->
 <!-- - producing new episodes of [Tacos und Limetten](http://tacosundlimetten.de/) and [Cultural Comments](http://podcast.c3s.cc/), -->
 <!-- - reading book 6 of the phenomenal *[Expanse](https://en.wikipedia.org/wiki/The_Expanse_(novel_series))* series by James S. A. Corey, and -->
 
-When my activities or priorities change, I’ll update this page. Last update was January 9th, 2018.
+When my activities or priorities change, I’ll update this page. Last update was March 15th, 2018.
