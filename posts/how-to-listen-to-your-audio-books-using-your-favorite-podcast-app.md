@@ -24,7 +24,7 @@ I want the same for my for [Audible](https://www.audible.de/) books. I love audi
 
 ## How to backup your Audible books
 
-Creating a backup mp3 of audible books is surprisingly simple. Thanks to [@octotherp](https://chaos.social/@octotherp) for this tipp!
+Creating a backup mp3 of audible books is surprisingly simple. Thanks to [@octotherp](https://chaos.social/@octotherp) for [this tipp](https://chaos.social/@octotherp/99688008980687106/)!
 
 <iframe src="https://chaos.social/@octotherp/99688008980687106/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400"></iframe><script src="https://chaos.social/embed.js" async="async"></script>
 
