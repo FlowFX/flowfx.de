@@ -38,6 +38,19 @@ I also produce podcasts of my own: [Cultural Comments](#) – the C3S podcast an
 
 This website is generated with [Nikola](https://getnikola.com/). You can find my GitHub profile on … [GitHub](https://github.com/flowfx/).
 
+*****
+## Tech
+
+Technologies, tools and services that I like working with:
+
+* [Python](https://www.python.org/)
+* [Django](https://www.djangoproject.com/)
+* [LaTeX](https://www.latex-project.org)
+* [pytest](https://docs.pytest.org/en/latest/)
+* Vim, tmux, [Git](http://git-scm.com/)
+* [Travis CI](https://travis-ci.org/)
+* [PythonAnywhere](https://www.pythonanywhere.com/)
 
 *****
+
 tbc
