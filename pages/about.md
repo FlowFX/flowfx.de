@@ -47,9 +47,10 @@ Technologies, tools and services that I like working with:
 * [Django](https://www.djangoproject.com/)
 * [LaTeX](https://www.latex-project.org)
 * [pytest](https://docs.pytest.org/en/latest/)
-* Vim, tmux, [Git](http://git-scm.com/)
+* [Git](http://git-scm.com/)
 * [Travis CI](https://travis-ci.org/)
 * [PythonAnywhere](https://www.pythonanywhere.com/)
+* Vim, tmux, [ZSh](https://www.zsh.org/)
 
 *****
 
