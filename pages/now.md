@@ -14,7 +14,7 @@
 
 I'm in Mexico City,
 
-- [studying Ruby](https://learnrubythehardway.org/book/) and [Rails](https://www.railstutorial.org/book/) because reasons,
+- studying [Ruby](https://learnrubythehardway.org/book/) and [Rails](https://www.railstutorial.org/book/) because reasons,
 - reading [Sapiens](https://www.goodreads.com/book/show/23692271-sapiens) by Yuval Noah Harari,
 - looking forward to <s>our return to Germany in July</s> my return to Germany at the end of April.
 
