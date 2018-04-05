@@ -9,6 +9,8 @@
 .. type: text
 -->
 
+**Update 04/04/2018: [There's been a development](link://slug/moving-back-to-germany/).**
+
 My wife Kathrin will not like this post. She will find it self-deprecating and underselling my abilities. But this is my blog, so I don't care.
 
 **TL;DR: I am looking for a job as a Django/Python web developer or a test (automation) engineer, working remotely or in the Rhein-Neckar area in Germany. Starting now.**
