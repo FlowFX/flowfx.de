@@ -12,13 +12,13 @@
 *(This is [a Now page](http://nownownow.com/about). Where's yours?)*
 
 
-I'm in Mexico City,
+I'm back in Mannheim for good,
 
-- studying [Ruby](https://learnrubythehardway.org/book/) and [Rails](https://www.railstutorial.org/book/) because I'll be needing them in my new job,
-- reading [Sapiens](https://www.goodreads.com/book/show/23692271-sapiens) by Yuval Noah Harari,
-- looking forward to <s>our return to Germany in July</s> my return to Germany at the end of April.
-
+- figuring out my new job as a Full Stack / [Rails](https://www.railstutorial.org/book/) developer,
+- podcasting with [Nick](https://chaos.social/@nickfarr) & friends,
+- being totally overwhelmed by all the things, but
+- very much enjoying my new life in Germany.
 
 <!-- - reading book 6 of the phenomenal *[Expanse](https://en.wikipedia.org/wiki/The_Expanse_(novel_series))* series by James S. A. Corey, and -->
 
-When my activities or priorities change, I’ll update this page. Last update was March 30th, 2018.
+When my activities or priorities change, I’ll update this page. Last update was May 14th, 2018.
