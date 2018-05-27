@@ -14,6 +14,8 @@ This post talks about two things:
 1. how to save backup copies of your Audible audio books
 2. how to create an podcast feed of your audio books
 
+**Update 2018-05-27: Audible stopped offering to download the audio files in "Format 4". There are solutions out there, but I haven't gotten around to studying them, yet.**
+
 ## Why?
 
 I buy all ebooks from the Amazon Kindle store, because I know I can save a backup copy of each book in a non-DRM format. This is not about sharing ebooks but rather about making sure that I can keep a copy of my books in a digital format that I will be able to read in the future, too. Also, I want to be able to use any ebook reading app or device I want to, not just Amazon's Kindle apps. Incidentally, I read most of my ebooks on a Kindle Paperwhite because it's just a great device. I sync the books via the Calibre app, though, and the Kindle device is not registered with my Amazon account.
