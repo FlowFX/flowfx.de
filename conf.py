@@ -830,6 +830,7 @@ CONTENT_FOOTER = """
 <a href="/archive.html">Archive</a>
 – <a href="/rss.xml">RSS</a>
 – <a href="/contact/#impressum">Impressum</a> 
+– <a href="/datenschutz">Datenschutz</a> 
 – 2009-{date} by <a href="{contact}">{author}</a> 
 – Powered by <a href="https://getnikola.com" rel="nofollow">Nikola</a><br/><br/>
 {license}
