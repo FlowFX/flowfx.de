@@ -12,13 +12,12 @@
 *(This is [a Now page](http://nownownow.com/about). Where's yours?)*
 
 
-I'm back in Mannheim for good,
+I'm in Mannheim,
 
-- figuring out my new job as a Full Stack / [Rails](https://www.railstutorial.org/book/) developer,
-- podcasting with [Nick](https://chaos.social/@nickfarr) & friends,
-- being totally overwhelmed by all the things, but
-- very much enjoying my new life in Germany.
+- truly enjoying my new job as a Full Stack / [Rails](https://www.railstutorial.org/book/) developer,
+- studying methods of agile software development,
+- solving bureaucratic challenges that moving here from another country inevitably involves,
+- meeting lots of friends that I haven't seen in years, and
+- very much enjoying life in Germany.
 
-<!-- - reading book 6 of the phenomenal *[Expanse](https://en.wikipedia.org/wiki/The_Expanse_(novel_series))* series by James S. A. Corey, and -->
-
-When my activities or priorities change, I’ll update this page. Last update was May 14th, 2018.
+When my activities or priorities change, I’ll update this page. Last update was June 24th, 2018.
