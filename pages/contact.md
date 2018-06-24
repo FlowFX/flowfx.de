@@ -25,7 +25,6 @@ which I read from time to time, or
 
   * Threema: [W74AJR5U](threema://add?id=W74AJR5U),
   * [Keybase](https://keybase.io/flowfx): flowfx,
-  * [Wire](https://wire.com/): @flowfx,
 
 and, preferably,
 
@@ -45,30 +44,18 @@ if you happen to have my phone number.
 
 As required by German law.
 
+**[Datenschutzerklärung](link://slug/datenschutz)**
+
 ## Angaben gemäß § 5 TMG:
 
-Florian Posdziech & Helmut Posdziech GbR  
+Florian Posdziech  
 Ernst-Ludwig-Straße 16  
 55278 Ludwigshöhe
-
-## Vertreten durch:
-
-Florian Posdziech  
-Helmut Posdziech
 
 ## Kontakt:
 
 Telefon:
-+49 6249 6745 566
++49 178 5573339
 
 E-Mail:
-hallo@flowfx.de
-
-## Umsatzsteuer-ID:
-
-Umsatzsteuer-Identifikationsnummer gemäß §27 a Umsatzsteuergesetz:  
-DE304544590
-
- 
-
-Quelle: _[https://www.e-recht24.de](https://www.e-recht24.de/)_
+hallo (at) <span style="display: none">don't spam me</span> flowfx (punkt) <span style="display: none">really, please don't</span> de<br>

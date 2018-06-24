@@ -14,7 +14,7 @@
 </p><h2 id="dsg-general-controller">Verantwortlicher</h2><p><span class="tsmcontroller">Florian Posdziech<br>
 Ernst-Ludwig-Str. 16<br>
 55278 Ludwigshöhe<br>
-hallo (at) <span style="display: none">don't spam me</span> flowfx (dot) <span style="display: none">really, please don't</span> de<br>
+hallo (at) <span style="display: none">don't spam me</span> flowfx (punkt) <span style="display: none">really, please don't</span> de<br>
 https://flowfx.de/contact#impressum</span></p><h2 id="dsg-general-datatype">Arten der verarbeiteten Daten:</h2><p>-	Bestandsdaten (z.B., Namen, Adressen).<br>
 -	Kontaktdaten (z.B., E-Mail, Telefonnummern).<br>
 -	Inhaltsdaten (z.B., Texteingaben, Fotografien, Videos).<br>
