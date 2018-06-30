@@ -54,8 +54,5 @@ Ernst-Ludwig-Straße 16
 
 ## Kontakt:
 
-Telefon:
-+49 178 5573339
-
 E-Mail:
-hallo (at) <span style="display: none">don't spam me</span> flowfx (punkt) <span style="display: none">really, please don't</span> de<br>
+kontakt (at) <span style="display: none">don't spam me</span> flowfx (punkt) <span style="display: none">really, please don't</span> de<br>
