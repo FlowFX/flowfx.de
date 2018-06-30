@@ -913,7 +913,7 @@ SITEMAP_INCLUDE_FILELESS_DIRS = False
 # if SITE_URL points to server root. The list is used to exclude resources from
 # /robots.txt and /sitemap.xml, and to inform search engines about /sitemapindex.xml.
 # ROBOTS_EXCLUSIONS = ["/archive.html", "/category/*.html"]
-ROBOTS_EXCLUSIONS = ["/archive.html", "/hidden/*", "/de/blog/*"]
+ROBOTS_EXCLUSIONS = ["/archive.html"]
 
 # Instead of putting files in <slug>.html, put them in <slug>/index.html.
 # No web server configuration is required. Also enables STRIP_INDEXES.
