@@ -12,12 +12,12 @@
 *(This is [a Now page](http://nownownow.com/about). Where's yours?)*
 
 
-I'm in Mannheim,
+I'm back in Mannheim for good,
 
-- truly enjoying my new job as a Full Stack / [Rails](https://www.railstutorial.org/book/) developer,
-- studying methods of agile software development,
-- solving bureaucratic challenges that moving here from another country inevitably involves,
+- working as a Full Stack / [Rails](https://www.railstutorial.org/book/) developer in Frankfurt,
+- furnishing and setting up our new apartment,
+- listening through the back catalogue of [The Dollop](https://www.dolloppodcast.com/),
 - meeting lots of friends that I haven't seen in years, and
 - very much enjoying life in Germany.
 
-When my activities or priorities change, I’ll update this page. Last update was June 24th, 2018.
+When my activities or priorities change, I’ll update this page. Last update was August 3rd, 2018.
