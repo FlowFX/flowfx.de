@@ -9,7 +9,7 @@
 .. type: text
 -->
 
-I am active on the [Twitter](https://twitter.com/flowfx_) and the [Fediverse](https://chaos.social/@flowfx) aka Mastodon.
+Message me on the Fediverse [@flowfx@chaos.social](https://chaos.social/@flowfx) aka Mastodon. Or on the [Twitter](https://twitter.com/flowfx_) if you must.
 
 You can also contact me via
 
@@ -23,12 +23,9 @@ which I read from time to time, or
 
 ## secure instant messaging
 
-  * Threema: [W74AJR5U](threema://add?id=W74AJR5U),
-  * [Keybase](https://keybase.io/flowfx): flowfx,
-
-and, preferably,
-
-  * [Signal](https://whispersystems.org/),
+  * Threema: [J2M7UB7S](threema://add?id=J2M7UB7S),
+  * iMessage,
+  * [Signal](https://whispersystems.org/) (prefered),
 
 if you happen to have my phone number.
 
