@@ -25,7 +25,7 @@ which I read from time to time, or
 
   * Threema: [J2M7UB7S](threema://add?id=J2M7UB7S),
   * iMessage,
-  * [Signal](https://whispersystems.org/) (prefered),
+  * [Signal](https://whispersystems.org/) (preferred),
 
 if you happen to have my phone number.
 
