@@ -6,9 +6,7 @@ verify_ssl = true
 python_version = "3"
 
 [packages]
-pillow = "*"
-markdown = "*"
-webassets = "*"
-
-[packages.nikola]
-extras = [ "extras",]
+pillow = "~=5.2"
+markdown = "~=3.0"
+webassets = "~=0.12"
+nikola = {extras = ["extras"], version = "~=7.8"}
