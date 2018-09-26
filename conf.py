@@ -819,9 +819,9 @@ FEED_LINKS_APPEND_QUERY = False
 # A HTML fragment describing the license, for the sidebar.
 LICENSE = """
 All content is licensed under a <a rel="license"
-href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>,
+href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>,
 unless stated otherwise. Embedded YouTube videos are excempt for obvious reasons.
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a>
+<a rel="license" href="https://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a>
 """
 
 # A small copyright notice for the page footer (in HTML).
