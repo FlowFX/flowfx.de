@@ -809,7 +809,6 @@ FEED_READ_MORE_LINK = '<p><a href="{link}">{read_more}…</a> ({min_remaining_re
 
 # Append a URL query to the FEED_READ_MORE_LINK in Atom and RSS feeds. Advanced
 # option used for traffic source tracking.
-# Minimum example for use with Piwik: "pk_campaign=feed"
 # The following tags exist and are replaced for you:
 # {feedRelUri}                  A relative link to the feed.
 # {feedFormat}                  The name of the syndication format.
@@ -1139,21 +1138,6 @@ EXTRA_HEAD_DATA = head_favicon + head_og
 # in the default template (base.tmpl).
 # (translatable)
 BODY_END = """
-<!-- Piwik -->
-<script type="text/javascript">
-  var _paq = _paq || [];
-  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
-  _paq.push(['trackPageView']);
-  _paq.push(['enableLinkTracking']);
-  (function() {
-    var u="//piwik.flowfx.org/";
-    _paq.push(['setTrackerUrl', u+'piwik.php']);
-    _paq.push(['setSiteId', '1']);
-    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
-    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
-  })();
-</script>
-<!-- End Piwik Code -->
 """
 
 # The possibility to extract metadata from the filename by using a
