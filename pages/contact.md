@@ -9,7 +9,7 @@
 .. type: text
 -->
 
-Message me on the Fediverse [@flowfx@chaos.social](https://chaos.social/@flowfx) aka Mastodon. Or on the [Twitter](https://twitter.com/flowfx_) if you must.
+Message me on the Fediverse <a rel="me" href="https://chaos.social/@flowfx" title="Look me up on mastodon!">@flowfx@chaos.social</a> aka Mastodon. Or on the [Twitter](https://twitter.com/flowfx_) if you must.
 
 You can also contact me via
 
