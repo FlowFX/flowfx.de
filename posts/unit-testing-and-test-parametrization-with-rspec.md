@@ -2,7 +2,7 @@
 .. title: Unit testing and test parametrization with RSpec?
 .. slug: unit-testing-and-test-parametrization-with-rspec
 .. date: 2019-01-27 13:04:02 UTC+01:00
-.. tags: rspec, pytest, testing
+.. tags: rspec, pytest, testing, ruby
 .. category: 
 .. link: 
 .. description: 

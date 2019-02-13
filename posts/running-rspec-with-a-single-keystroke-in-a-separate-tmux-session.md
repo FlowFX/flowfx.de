@@ -2,7 +2,7 @@
 .. title: Running RSpec with a single keystroke in a separate tmux session
 .. slug: running-rspec-with-a-single-keystroke-in-a-separate-tmux-session
 .. date: 2019-02-11 10:18:10 UTC+01:00
-.. tags: 
+.. tags: rspec, vim, tmux, testing, rails, ruby
 .. category: 
 .. link: 
 .. description: 
