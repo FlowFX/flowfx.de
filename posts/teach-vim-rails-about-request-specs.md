@@ -2,7 +2,7 @@
 .. title: Teach vim-rails about request specs
 .. slug: teach-vim-rails-about-request-specs
 .. date: 2019-02-12 15:23:57 UTC+01:00
-.. tags: 
+.. tags: draft
 .. category: 
 .. link: 
 .. description: 

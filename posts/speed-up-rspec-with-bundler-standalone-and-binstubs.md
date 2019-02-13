@@ -2,7 +2,7 @@
 .. title: Speed up RSpec with bundler standalone and springified binstubs
 .. slug: speed-up-rspec-with-bundler-standalone-and-springified-binstubs
 .. date: 2019-02-12 13:03:22 UTC+01:00
-.. tags: 
+.. tags: draft
 .. category: 
 .. link: 
 .. description: 
