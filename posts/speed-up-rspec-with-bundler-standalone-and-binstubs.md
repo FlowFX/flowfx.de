@@ -19,14 +19,14 @@ There are quite a few posts out there that tackle this problem. But most are pre
 
 Here's what I did, and how I'm running my tests now.
 
-### Spring
+## Spring
 First I made sure my Rails app is installed with [Spring](https://github.com/rails/spring) enabled. Luckily, this is the default. In order to later run RSpec from spring, I added the [spring-commands-rspec](https://github.com/jonleighton/spring-commands-rspec) gem to my Gemfile.
 
 ```ruby
 gem 'spring-commands-rspec'
 ```
 
-### Bundler
+## Bundler
 Next, I used bundler's standalone command,
 
 ```bash
@@ -39,7 +39,7 @@ and then ["springified" the installed binstubs](https://github.com/rails/spring#
 $ bundle exec spring binstub --all
 ```
 
-### Problems
+## Problems
 I encountered a problem with SQLite 1.4.0. I didn't investigate it further, but pinned the gem to version 1.3 instead.
 
 ```ruby
@@ -56,7 +56,7 @@ $ bundle install --standalone --path .bundle
 
 Anytime you want to use `bundle install`, you now have to use `bundle install --standalone` instead. I created the bash alias `bis` for that.
 
-### vim-test
+## vim-test
 I recently started [using the vim-test](link://slug/running-rspec-with-a-single-keystroke-in-a-separate-tmux-session) plugin. That plugin has a neat option that makes it use the springified binstubs.
 
 
