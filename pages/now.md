@@ -14,10 +14,10 @@
 
 I'm living in Mannheim, Germany,
 
-- working as a Full Stack / [Rails](https://www.railstutorial.org/book/) developer in Frankfurt,
+- still working as a [Ruby on Rails](https://www.railstutorial.org/book/) developer in Frankfurt,
+- looking hard for a new job that's closer to home,
+- playing with [Anki](https://apps.ankiweb.net/) to memorize editor commands and programming languages,
 - listening through the back catalogue of [The Dollop](https://www.dolloppodcast.com/),
-- furnishing and setting up our new apartment,
-- meeting friends and family that I haven't seen in years, and
-- very much enjoying life in Germany.
+- and very much enjoying life in Germany.
 
-When my activities or priorities change, I’ll update this page. Last update was September 26th, 2018.
+When my activities or priorities change, I’ll update this page. Last update was March 9th, 2019.
