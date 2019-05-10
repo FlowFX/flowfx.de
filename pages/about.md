@@ -18,7 +18,7 @@
 <p>Check my <a href="link://slug/now">Now page</a> to see what I'm up to at the moment.
   </div>
   <div class="col-sm-4 col-sm-pull-8">
-    <img src="/images/flowfx.jpg" alt="" class="img-responsive">
+    <img src="/images/flowfx-2019.jpg" alt="" class="img-responsive">
   </div>
 </div>
 
