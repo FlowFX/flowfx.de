@@ -14,10 +14,10 @@
 
 I'm living in Mannheim, Germany,
 
-- still working as a [Ruby on Rails](https://www.railstutorial.org/book/) developer in Frankfurt,
-- looking hard for a new job that's closer to home,
+- working as a [Ruby on Rails](https://www.railstutorial.org/book/) developer in Frankfurt,
+- very much looking forward to start my new job at [ioki](https://ioki.com/) in September,
 - playing with [Anki](https://apps.ankiweb.net/) to memorize editor commands and programming languages,
-- listening through the back catalogue of [The Dollop](https://www.dolloppodcast.com/),
+- recording new episodes of [Several Ways To Live](https://severalwaystolive.com/) with my friend [Nick Farr](https://chaos.social/web/accounts/1767),
 - and very much enjoying life in Germany.
 
-When my activities or priorities change, I’ll update this page. Last update was March 9th, 2019.
+When my activities or priorities change, I’ll update this page. Last update was May 23rd, 2019.
