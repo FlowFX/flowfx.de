@@ -24,4 +24,12 @@
 
 *****
 
+## Current Projects
+
+**[Several Ways To Live (in Mexico City)](https://severalwaystolive.com/)**: An English podcast that I record together with my friend [Nick Farr](https://chaos.social/web/accounts/1767). It used to be about Mexican food and culture. Now it's something else.
+
+**[The Block Ice Horn Section](https://blockicehornsection.com/)**
+
+*****
+
 tbc
