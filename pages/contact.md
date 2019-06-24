@@ -24,14 +24,15 @@ which I read from time to time, or
 ## secure instant messaging
 
   * Threema: [J2M7UB7S](threema://add?id=J2M7UB7S),
-  * iMessage,
   * [Signal](https://whispersystems.org/) (preferred),
+  * iMessage,
 
 if you happen to have my phone number.
 
 ## also
 
-* [GitHub](https://github.com/flowfx/)
+* [GitHub](https://github.com/flowfx/),
+* XING and LinkedIn and stuff.
 
 
 ****
@@ -46,8 +47,8 @@ As required by German law.
 ## Angaben gemäß § 5 TMG:
 
 Florian Posdziech  
-Ernst-Ludwig-Straße 16  
-55278 Ludwigshöhe
+R1 14a  
+68161 Mannheim
 
 ## Kontakt:
 
