@@ -1,15 +1,18 @@
-<!-- 
+<!--
 .. title: Contact
 .. slug: contact
 .. date: 2015-08-01
-.. tags: 
-.. category: 
-.. link: 
-.. description: 
+.. tags:
+.. category:
+.. link:
+.. description:
 .. type: text
 -->
 
-Message me on the Fediverse <a rel="me" href="https://chaos.social/@flowfx" title="Look me up on mastodon!">@flowfx@chaos.social</a> aka Mastodon. Or on the [Twitter](https://twitter.com/flowfx_) if you must.
+Message me on the Fediverse <a rel="me" href="https://chaos.social/@flowfx"
+title="Look me up on mastodon!">@flowfx@chaos.social</a> aka Mastodon. Or on
+the [Twitter](https://twitter.com/flowfx_) if you must. But be patient for an
+answer.
 
 You can also contact me via
 
@@ -23,8 +26,8 @@ which I read from time to time, or
 
 ## secure instant messaging
 
-  * Threema: [J2M7UB7S](threema://add?id=J2M7UB7S),
   * [Signal](https://whispersystems.org/) (preferred),
+  * Threema: [J2M7UB7S](threema://add?id=J2M7UB7S),
   * iMessage,
 
 if you happen to have my phone number.
@@ -32,7 +35,6 @@ if you happen to have my phone number.
 ## also
 
 * [GitHub](https://github.com/flowfx/),
-* XING and LinkedIn and stuff.
 
 
 ****
@@ -46,11 +48,12 @@ As required by German law.
 
 ## Angaben gemäß § 5 TMG:
 
-Florian Posdziech  
-R1 14a  
+Florian Posdziech
+R1 14a
 68161 Mannheim
 
 ## Kontakt:
 
 E-Mail:
-kontakt (at) <span style="display: none">don't spam me</span> flowfx (punkt) <span style="display: none">really, please don't</span> de<br>
+kontakt-955644
+ (at) <span style="display: none">don't spam me</span> flowfx (punkt) <span style="display: none">really, please don't</span> de<br>
