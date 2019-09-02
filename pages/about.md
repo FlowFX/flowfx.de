@@ -11,7 +11,7 @@
 
 <div class="row">
   <div class="col-sm-8 col-sm-push-4">
-<p>My name is Florian Posdziech. I'm a trained physicist, amateur musician and am currently working as a Ruby on Rails developer at <a href="http://www.chi-deutschland.com/">CHI</a> in Frankfurt, Germany.</p>
+<p>My name is Florian Posdziech. I'm a trained physicist, amateur musician, podcaster, and am currently working as a backend developer for <a href="https://ioki.com/">ioki</a> in Frankfurt, Germany.</p>
 
 <p>I like reggae music, baseball, fish tacos and beer. This is mostly because I've been a frequent expat, having lived, studied and worked in the USA, Norway and Mexico.</p>
 
@@ -24,11 +24,11 @@
 
 *****
 
-## Current Projects
+## Projects
 
 **[Several Ways To Live (in Mexico City)](https://severalwaystolive.com/)**: An English podcast that I record together with my friend [Nick Farr](https://chaos.social/web/accounts/1767). It used to be about Mexican food and culture. Now it's something else.
 
-**[The Block Ice Horn Section](https://blockicehornsection.com/)**
+**[The Block Ice Horn Section](https://blockicehornsection.com/)**: A 4-man horn section playing Reggae and Ska music, most often with **The Uplifters** from Freiburg.
 
 *****
 
