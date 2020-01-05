@@ -1,7 +1,7 @@
 <!--
 .. title: Angst (2)
 .. slug: angst-2
-.. date: 2016-12-07 11:05:50 AM CST
+.. date: 2016-12-07 11:05:50
 .. tags: personal, angst
 .. status: private
 -->

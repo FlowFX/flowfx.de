@@ -1,7 +1,7 @@
 <!--
 .. title: I'm shutting down my web servers
 .. slug: shutting-down-my-web-servers
-.. date: 2016-09-02 1:43:13 PM CDT
+.. date: 2016-09-02 1:43:13
 .. tags: nginx, letsencrypt
 .. status: draft
 -->
