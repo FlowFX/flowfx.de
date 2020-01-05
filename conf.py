@@ -228,7 +228,7 @@ TIMEZONE = "Europe/Berlin"
 # Date format used to display post dates. (translatable)
 # (str used by datetime.datetime.strftime)
 # DATE_FORMAT = '%Y-%m-%d %H:%M'
-DATE_FORMAT = '%Y-%m-%d'
+DATE_FORMAT = 'YYYY-MM-dd'
 
 # Date format used to display post dates, if local dates are used. (translatable)
 # (str used by moment.js)
@@ -1158,7 +1158,7 @@ BODY_END = """
 
 # If you hate "Filenames with Capital Letters and Spaces.md", you should
 # set this to true.
-UNSLUGIFY_TITLES = True
+FILE_METADATA_UNSLUGIFY_TITLES = True
 
 # Additional metadata that is added to a post when creating a new_post
 # ADDITIONAL_METADATA = {}
@@ -1236,3 +1236,6 @@ GLOBAL_CONTEXT = {}
 # GLOBAL_CONTEXT as parameter when the template is about to be
 # rendered
 GLOBAL_CONTEXT_FILLER = []
+
+# V8 upgrade
+USE_TAG_METADATA = False

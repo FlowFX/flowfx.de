@@ -1,12 +1,10 @@
-<!-- 
+<!--
 .. title: List comprehensions for physicists
 .. slug: list-comprehensions-for-physicists
 .. date: 2016-11-25 9:45:40 UTC-06:00
-.. tags: python, mathjax
-.. category: 
-.. link: 
-.. description: 
+.. tags: python
 .. type: text
+.. has_math: yes
 -->
 
 > A list comprehension provides a compact way of mapping a list to another list by applying a function to each of the elements of the list.
