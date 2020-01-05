@@ -9,7 +9,7 @@
 .. type: text
 -->
 
-**Update 04/04/2018: [There's been a development](link://slug/moving-back-to-germany/).**
+**Update 04/04/2018: [There's been a development](link://slug/moving-back-to-germany).**
 
 My wife Kathrin will not like this post. She will find it self-deprecating and underselling my abilities. But this is my blog, so I don't care.
 
