@@ -14,11 +14,10 @@
 
 I'm living in Mannheim, Germany,
 
-- and have just started my new job as a backend developer at [ioki](https://ioki.com/) :),
-- I continue studying [Ruby](https://www.manning.com/books/the-well-grounded-rubyist) and [OOD](http://www.informit.com/store/practical-object-oriented-design-an-agile-primer-using-9780134456478?ranMID=24808),
-- using [Anki](https://apps.ankiweb.net/) to memorize what I'm learning.
-- I'm recording new episodes of [Several Ways To Live](https://severalwaystolive.com/) and [Cultural Comments](https://podcast.c3s.cc/),
-- training at [CrossFit Rhein-Neckar](http://www.crossfit-rhein-neckar.de/),
-- and working toward our next gigs with The Uplifters & Block Ice Horn Section.
+- happily working as a backend developer at [ioki](https://ioki.com/),
+- slowly increasing my running activities,
+- while also training at [CrossFit Rhein-Neckar](http://www.crossfit-rhein-neckar.de/),
+- recording episodes of [Several Ways To Live](https://severalwaystolive.com/) and [Cultural Comments](https://podcast.c3s.cc/),
+- and playing sweet reggae music with The Uplifters & Block Ice Horn Section.
 
-When my activities or priorities change, I’ll update this page. Last update was September 2nd, 2019.
+When my activities or priorities change, I’ll update this page. Last update was January 14th, 2020.
