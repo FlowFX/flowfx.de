@@ -20,7 +20,7 @@ Anyways. [The internet](https://mastodon.social/@l3viathan/103480435257611605), 
 In the uBlock settings under "My filters" there's now this entry:
 
 
-```Bash
+```bash
 ! 1/15/2020 https://github.com
 github.com##.unread.mail-status
 ```
