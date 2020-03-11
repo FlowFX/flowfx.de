@@ -9,12 +9,4 @@ assets/css/all-nocdn.css=
     nikola_rst.css,
     code.css,
     theme.css,
-    baguetteBox.min.css,
     custom.css,
-
-; javascript bundles
-assets/js/all.js=
-    fancydates.js,
-assets/js/all-nocdn.js=
-    baguetteBox.min.js,
-    fancydates.js,
