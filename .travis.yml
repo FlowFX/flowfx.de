@@ -19,8 +19,6 @@ after_success:
   - chmod 600 deploy_key
   - ssh-add deploy_key
   - nikola deploy
-after_deploy:
-  - curl "https://api.monkeytest.it/travis/test?secret=$MONKEY_KEY&on_load=true&on_click=true&page_weight=true&seo=true&broken_links=true&asset_count=true&url=https://flowfx.de"
 notifications:
   email:
     on_success: never  # default: change
