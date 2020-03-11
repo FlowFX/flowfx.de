@@ -14,7 +14,7 @@ I've been playing around with [Anki](https://apps.ankiweb.net/), the [spaced rep
 Check out this video:
 
 <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/1XaJjbCSXT0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/1XaJjbCSXT0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 </div>
 
 It explains
