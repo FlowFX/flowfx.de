@@ -9,20 +9,15 @@
 .. type: text
 -->
 
-<div class="row">
-  <div class="col-sm-8 col-sm-push-4">
-<p>My name is Florian Posdziech. I'm a trained physicist, amateur musician, podcaster, and am currently working as a backend developer for <a href="https://ioki.com/">ioki</a> in Frankfurt, Germany.</p>
+<img src="/images/flowfx-2019.jpg" alt="Florian Posdziech headshot" style="width:100%;max-width:250px"> 
 
-<p>I like reggae music, baseball, fish tacos and beer. This is mostly because I've been a frequent expat, having lived, studied and worked in the USA, Norway and Mexico.</p>
+My name is Florian Posdziech. I'm a trained physicist, amateur musician, podcaster, and am currently working as a backend developer for [ioki](https://ioki.com/) in Frankfurt, Germany.
 
-<p>Check my <a href="link://slug/now">Now page</a> to see what I'm up to at the moment.
-  </div>
-  <div class="col-sm-4 col-sm-pull-8">
-    <img src="/images/flowfx-2019.jpg" alt="" class="img-responsive">
-  </div>
-</div>
+I like reggae music, baseball, fish tacos and beer. This is mostly because I've been a frequent expat, having lived, studied and worked in the USA, Norway and Mexico.
 
-*****
+Check my [Now page](link://slug/now) to see what I'm up to at the moment.
+
+---
 
 ## Projects
 
@@ -30,6 +25,6 @@
 
 **[The Block Ice Horn Section](https://blockicehornsection.com/)**: A 4-man horn section playing Reggae and Ska music, most often with **The Uplifters** from Freiburg.
 
-*****
+---
 
 tbc
