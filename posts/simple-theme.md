@@ -1,7 +1,7 @@
 <!--
 .. title: A simple new theme
 .. slug: a-simple-new-theme
-.. date: 2020-03-12 14:20:31 UTC+01:00
+.. date: 2020-03-11 14:20:31 UTC+01:00
 .. tags: 
 .. category: 
 .. link: 
