@@ -1,8 +1,8 @@
 Shiver man by Fat Freddy's Drop - in voller Länge.
 
-    .. raw:: html
+.. raw:: html
 
-   <div class="embed-responsive embed-responsive-4by3">
+   <div class="video-container">
 
 .. youtube:: 6NtB-PuG9PU
 
