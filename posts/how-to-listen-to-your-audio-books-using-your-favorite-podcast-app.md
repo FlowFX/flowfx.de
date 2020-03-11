@@ -30,7 +30,7 @@ I want the same for my for [Audible](https://www.audible.de/) books. I love audi
 
 Creating a backup mp3 of audible books is surprisingly simple. Thanks to [@octotherp](https://chaos.social/@octotherp) for [this tipp](https://chaos.social/@octotherp/99688008980687106/)!
 
-<iframe src="https://chaos.social/@octotherp/99688008980687106/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400"></iframe><script src="https://chaos.social/embed.js" async="async"></script>
+<iframe src="https://chaos.social/@octotherp/99688008980687106/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://chaos.social/embed.js" async="async"></script>
 
 1. Go to [your Audible library](https://www.audible.de/lib).
 2. In the upper right hand corner, select "Format 4" as the download audio format.
