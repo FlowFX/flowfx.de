@@ -20,13 +20,13 @@ Recently, Nick and I published 3 episodes of [Several Ways To Live](https://seve
 Here you go. :)
 
 <div class="episode-container">
-<iframe title="Podlove Web Player: Several Ways To Live In Mexico City - SW027 Kristin's Place" width="320" height="400" src="https://severalwaystolive.com/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/podlove_web_player/player_v4/dist/share.html?episode=https%3A%2F%2Fseveralwaystolive.com%2F%3Fpodlove_player4%3D158" frameborder="0" scrolling="no" tabindex="0"></iframe>⎈
+<iframe title="Podlove Web Player: Several Ways To Live In Mexico City - SW027 Kristin's Place" width="320" height="400" src="https://severalwaystolive.com/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/podlove_web_player/player_v4/dist/share.html?episode=https%3A%2F%2Fseveralwaystolive.com%2F%3Fpodlove_player4%3D158" frameborder="0" scrolling="no" tabindex="0" loading="lazy"></iframe>⎈
 </div>
 
 <div class="episode-container">
-<iframe title="Podlove Web Player: Several Ways To Live In Mexico City - SW028 Valldemossa" width="320" height="400" src="https://severalwaystolive.com/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/podlove_web_player/player_v4/dist/share.html?episode=https%3A%2F%2Fseveralwaystolive.com%2F%3Fpodlove_player4%3D162" frameborder="0" scrolling="no" tabindex="0"></iframe>
+<iframe title="Podlove Web Player: Several Ways To Live In Mexico City - SW028 Valldemossa" width="320" height="400" src="https://severalwaystolive.com/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/podlove_web_player/player_v4/dist/share.html?episode=https%3A%2F%2Fseveralwaystolive.com%2F%3Fpodlove_player4%3D162" frameborder="0" scrolling="no" tabindex="0" loading="lazy"></iframe>
 </div>
 
 <div class="episode-container">
-<iframe title="Podlove Web Player: Several Ways To Live In Mexico City - SW029 Roma Norte, Mexico City" width="320" height="400" src="https://severalwaystolive.com/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/podlove_web_player/player_v4/dist/share.html?episode=https%3A%2F%2Fseveralwaystolive.com%2F%3Fpodlove_player4%3D165" frameborder="0" scrolling="no" tabindex="0"></iframe>
+<iframe title="Podlove Web Player: Several Ways To Live In Mexico City - SW029 Roma Norte, Mexico City" width="320" height="400" src="https://severalwaystolive.com/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/podlove_web_player/player_v4/dist/share.html?episode=https%3A%2F%2Fseveralwaystolive.com%2F%3Fpodlove_player4%3D165" frameborder="0" scrolling="no" tabindex="0" loading="lazy"></iframe>
 </div>
