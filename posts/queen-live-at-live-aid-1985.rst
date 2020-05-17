@@ -11,7 +11,7 @@ Does it get any better?
 
 .. raw:: html
 
-   <div class="embed-responsive embed-responsive-4by3">
+   <div class="video-container">
 
 .. youtube:: v=A22oy8dFjqc
 

@@ -1,11 +1,10 @@
 .. title: Geht raus und schaut euch die Welt an!
 .. slug: geht-raus-schaut-euch-die-welt-an
 .. date: 2016-07-08 11:32:15 UTC-05:00
-.. tags: Mexiko, Refugees Welcome, AfD, Deutschland, draft
+.. tags: Mexiko, Refugees Welcome, AfD, Deutschland
 .. category: Weltanschauung
-.. link: 
-.. description: 
 .. type: text
+.. status: draft
 
     Die gefährlichste Weltanschauung ist die Weltanschauung derer, die die Welt nie angeschaut haben.
     

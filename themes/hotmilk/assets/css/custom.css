@@ -1,0 +1,47 @@
+/* Colors */
+
+a {
+  color: #D9230F !important;
+}
+
+/* https://www.h3xed.com/web-development/how-to-make-a-responsive-100-width-youtube-iframe-embed */
+.video-container,
+.episode-container{
+    position: relative;
+    width: 100%;
+    height: 0;
+    padding-bottom: 56.25%;
+}
+
+.episode-container {
+  max-width: 320px;
+  height: 400px;
+  padding-bottom: inherit;
+}
+
+.video-container iframe,
+.episode-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+body {
+  font-family:
+    // Safari for OS X and iOS (San Francisco)
+    -apple-system,
+    // Chrome < 56 for OS X (San Francisco)
+    BlinkMacSystemFont,
+    // Windows
+    "Segoe UI",
+    // Android
+    "Roboto",
+    // Basic web fallback
+    "Helvetica Neue", Arial, sans-serif,
+    // Emoji fonts
+    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !default;
+  font-size: 18px;
+	line-height: 1.4;
+}

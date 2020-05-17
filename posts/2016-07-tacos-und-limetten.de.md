@@ -1,13 +1,11 @@
-<!-- 
+<!--
 .. title: Tacos und Limetten
 .. slug: tacos-und-limetten
 .. date: 2016-07-06 10:25:37 UTC-05:00
-.. tags: draft
-.. category: 
-.. link: 
-.. description: 
+.. tags: 
 .. type: text
 .. previewimage: images/tacosundlimetten-logo.png
+.. status: draft
 -->
 
 

@@ -1,12 +1,9 @@
-<!-- 
+<!--
 .. title: Angst (2)
 .. slug: angst-2
-.. date: 2016-12-07 11:05:50 AM CST
-.. tags: private, personal, angst
-.. category: 
-.. link: 
-.. description: 
-.. type: 
+.. date: 2016-12-07 11:05:50
+.. tags: personal, angst
+.. status: private
 -->
 
 > Tu jeden Tag etwas, vor dem du Angst hast!

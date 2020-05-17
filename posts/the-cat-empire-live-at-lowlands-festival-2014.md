@@ -11,6 +11,6 @@
 
 Hach…
 
-<div class="embed-responsive embed-responsive-4by3">
-<iframe width="853" height="480" src="https://www.youtube-nocookie.com/embed/6G5zUjQxf2g?rel=0" frameborder="0" allowfullscreen></iframe>
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/6G5zUjQxf2g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 </div>
