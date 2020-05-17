@@ -568,7 +568,7 @@ REDIRECTIONS = []
 # in a `nikola deploy` command as you like.
 DEPLOY_COMMANDS = {
     'default': [
-        "rsync -rav --delete output/ dh_flowfx@anaconda.dreamhost.com:~/flowfx.de/",
+        "rsync -rav --delete output/ flowfx@ariel.uberspace.de:/var/www/virtual/flowfx/html/flowfx.de/",
     ]
 }
 
