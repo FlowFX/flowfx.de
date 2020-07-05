@@ -15,9 +15,9 @@
 I'm living in Mannheim, Germany,
 
 - happily working as a backend developer at [ioki](https://ioki.com/),
-- slowly but surely increasing my running activities,
+- going for easy runs 4 to 5 times per week,
 - while also training at [CrossFit Rhein-Neckar](http://www.crossfit-rhein-neckar.de/),
 - recording episodes of [Several Ways To Live](https://severalwaystolive.com/),
-- and playing sweet reggae music with The Uplifters & Block Ice Horn Section.
+- and waiting to resume playing music with my band mates.
 
-When my activities or priorities change, I’ll update this page. Last update was March 11th, 2020.
+When my activities or priorities change, I’ll update this page. Last update was July 5th, 2020.
