@@ -13,13 +13,17 @@ I love cover songs. I love bands that take a good song and make it better. Bands
 
 That's why [Napster was the best!](link://slug/hard-to-handle). Napster had everything, every cover and live version anyone had ever published. Napster would have had this super, mega, uber amazing live version of [Hard To Handle](link://slug/hard-to-handle) by the Black Crows, if Napster had survived until 2005.
 
+<div class="video-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ilFOdcrLvHo?start=3" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 (Spotify doesn't.)
 
 Napster would have had this super fun rock version of the Temptations [Get Read](https://www.youtube.com/watch?v=PV97roslmt0) by Wishbone Ash.
 
+<div class="video-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NLqyFH6wo4k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 (Spotify doesn't.)
 
@@ -31,7 +35,9 @@ I'm always trying to find cover versions of songs. Many times, there are amazing
 
 It seems to me that in this rare case, the originial is the best there is, and noone can improve upon it.
 
+<div class="video-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rNS6D4hSQdA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 I challenge everyone to show me that I'm wrong.
 
