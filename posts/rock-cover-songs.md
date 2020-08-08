@@ -9,7 +9,7 @@
 .. type: text
 -->
 
-I love cover songs. I love bands that take a good song and make it better. Bands like [Cake](https://www.youtube.com/watch?v=f9rCUQjmkxU), [Reel Big Fish](https://www.youtube.com/watch?v=QHpU0ZfXZ_g), [Guano Apes](https://www.youtube.com/watch?v=Q9jJufz9RNE). Joe Cocker made a whole career of it.
+I love cover songs. I love bands that take a good song and make it better. Bands like [Cake](https://www.youtube.com/watch?v=f9rCUQjmkxU), [Reel Big Fish](https://www.youtube.com/watch?v=QHpU0ZfXZ_g), [Guano Apes](https://www.youtube.com/watch?v=Q9jJufz9RNE), and [Rainer von Vielen](https://www.youtube.com/watch?v=oYFe76uvmms). Joe Cocker made a whole career of it.
 
 That's why [Napster was the best!](link://slug/hard-to-handle). Napster had everything, every cover and live version anyone had ever published. Napster would have had this super, mega, uber amazing live version of [Hard To Handle](link://slug/hard-to-handle) by the Black Crows, if Napster had survived until 2005.
 
