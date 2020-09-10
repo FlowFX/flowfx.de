@@ -42,3 +42,9 @@ It seems to me that in this rare case, the originial is the best there is, and n
 I challenge everyone to show me that I'm wrong.
 
 (Seriously. I recently started playing in a rock cover band, and I want my first proposal for a new song to be a real good one. A hard-rock version of Tracks Of My Tears would be amazing. I'll add the horn section myself.)
+
+**Update Sep 10th, 2020:** There is actually a pretty decent cover version, recorded by Boyzone. It does not change the song in any way, but the production is superb, and the horn parts are really well done!
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/s17xomf6RN8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
