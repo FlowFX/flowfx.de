@@ -15,9 +15,7 @@
 I'm living in Mannheim, Germany,
 
 - happily working as a backend developer at [ioki](https://ioki.com/),
-- going for easy runs 3 to 4 times per week,
-- while also training at [CrossFit Rhein-Neckar](http://www.crossfit-rhein-neckar.de/),
-- recording episodes of [Several Ways To Live](https://severalwaystolive.com/),
+- regularly training at [CrossFit Rhein-Neckar](http://www.crossfit-rhein-neckar.de/),
 - and playing my trombone in a new band. :)
 
-When my activities or priorities change, I’ll update this page. Last update was July 30th, 2020.
+When my activities or priorities change, I’ll update this page. Last update was September 2nd, 2020.
