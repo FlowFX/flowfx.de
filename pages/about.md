@@ -23,7 +23,9 @@ Check my [Now page](link://slug/now) to see what I'm up to at the moment.
 
 **[Several Ways To Live (in Mexico City)](https://severalwaystolive.com/)**: An English podcast that I record together with my friend [Nick Farr](https://chaos.social/web/accounts/1767). It used to be about Mexican food and culture. Now it's something else.
 
-**[The Block Ice Horn Section](https://blockicehornsection.com/)**: A 4-man horn section playing Reggae and Ska music, most often with **The Uplifters** from Freiburg.
+*The Block Ice Horn Section*: A 4-man horn section playing Reggae and Ska music, most often with **The Uplifters** from Freiburg.
+
+*Dolby Frontal*: A rock cover band based in Heidelberg.
 
 ---
 
