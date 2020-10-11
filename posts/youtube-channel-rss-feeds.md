@@ -2,7 +2,7 @@
 .. title: YouTube channel RSS feeds
 .. slug: youtube-channel-rss-feeds
 .. date: 2020-10-10 19:45:40 UTC-06:00
-.. tags: youtube, rss
+.. tags: rss
 .. type: text
 -->
 
