@@ -29,4 +29,12 @@ Check my [Now page](link://slug/now) to see what I'm up to at the moment.
 
 ---
 
+### More of my stuff on the interwebs
+
+- [Florian Op Tour](https://florianoptour.de/)
+- [Tacos und Limetten](https://tacosundlimetten.de/)
+- [Cultural Comments - der C3S-Podcast](https://podcast.c3s.cc/)
+- [flowfx @ Codeberg.org](https://codeberg.org/flowfx/)
+- [flowfx @ GitHub](https://github.com/flowfx/)
+
 tbc
