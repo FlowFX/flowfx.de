@@ -1,7 +1,7 @@
 <!--
 .. title: Der Posdcast
 .. slug: der-posdcast
-.. date: 2020-12-06 12:45:40 UTC-06:00
+.. date: 2020-12-06 06:45:40 UTC+01:00
 .. tags: podcast
 .. type: text
 -->
