@@ -1,19 +1,19 @@
-<!-- 
+<!--
 .. title: About Me
 .. slug: about
 .. date: 2017-05-18
-.. tags: 
-.. category: 
-.. link: 
-.. description: 
+.. tags:
+.. category:
+.. link:
+.. description:
 .. type: text
 -->
 
-<img src="/images/flowfx-2019.jpg" alt="Florian Posdziech headshot" style="width:100%;max-width:250px"> 
+<img src="/images/flowfx-2019.jpg" alt="Florian Posdziech headshot" style="width:100%;max-width:250px">
 
 My name is Florian Posdziech. I'm a trained physicist, amateur musician, podcaster, and am currently working as a backend developer for [ioki](https://ioki.com/) in Frankfurt, Germany.
 
-I like reggae music, baseball, fish tacos and beer. This is mostly because I've been a frequent expat, having lived, studied and worked in the USA, Norway and Mexico.
+I like reggae music, baseball, fish tacos and beer. I've lived, studied and worked in the USA, Norway and Mexico. Maybe it shows.
 
 Check my [Now page](link://slug/now) to see what I'm up to at the moment.
 
