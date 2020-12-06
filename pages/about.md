@@ -19,9 +19,7 @@ Check my [Now page](link://slug/now) to see what I'm up to at the moment.
 
 ---
 
-## Projects
-
-**[Several Ways To Live (in Mexico City)](https://severalwaystolive.com/)**: An English podcast that I record together with my friend [Nick Farr](https://chaos.social/web/accounts/1767). It used to be about Mexican food and culture. Now it's something else.
+## Music
 
 *The Block Ice Horn Section*: A 4-man horn section playing Reggae and Ska music, most often with **The Uplifters** from Freiburg.
 
@@ -29,11 +27,21 @@ Check my [Now page](link://slug/now) to see what I'm up to at the moment.
 
 ---
 
+## Podcasts
+
+**[Several Ways To Live (in Mexico City)](https://severalwaystolive.com/)**: An English podcast that I record together with my friend [Nick Farr](https://chaos.social/web/accounts/1767). It used to be about Mexican food and culture. Now it's something else.
+
+**[Tacos und Limetten](https://tacosundlimetten.de/)**: A German podcast where I talk to fellow expats in Mexico City.
+
+**[Cultural Comments - der C3S-Podcast](https://podcast.c3s.cc/)**: A German podcast by and for the C3S, an upcoming alternative to the GEMA.
+
+**[Der Posdcast](https://posdcast.de/)**: My newest one. We'll have to wait and see what it is going to become.
+
+---
+
 ### More of my stuff on the interwebs
 
 - [Florian Op Tour](https://florianoptour.de/)
-- [Tacos und Limetten](https://tacosundlimetten.de/)
-- [Cultural Comments - der C3S-Podcast](https://podcast.c3s.cc/)
 - [flowfx @ Codeberg.org](https://codeberg.org/flowfx/)
 - [flowfx @ GitHub](https://github.com/flowfx/)
 
