@@ -2,8 +2,7 @@
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/5744679&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
-Here's the <a href="https://flowfx.de/wp-content/uploads/uglyman.pdf">Ugly Man - Lead Sheet</a>. The arrangement goes somewhat like this:
-
+Here's the <a href="https://flowfx.de/uploads/uglyman.pdf">Ugly Man - Lead Sheet</a>. The arrangement goes somewhat like this:
 </p><ul>
     <li>A (horns only) A B A (Intro plus theme)</li>
     <li>A  B A (verse 1)</li>
