@@ -17,8 +17,8 @@ I'm living in Mannheim, Germany,
 - happily working as a backend developer at [ioki](https://ioki.com/),
 - <strike>regularly sometimes training at ~[CrossFit Rhein-Neckar](http://www.crossfit-rhein-neckar.de/)</strike>
 - <strike>and playing my trombone in a new band. :)</strike>
-- training at home using mostly kettlebells,
+- training at home using kettlebells and heavy clubs,
 - going for walks along the Neckar river, and
 - waiting for Corona times to end.
 
-When my activities or priorities change, I’ll update this page. Last update was January 10th, 2021.
+When my activities or priorities change, I’ll update this page. Last update was January 27th, 2021.
