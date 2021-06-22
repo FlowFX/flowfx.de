@@ -16,8 +16,9 @@ I'm living in Mannheim, Germany,
 
 - happily working as a backend developer at [ioki](https://ioki.com/) - at home of course -,
 - training at home using mostly kettlebells and heavy clubs,
-- treating my damaged Achilles tendon so I can go running again soon,
-- playing my trombone from time to time (our neighbors love me!), and
-- planning fun summer trips that may or may not work out this year.
+- cautiously starting to run, jog, walk again,
+- with my new [running sandals](https://gofreeconcepts.de/collections/shamma-sandals/products/shamma-sandals-warriors-mit-ultragrip-fussbett),
+- rehearsing with my Heidelberg-based rock cover band again (yay!!), and
+- helping out with starting the new sports club [muskeltiere](https://muskeltiere-sport.de/) in Mannheim Jungbusch.
 
-When my activities or priorities change, I’ll update this page. Last update was March 23rd, 2021.
+When my activities or priorities change, I’ll update this page. Last update was June 22nd, 2021.
