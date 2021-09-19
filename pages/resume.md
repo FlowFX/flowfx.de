@@ -31,3 +31,8 @@ Starting 2023, I will be looking for a new job that requires the following:
 
 - *Sep 2013 - Jul 2014:* **Bartender at the [Ganter brewery experience](https://www.ganter-brauerlebnis.de/), Freiburg.**  
   Learned to draw the perfect beer.
+
+## Education
+
+- *2002 - 2008:* **Studied physics in Freiburg and Trondheim.**  
+  Diplom / M.Sc. in physics.
