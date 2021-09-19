@@ -11,11 +11,14 @@
 
 <img src="/images/flowfx-2019.jpg" alt="Florian Posdziech headshot" style="width:100%;max-width:250px">
 
-My name is Florian Posdziech. I'm a trained physicist, amateur musician, podcaster, and am currently working as a backend developer for [ioki](https://ioki.com/) in Frankfurt, Germany.
+My name is Florian Posdziech. I'm a trained physicist, amateur musician, recreational podcaster, and am currently
+working as a backend developer for [ioki](https://ioki.com/) in Frankfurt, Germany.
 
 I like reggae music, baseball, fish tacos and beer. I've lived, studied and worked in the USA, Norway and Mexico. Maybe it shows.
 
 Check my [Now page](link://slug/now) to see what I'm up to at the moment.
+
+Recruiters, please check [my resume](link://slug/resume) before contacting me.
 
 ---
 
