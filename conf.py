@@ -822,7 +822,7 @@ All content is licensed under a <a rel="license"
 href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>,
 unless stated otherwise. Embedded YouTube videos are excempt for obvious reasons.
 <a rel="license" href="https://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License"
-style="border-width:0" src="images/cc-by-logo-80x15.png" loading="lazy"/></a>
+style="border-width:0" src="https://flowfx.de/images/cc-by-logo-80x15.png" loading="lazy"/></a>
 """
 
 # A small copyright notice for the page footer (in HTML).
