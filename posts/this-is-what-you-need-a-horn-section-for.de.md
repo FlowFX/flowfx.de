@@ -1,1 +1,1 @@
-<html><body><iframe title="YouTube video player" width="480" height="390" src="http://www.youtube.com/embed/gHbKZa9x1e8?rel=0&amp;hd=1" frameborder="0" allowfullscreen></iframe></body></html>
+<html><body><iframe title="YouTube video player" width="480" height="390" src="http://www.youtube-nocookie.com/embed/gHbKZa9x1e8?rel=0&amp;hd=1" frameborder="0" allowfullscreen></iframe></body></html>

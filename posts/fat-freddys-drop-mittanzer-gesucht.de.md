@@ -4,4 +4,4 @@ Das, was die Jungs von Fat Freddy's Drop im August auf die Bühne gebracht haben
 
 <a href="http://www.fkpscorpio.com/kuenstler.asp?nummer=187027">Im Juni spielt Fat Freddy's Drop wieder in Deutschland</a>. Das kann ich mir nicht entgehen lassen, weswegen ich nun Mittänzer und -fahrer für das Konzert am 27.06. in Offenbach suche. Wer mag?
 
-<iframe title="YouTube video player" width="480" height="300" src="http://www.youtube.com/embed/EDVogNbo3Cg?rel=0&amp;hd=1" frameborder="0" allowfullscreen></iframe></p></body></html>
+<iframe title="YouTube video player" width="480" height="300" src="http://www.youtube-nocookie.com/embed/EDVogNbo3Cg?rel=0&amp;hd=1" frameborder="0" allowfullscreen></iframe></p></body></html>

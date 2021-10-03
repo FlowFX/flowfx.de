@@ -4,8 +4,8 @@
 
 h4&gt;"I-Fire"
 
-<iframe title="YouTube video player" class="youtube-player" type="text/html" width="400" height="300" src="http://www.youtube.com/embed/0V7jYlFwDw8" frameborder="0"></iframe>
+<iframe title="YouTube video player" class="youtube-player" type="text/html" width="400" height="300" src="http://www.youtube-nocookie.com/embed/0V7jYlFwDw8" frameborder="0"></iframe>
 
 <h4>"Wir kenn' das"</h4>
 
-<iframe title="YouTube video player" class="youtube-player" type="text/html" width="400" height="300" src="http://www.youtube.com/embed/ug46frEboGY" frameborder="0"></iframe></body></html>
+<iframe title="YouTube video player" class="youtube-player" type="text/html" width="400" height="300" src="http://www.youtube-nocookie.com/embed/ug46frEboGY" frameborder="0"></iframe></body></html>

@@ -4,4 +4,4 @@ Während Alanis Morissette auf der Hauptbühne vor schwach besetztem Publikum sp
 
 Kurz: es war großartig! Live-Bilder finde ich natürlich gerade nicht, nur Aufnahmen von ihrem letztjährigen Auftritt auf der Hauptbühne. Irgendwas sagt mir aber, dass die Sänger zehn Jahre vorher mit mehr Elan auf der Bühne standen.
 
-<iframe title="YouTube video player" width="480" height="300" src="http://www.youtube.com/embed/ZIV_7lRXJsk" frameborder="0" allowfullscreen></iframe></p></body></html>
+<iframe title="YouTube video player" width="480" height="300" src="http://www.youtube-nocookie.com/embed/ZIV_7lRXJsk" frameborder="0" allowfullscreen></iframe></p></body></html>

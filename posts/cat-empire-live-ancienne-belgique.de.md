@@ -2,7 +2,7 @@
 
 <div class="embed-responsive embed-responsive-16by9">
 
-<iframe width="1280" height="720" src="//www.youtube.com/embed/eiY3xMM4DSk" frameborder="0" allowfullscreen></iframe>
+<iframe width="1280" height="720" src="//www.youtube-nocookie.com/embed/eiY3xMM4DSk" frameborder="0" allowfullscreen></iframe>
 
 </div>
 

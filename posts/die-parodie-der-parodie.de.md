@@ -2,4 +2,4 @@
 
 Abgesehen von der überzogenen Ansage und dem deutschen Text, habe ich die Chucks genau so in Erinnerung. Danke an Sören für den Tipp!
 
-<iframe title="YouTube video player" width="480" height="300" src="http://www.youtube.com/embed/deHQwzGpPzk?rel=0&amp;hd=1" frameborder="0" allowfullscreen></iframe></p></body></html>
+<iframe title="YouTube video player" width="480" height="300" src="http://www.youtube-nocookie.com/embed/deHQwzGpPzk?rel=0&amp;hd=1" frameborder="0" allowfullscreen></iframe></p></body></html>

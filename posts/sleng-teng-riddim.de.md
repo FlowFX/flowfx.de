@@ -7,18 +7,18 @@
 
 <p>Der <a href="http://en.wikipedia.org/wiki/Sleng_Teng" title="Wikipediaartikel zum Sleng Teng (EN)">Sleng Teng Riddim</a> von <a href="http://en.wikipedia.org/wiki/King_Jammy" title="King Jammy in der Wikipedia (EN)">King Jammy</a> ist der erste digitale Riddim der Reggaegeschichte, zu allererst besungen von <a href="http://en.wikipedia.org/wiki/Wayne_Smith_(musician)" title="Wikipedia über Wayne Smith (EN)">Wayne Smith</a>:
 
-<iframe title="YouTube video player" width="480" height="390" src="http://www.youtube.com/embed/Wjw7m-BKmQ8?rel=0&amp;hd=1" frameborder="0" allowfullscreen></iframe>
+<iframe title="YouTube video player" width="480" height="390" src="http://www.youtube-nocookie.com/embed/Wjw7m-BKmQ8?rel=0&amp;hd=1" frameborder="0" allowfullscreen></iframe>
 
 
 <!--more-->
 h
 
 Eingespielt wurde er mit einem Casio MT-40, so etwa wie hier:
-<iframe title="YouTube video player" width="480" height="390" src="http://www.youtube.com/embed/56hVoZ93QkA?rel=0&amp;hd=1" frameborder="0" allowfullscreen></iframe>
+<iframe title="YouTube video player" width="480" height="390" src="http://www.youtube-nocookie.com/embed/56hVoZ93QkA?rel=0&amp;hd=1" frameborder="0" allowfullscreen></iframe>
 
 
 
 Wenn man ihn selbst spielt, stellt sich die Frage: Ist das erste Intervall ein Halb- oder ein Ganzton? Beides klingt für sich gesehen ziemlich genial gut. Ich war immer für nen Ganzton. So richtig raushören konnte ich es nämlich nie. Zumal diverse Covers ganz sicher einen Ganzton beinhalten.
 
 Nun ist es also geklärt und ich darf meine Lieblingsversion des Sleng Teng Riddims präsentieren, selbstverständlich mit einem großartigen Bläserriff:
-<iframe title="YouTube video player" width="480" height="390" src="http://www.youtube.com/embed/wu30O_ZL2Gw?rel=0&amp;hd=1" frameborder="0" allowfullscreen></iframe></p></body></html>
+<iframe title="YouTube video player" width="480" height="390" src="http://www.youtube-nocookie.com/embed/wu30O_ZL2Gw?rel=0&amp;hd=1" frameborder="0" allowfullscreen></iframe></p></body></html>
