@@ -196,11 +196,13 @@ POSTS = [
     ("posts/*.rst", "blog", "post.tmpl"),
     ("posts/*.txt", "blog", "post.tmpl"),
     ("posts/*.html", "blog", "post.tmpl"),
+    ("posts/*.org", "blog", "post.tmpl"),
 ]
 PAGES = [
     ("pages/*.md", "", "story.tmpl"),
     ("pages/*.html", "", "story.tmpl"),
     ("pages/*.rst", "", "story.tmpl"),
+    ("pages/*.org", "", "story.tmpl"),
     ("private/*.md", "private", "story.tmpl"),
     ("private/*.html", "private", "story.tmpl"),
     ("stories/*.rst", "stories", "story.tmpl"),
@@ -290,6 +292,7 @@ COMPILERS = {
     # but is disabled by default as it would conflict
     # with many of the others.
     # "pandoc": ('.rst', '.md', '.txt'),
+    "orgmode": ('.org'),
 }
 
 # Create by default posts in one file format?
