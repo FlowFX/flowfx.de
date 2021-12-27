@@ -9,14 +9,14 @@
 .. type: text
 -->
 
-*(This is [a Now page](http://nownownow.com/about). Where's yours?)*
-
+_(This is [a Now page](http://nownownow.com/about). Where's yours?)_
 
 I'm living in Mannheim, Germany,
 
 - happily working as a backend developer at [ioki](https://ioki.com/),
-- training at Mannheim's newest sports club [muskeltiere](https://www.muskeltiere-sport.de/),
-- slowly building up my running mileage, and
-- playing with my Heidelberg-based rock cover band again (yay!!).
+- running (again 🙌), kettlebelling, and sometimes barbelling,
+- [Studying Elixir](https://pragprog.com/titles/elixir16/programming-elixir-1-6/),
+- falling deeper and deeper into the rabbit hole that is Emacs, and
+- playing with my Heidelberg-based rock cover band (yay!!).
 
-When my activities or priorities change, I’ll update this page. Last update was September 2nd, 2021.
+When my activities or priorities change, I’ll update this page. Last update was December 27th, 2021.
