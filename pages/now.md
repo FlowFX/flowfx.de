@@ -14,9 +14,10 @@ _(This is [a Now page](http://nownownow.com/about). Where's yours?)_
 I'm living in Mannheim, Germany,
 
 - happily working as a backend developer at [ioki](https://ioki.com/),
-- running (again 🙌), kettlebelling, and sometimes barbelling at [Muskeltiere](https://www.muskeltiere-sport.de/),
-- [Studying Elixir](https://pragprog.com/titles/elixir16/programming-elixir-1-6/),
-- falling deeper and deeper into the rabbit hole that is Emacs, and
-- playing with my Heidelberg-based rock cover band (yay!!).
+- slowly but steadily increasing my running mileage (Yay! 🙌),
+- kettlebelling - currently running Clean & Press and Swing programs,
+- (sometimes) [Studying Elixir](https://pragprog.com/titles/elixir16/programming-elixir-1-6/),
+- using Emacs everyday - but still loving the Vim+tmux combo for work, and
+- playing loud music with my Heidelberg-based rock (funk? pop?) cover band (🤘).
 
-When my activities or priorities change, I’ll update this page. Last update was December 28th, 2021.
+When my activities or priorities change, I’ll update this page. Last update was January 13th, 2022.
