@@ -669,7 +669,7 @@ FILTERS = {
 GALLERY_FOLDERS = {"galleries": "galleries"}
 # More gallery options:
 # THUMBNAIL_SIZE = 360
-# MAX_IMAGE_SIZE = 1280
+MAX_IMAGE_SIZE = 1280
 USE_FILENAME_AS_TITLE = True
 # EXTRA_IMAGE_EXTENSIONS = []
 #
@@ -678,7 +678,7 @@ USE_FILENAME_AS_TITLE = True
 
 # If set to True, EXIF data will be copied when an image is thumbnailed or
 # resized.
-# PRESERVE_EXIF_DATA = False
+PRESERVE_EXIF_DATA = False
 
 #
 # Folders containing images to be used in normal posts or pages. Images will be
