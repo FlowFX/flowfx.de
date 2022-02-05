@@ -26,11 +26,6 @@ which I read from time to time, or
 
 if you happen to have my phone number.
 
-## also
-
-* [Codeberg](https://codeberg.org/flowfx/),
-* [GitHub](https://github.com/flowfx/)
-
 ****
 
 <a name="impressum"></a>
