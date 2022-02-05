@@ -16,15 +16,15 @@ the [Twitter](https://twitter.com/flowfx_) if you must.~~ You can also contact 
 ## email
 
   * hallo (at) <span style="display: none">don't spam me</span> flowfx (dot) <span style="display: none">really, please don't</span> de
+  
+which I read from time to time. _Recruiters_, please check [my resume](link://slug/resume) before contacting me.
 
-which I read from time to time, or
+Or, if you happen to have my phone number, use
 
 ## secure instant messaging
 
   * [Signal](https://whispersystems.org/) (preferred),
-  * iMessage (well, more or less secure),
-
-if you happen to have my phone number.
+  * iMessage (well, more or less secure).
 
 ****
 
