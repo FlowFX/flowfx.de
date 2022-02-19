@@ -43,7 +43,17 @@ _Dolby Frontal_: A rock pop funk cover band based in Heidelberg.
 
 ---
 
-### More of my stuff on the interwebs
+## Code
+
+I do most of my coding for work, so the only public repositories that I regularly touch are my configuration files:
+
+- [My dotfiles](https://codeberg.org/flowfx/dotfiles) for Vim, tmux, zsh, i3, and such,
+- a [Doom Emacs configuration](https://codeberg.org/flowfx/doom.d), and
+- an [Ansible playbook](https://codeberg.org/flowfx/ansible-localhost) for my everything not covered by the dotfiles.
+
+--- 
+
+## More of my stuff on the interwebs
 
 - [Florian Op Tour](https://florianoptour.de/)
 - [flowfx @ Codeberg.org](https://codeberg.org/flowfx/), e.g. [my dotfiles](https://codeberg.org/flowfx/dotfiles)
