@@ -37,7 +37,7 @@ My next gigs are:
 
 ### Training
 
-[I run](https://runalyze.com/athlete/flowfx), and I train with kettlebells. Sometimes I join my wife for some CrossFitty-like training with the [muskeltiere](https://www.muskeltiere-sport.de/) in the Jungbusch.
+[I run](https://runalyze.com/athlete/flowfx), and I train with kettlebells. Sometimes I join my wife for some CrossFit-like training at our friend's gym [muskeltiere](https://www.muskeltiere-sport.de/) in the Jungbusch.
 
 ### Coding
 
