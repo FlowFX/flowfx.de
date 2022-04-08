@@ -19,7 +19,7 @@ Starting 2023, I will be looking for a new job that requires the following:
 ## Relevant job experience
 
 - _Since September 2019:_ **Backend Developer at [ioki GmbH](https://ioki.com/), Frankfurt.**  
-  At ioki we work with Ruby on Rails, PostgreSQL, PostGIS, Redis, Sidekiq, and
+  We work with Ruby on Rails, PostgreSQL, PostGIS, and
   all the other fun standard stuff. My teammates are incredibly skilled, and I
   am learning a ton from them. Sometimes I can teach them as well. While it's
   not hard coding-wise, I have the most fun translating public transport pricing
@@ -41,7 +41,7 @@ Starting 2023, I will be looking for a new job that requires the following:
   [LaTeX](https://www.latex-project.org/) for templating and typesetting
   documents, and I fell in love with [pytest](https://docs.pytest.org/).
 
-  This was a super interesting collaborations between lawyers, designers, and me
+    This was a super interesting collaborations between lawyers, designers, and me
   as the developer. While the product never went anywhere, you can still find
   the designs in my friend [Angélica Ramos's portfolio](https://angelica-ramos.com/portfolio/lexa/).
 
