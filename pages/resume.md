@@ -41,7 +41,7 @@ Starting 2023, I will be looking for a new job that requires the following:
   [LaTeX](https://www.latex-project.org/) for templating and typesetting
   documents, and I fell in love with [pytest](https://docs.pytest.org/).
 
-    This was a super interesting collaborations between lawyers, designers, and me
+    This was a super interesting collaboration between lawyers, designers, and me
   as the developer. While the product never went anywhere, you can still find
   the designs in my friend [Angélica Ramos's portfolio](https://angelica-ramos.com/portfolio/lexa/).
 
