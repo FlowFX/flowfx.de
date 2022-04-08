@@ -11,39 +11,35 @@
 
 <img src="/images/flowfx-2019.jpg" alt="Florian Posdziech headshot" style="width:100%;max-width:250px">
 
-My name is Florian Posdziech. I'm a trained physicist, amateur musician, runner,
-recreational podcaster, and am currently working as a backend developer for
+My name is Florian Posdziech. I'm a software developer, trombonist, runner, and
+occasional podcaster. I am currently working as a backend developer for
 [ioki](https://ioki.com/) in Frankfurt, Germany.
 
-I like reggae music, baseball, fish tacos and beer. I've lived, studied and worked in the USA, Norway and Mexico. Maybe it shows.
+I like reggae music, baseball, fish tacos, and beer. I've lived, studied and worked in the USA, Norway and Mexico. Maybe it shows.
 
 Check my [Now page](link://slug/now) to see what I'm up to at the moment.
 
-_Recruiters_, please check [my resume](link://slug/resume) before contacting me.
+_Recruiters_, please read [my resume](link://slug/resume) before contacting me.
 
 ---
 
-## Music
+## What I do
 
-_The Block Ice Horn Section_: A 4-man horn section playing Reggae and Ska music, most often with **The Uplifters** from Freiburg.
+### Music
 
-_Dolby Frontal_: A rock pop funk cover band based in Heidelberg.
+I play the trombone in 2 bands, the Reggae and Ska band _The Uplifters & Block Ice Horn Section_ from Freiburg, and _Dolby Frontal_, a rock pop (funk?) cover band out of Heidelberg.
 
----
+My next gigs are:
 
-## Podcasts
+- May 21st, Dolby Frontal @ our guitarist's wedding
+- June 24th, The Uplifters & Block Ice Horn Section @ [Lorettobad](https://www.badeninfreiburg.de/baeder-saunen/lorettobad), Freiburg
+- September 27th, The Uplifters & Block Ice Horn Section @ [The Barn Kitchen](https://www.thebarnkitchen.de/), Kirchzarten
 
-**[Several Ways To Live (in Mexico City)](https://severalwaystolive.com/)**: An English podcast that I record together with my friend [Nick Farr](https://chaos.social/web/accounts/1767). It used to be about Mexican food and culture. Now it's something else.
+### Training
 
-**[Tacos und Limetten](https://tacosundlimetten.de/)**: A German podcast where I talk to fellow expats in Mexico City.
+[I run](https://runalyze.com/athlete/flowfx), and I train with kettlebells. Sometimes I join my wife for some CrossFitty-like training with the [muskeltiere](https://www.muskeltiere-sport.de/) in the Jungbusch.
 
-**[Cultural Comments - der C3S-Podcast](https://podcast.c3s.cc/)**: A German podcast by and for the C3S, an upcoming alternative to the GEMA.
-
-<!-- **[Der Posdcast](https://posdcast.de/)**: My newest one. We'll have to wait and see what it is going to become. -->
-
----
-
-## Code
+### Coding
 
 I do most of my coding for work, so the only public repositories that I regularly touch are my configuration files:
 
@@ -51,12 +47,22 @@ I do most of my coding for work, so the only public repositories that I regularl
 - a [Doom Emacs configuration](https://codeberg.org/flowfx/doom.d), and
 - an [Ansible playbook](https://codeberg.org/flowfx/ansible-localhost) for my everything not covered by the dotfiles.
 
---- 
+From time to time I spend time on [my pet project](https://github.com/FlowFX/divingdolphin).
+
+### Podcasts
+
+Sometimes I talk with friends into microphones.
+
+**[Several Ways To Live (in Mexico City)](https://severalwaystolive.com/)**: An English podcast that I record together with my friend [Nick Farr](https://chaos.social/web/accounts/1767). It used to be about Mexican food and culture. Now it's something else.
+
+**[Tacos und Limetten](https://tacosundlimetten.de/)**: A German podcast where I talk to fellow expats in Mexico City.
+
+**[Cultural Comments - der C3S-Podcast](https://podcast.c3s.cc/)**: A German podcast by and for the C3S, an upcoming alternative to the GEMA.
+
+---
 
 ## More of my stuff on the interwebs
 
 - [Florian Op Tour](https://florianoptour.de/)
-- [flowfx @ Codeberg.org](https://codeberg.org/flowfx/), e.g. [my dotfiles](https://codeberg.org/flowfx/dotfiles)
+- [flowfx @ Codeberg](https://codeberg.org/flowfx/)
 - [flowfx @ GitHub](https://github.com/flowfx/)
-
-tbc

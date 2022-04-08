@@ -15,20 +15,21 @@ the [Twitter](https://twitter.com/flowfx_) if you must.~~ You can also contact 
 
 ## email
 
-  * hallo (at) <span style="display: none">don't spam me</span> flowfx (dot) <span style="display: none">really, please don't</span> de
-  
-which I read from time to time. _Recruiters_, please check [my resume](link://slug/resume) before contacting me.
+- hallo (at) <span style="display: none">don't spam me</span> flowfx (dot) <span style="display: none">really, please don't</span> de
+
+which I read from time to time. _Recruiters_, please [read this](link://slug/resume) before contacting me.
 
 Or, if you happen to have my phone number, use
 
 ## secure instant messaging
 
-  * [Signal](https://whispersystems.org/) (preferred),
-  * iMessage (well, more or less secure).
+- [Signal](https://whispersystems.org/) (preferred),
+- iMessage (well, more or less secure).
 
-****
+---
 
 <a name="impressum"></a>
+
 # Impressum
 
 As required by German law.
@@ -45,4 +46,4 @@ R1 14a
 
 E-Mail:
 kontakt-955644
- (at) <span style="display: none">don't spam me</span> flowfx (punkt) <span style="display: none">really, please don't</span> de<br>
+(at) <span style="display: none">don't spam me</span> flowfx (punkt) <span style="display: none">really, please don't</span> de<br>
