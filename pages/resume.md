@@ -25,7 +25,7 @@ Starting 2023, I will be looking for a new job that requires the following:
   not hard coding-wise, I have the most fun translating public transport pricing
   systems into human- and machine-readable code. And writing tests of course.
 
-  I host our internal series of tech-focused lightning talks.
+    I host our internal series of tech-focused lightning talks.
 
 - _May 2018 - Aug 2019:_ **Software Developer Ruby on Rails at CHI Deutschland Cargo Handling GmbH, Frankfurt.**  
   Looking for a job in the Rhein-Main-Neckar area, I overlooked the requirement for
