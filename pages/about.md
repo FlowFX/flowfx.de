@@ -31,9 +31,9 @@ I play the trombone in 2 bands, the Reggae and Ska band _The Uplifters & Block I
 
 My next gigs are:
 
-- May 21st, Dolby Frontal @ our guitarist's wedding
-- June 24th, The Uplifters & Block Ice Horn Section @ [Lorettobad](https://www.badeninfreiburg.de/baeder-saunen/lorettobad), Freiburg
-- September 27th, The Uplifters & Block Ice Horn Section @ [The Barn Kitchen](https://www.thebarnkitchen.de/), Kirchzarten
+- May 21st, Dolby Frontal @ our guitarist's wedding.
+- June 24th, The Uplifters & Block Ice Horn Section @ [Lorettobad](https://www.badeninfreiburg.de/baeder-saunen/lorettobad), Freiburg.
+- September 27th, The Uplifters & Block Ice Horn Section @ [The Barn Kitchen](https://www.thebarnkitchen.de/), Kirchzarten.
 
 ### Training
 
