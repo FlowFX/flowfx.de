@@ -276,16 +276,16 @@ FILES_FOLDERS = {'files': ''}
 COMPILERS = {
     "rest": ('.rst', '.txt'),
     "markdown": ('.md', '.mdown', '.markdown'),
-    "textile": ('.textile',),
-    "txt2tags": ('.t2t',),
-    "bbcode": ('.bb',),
-    "wiki": ('.wiki',),
-    "ipynb": ('.ipynb',),
+    # "textile": ('.textile',),
+    # "txt2tags": ('.t2t',),
+    # "bbcode": ('.bb',),
+    # "wiki": ('.wiki',),
+    # "ipynb": ('.ipynb',),
     "html": ('.html', '.htm'),
     # PHP files are rendered the usual way (i.e. with the full templates).
     # The resulting files have .php extensions, making it possible to run
     # them without reconfiguring your server to recognize them.
-    "php": ('.php',),
+    # "php": ('.php',),
     # Pandoc detects the input from the source filename
     # but is disabled by default as it would conflict
     # with many of the others.
@@ -622,7 +622,7 @@ GITHUB_COMMIT_SOURCE = True
 # from nikola import filters
 FILTERS = {
    # ".css": [filters.yui_compressor],
-   ".css": [filters.cssminify],
+   # ".css": [filters.cssminify],
    #".js": [filters.yui_compressor],
    #".jpg": ["jpegoptim --strip-all -m75 -v %s"],
    #".html": [filters.html5lib_minify],
