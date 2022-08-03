@@ -45,3 +45,10 @@ body {
   font-size: 18px;
 	line-height: 1.4;
 }
+
+th, td {
+  border-top: 1px solid;
+}
+th {
+  border-bottom: 1px solid;
+}
