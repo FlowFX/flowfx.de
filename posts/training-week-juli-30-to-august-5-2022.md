@@ -17,19 +17,23 @@ ongoing volume cycles of clean & press and one-handed club swinging. I am also
 trying to start a cycle of Goblet squats in order to add ... more squats to my
 training. I think I need them.
 
-## Saturday July 30
+| Day | Exercise                                     | Weights and reps         | timing                                                |
+| :-- | :------------------------------------------- | :----------------------- | :---------------------------------------------------- |
+| Sat | **Clean & Press**                            | 16kg x 8 x 3/3/2/2/1/1\* | start every 2:30min                                   |
+|     | **Goblet Squat**                             | 16kg x 10 x 4            | EMOM                                                  |
+| Sun | **Swim**                                     |                          | A day at the pool. Not a workout, but active and fun. |
+| Mon | [**Run**](https://runalyze.com/shared/wjdy0) | 6.7km                    | hilly with an offroad section                         |
+| Tue | **Inside Circle**\*\*                        | 6kg x 10 x 5/5           |                                                       |
+|     | **Outside Circle**                           | 6kg x 10 x 5/5           |                                                       |
+|     | **Shield Cast**                              | 6kg x 10 x 5/5           |                                                       |
+| Wed | [**Run**](https://runalyze.com/shared/wlvn8) | 6.6km                    | hot!                                                  |
 
-**Warmup**
-with a 16kg kettlebell: [Around the world](https://www.youtube.com/watch?v=XaegZzSbtr0) (2 x 20/20), [Halo](https://www.youtube.com/watch?v=25xdtjbFPtw) (2 x 5/5),
-[Around the world front to back](https://www.youtube.com/watch?v=TwlQQXAQpaQ) (10 x 1/1), [Halo Goblet Squat](https://www.youtube.com/watch?v=tOAZDLFzdLE) (10 reps).
-
-|                   |                          |                     |
-| :---------------- | :----------------------- | :------------------ |
-| **Clean & Press** | 16kg x 8 x 3/3/2/2/1/1\* | start every 2:30min |
-| **Goblet Squat**  | 16kg x 10 x 4            | EMOM                |
-
-\*: 3 rung reverse ladder goes 3 left, 3 right, 2 left, 2 right, 1 left, 1 right
+\*: 3 rung reverse ladder goes 3 left, 3 right, 2 left, 2 right, 1 left, 1 right  
+\*\*: Single-hand heavy clubs
 
 [**Cooldown!**](https://www.youtube.com/watch?v=pVv1RctiO2Q)
 
 ![Training mats, a kettlebell, and the view outside.](/images/2022/training-2022-07-30.jpg)
+
+Saturday's warmup with a 16kg kettlebell: [Around the world](https://www.youtube.com/watch?v=XaegZzSbtr0) (2 x 20/20), [Halo](https://www.youtube.com/watch?v=25xdtjbFPtw) (2 x 5/5),
+[Around the world front to back](https://www.youtube.com/watch?v=TwlQQXAQpaQ) (10 x 1/1), [Halo Goblet Squat](https://www.youtube.com/watch?v=tOAZDLFzdLE) (10 reps).
