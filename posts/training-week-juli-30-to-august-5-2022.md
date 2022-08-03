@@ -17,16 +17,18 @@ ongoing volume cycles of clean & press and one-handed club swinging. I am also
 trying to start a cycle of Goblet squats in order to add ... more squats to my
 training. I think I need them.
 
-| Day | Exercise                                     | Weights and reps         | timing                                                |
+| Day | Exercise                                     | Weights and reps         | timing / notes                                        |
 | :-- | :------------------------------------------- | :----------------------- | :---------------------------------------------------- |
-| Sat | **Clean & Press**                            | 16kg x 8 x 3/3/2/2/1/1\* | start every 2:30min                                   |
+| Sat | **Clean & Press**                            | 16kg x 8 x 3/3/2/2/1/1\* | every 2:30min                                         |
 |     | **Goblet Squat**                             | 16kg x 10 x 4            | EMOM                                                  |
-| Sun | **Swim**                                     |                          | A day at the pool. Not a workout, but active and fun. |
+| Sun | **Swim**                                     | 400m                     | A day at the pool. Not a workout, but active and fun. |
 | Mon | [**Run**](https://runalyze.com/shared/wjdy0) | 6.7km                    | hilly with an offroad section                         |
 | Tue | **Inside Circle**\*\*                        | 6kg x 10 x 5/5           |                                                       |
 |     | **Outside Circle**                           | 6kg x 10 x 5/5           |                                                       |
 |     | **Shield Cast**                              | 6kg x 10 x 5/5           |                                                       |
 | Wed | [**Run**](https://runalyze.com/shared/wlvn8) | 6.6km                    | hot!                                                  |
+| Thu |                                              |                          |                                                       |
+| Fri |                                              |                          |                                                       |
 
 \*: 3 rung reverse ladder goes 3 left, 3 right, 2 left, 2 right, 1 left, 1 right  
 \*\*: Single-hand heavy clubs
