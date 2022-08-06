@@ -3,7 +3,7 @@
 .. slug: training-week-juli-30-to-august-5-2022
 .. date: 2022-07-30 16:43:15 UTC+02:00
 .. tags:
-.. category:
+.. category: training
 .. link:
 .. description:
 .. type: text
