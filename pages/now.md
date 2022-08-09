@@ -16,8 +16,7 @@ I'm living in Mannheim, Germany,
 - happily working as a backend developer at [ioki](https://ioki.com/),
 - practicing my trombone under the guidance of [Ralf-Werner Kopp](https://der-trompetenlehrer.de/),
 - regularly playing with both my Freiburg- and Heidelberg-based bands,
-- working on my [Kettlebell Clean & Press](https://www.youtube.com/watch?v=bVm5iPTST-A),
-- working on [heavy](https://www.youtube.com/watch?v=0ZzoCasyoAM) [club](https://www.youtube.com/watch?v=0ZzoCasyoAM) [basics](https://www.youtube.com/watch?v=LKNgPDX2wRk), and
+- training with my kettlebells and heavy clubs, and
 - sometimes running.
 
-When my activities or priorities change, I’ll update this page. Last update was July 18th, 2022.
+When my activities or priorities change, I’ll update this page. Last update was August 8, 2022.
