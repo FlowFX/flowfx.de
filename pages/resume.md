@@ -5,25 +5,43 @@
 .. type: text
 -->
 
-Dear recruiters, please don't contact me with any current job offers. At the
-moment, I am extremely happy working at ioki.
+I am very happy working at [ioki](https://ioki.com/) at the moment.
+
+But in 2024 or later I will be moving to Latin America with my wife, who will be
+working at a [German
+school](https://www.auslandsschulwesen.de/Webs/ZfA/DE/Schulnetz/DAS/das_node.html)
+there, and that will require me to have a job that allows me to work
+
+- fully remotely, and
+- from a different timezone (UTC-3 to UTC-5).
+
+Additionally I prefer:
+
+- Part-time employment. Currently I work Mondays through Thursdays, and
+  it greatly benefits my well-being and the quality of my work.
+- Not working on stupid things like cars, bitcoin, or advertising.
 
 ---
 
-Starting 2023, I will be looking for a new job that requires the following:
+I am not a computer scientist. I am a physicist by training and a musician and
+athlete by passion. But I've been working with computers my whole life. I wrote
+my first HTML in the 90s and started developing websites professionally with
+WordPress around 2010.
 
-- Fully remote work and team. I will be moving to somewhere in Latin America in 2024 or later.
-- Part-time employment. I currently work Mondays through Thursdays, and it greatly benefits my well-being and the quality of my work.
-- Nothing stupid like cars, bitcoin, or advertising.
+2016, while living in Mexico, I finally picked up Python and Django in order to
+develop more serious web applications. I got my first paid project in 2017 and
+have been working in the field ever since.
 
 ## Relevant job experience
 
 - _Since September 2019:_ **Backend Developer at [ioki GmbH](https://ioki.com/), Frankfurt.**  
-  We work with Ruby on Rails, PostgreSQL, PostGIS, and
-  all the other fun standard stuff. My teammates are incredibly skilled, and I
-  am learning a ton from them. Sometimes I can teach them as well. While it's
-  not hard coding-wise, I have the most fun translating public transport pricing
-  systems into human- and machine-readable code. And writing tests of course.
+  We work with Ruby on Rails, PostgreSQL, PostGIS, and all the other fun
+  standard stuff. My teammates and my lead [Andreas
+  Schwarzkopf](https://www.linkedin.com/in/andreas-schwarzkopf/) are incredibly
+  skilled, and I am learning a ton from them. Sometimes I can teach them as
+  well. While it's not hard coding-wise, I have the most fun translating public
+  transport pricing systems into human- and machine-readable code. And writing
+  tests of course.
 
     I host our internal series of tech-focused lightning talks.
 
