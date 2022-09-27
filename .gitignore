@@ -9,3 +9,4 @@ state_data.json
 __pycache__
 .doit.db
 venv
+!.github
