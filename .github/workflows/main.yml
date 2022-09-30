@@ -3,17 +3,21 @@ on: [push]
 jobs:
   nikola_build:
     runs-on: ubuntu-latest
-    name: 'Deploy Nikola with rsync'
+    name: 'Build and deploy my Nikola site'
     steps:
-    - name: Install SSH key
-      uses: shimataro/ssh-key-action@v2
-      with:
-        key: ${{ secrets.SSH_KEY }}
-        name: id_ed25519
-        known_hosts: ${{ secrets.KNOWN_HOSTS }}
     - name: Check out repository
       uses: actions/checkout@v2
-    - name: Build and deploy Nikola
+    - name: Build site
       uses: flowfx/nikola-action@v7
       with:
-        dry_run: ${{ github.ref_name != 'master' }}
+        dry_run: true
+    - name: Deploy site
+      if: ${{ github.ref_name == 'master' }}
+      uses: burnett01/rsync-deployments@5.2.1
+      with:
+        switches: -rav --delete
+        path: output/
+        remote_path: /var/www/virtual/flowfx/html/flowfx.de/
+        remote_host: ariel.uberspace.de
+        remote_user: flowfx
+        remote_key: ${{ secrets.SSH_KEY }}

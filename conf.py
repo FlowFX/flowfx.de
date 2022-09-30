@@ -566,9 +566,11 @@ REDIRECTIONS = []
 # to `nikola deploy`.  If no arguments are specified, a preset
 # named `default` will be executed.  You can use as many presets
 # in a `nikola deploy` command as you like.
+
+# DANGER!!! Debugging only
 DEPLOY_COMMANDS = {
     'default': [
-        "rsync -rav --delete output/ flowfx@ariel.uberspace.de:/var/www/virtual/flowfx/html/flowfx.de/",
+        'rsync -rav --delete output/ flowfx@ariel.uberspace.de:/var/www/virtual/flowfx/html/flowfx.de/',
     ]
 }
 
