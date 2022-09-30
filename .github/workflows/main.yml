@@ -16,4 +16,4 @@ jobs:
     - name: Build and deploy Nikola
       uses: flowfx/nikola-action@v6
       with:
-        dry_run: true
+        dry_run: ${{ github.ref_name != 'master' }}
