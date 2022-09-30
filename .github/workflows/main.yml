@@ -3,11 +3,17 @@ on: [push]
 jobs:
   nikola_build:
     runs-on: ubuntu-latest
-    name: 'Deploy Nikola to GitHub Pages'
+    name: 'Deploy Nikola with rsync'
     steps:
-    - name: Check out
+    - name: Install SSH key
+      uses: shimataro/ssh-key-action@v2
+      with:
+        key: ${{ secrets.SSH_KEY }}
+        name: id_ed25519
+        known_hosts: ${{ secrets.KNOWN_HOSTS }}
+    - name: Check out repository
       uses: actions/checkout@v2
-    - name: Build and Deploy Nikola
+    - name: Build and deploy Nikola
       uses: flowfx/nikola-action@v6
       with:
         dry_run: true
