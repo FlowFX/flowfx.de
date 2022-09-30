@@ -14,6 +14,6 @@ jobs:
     - name: Check out repository
       uses: actions/checkout@v2
     - name: Build and deploy Nikola
-      uses: flowfx/nikola-action@v6
+      uses: flowfx/nikola-action@v7
       with:
         dry_run: ${{ github.ref_name != 'master' }}
