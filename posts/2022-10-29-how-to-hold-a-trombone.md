@@ -18,9 +18,10 @@ Instead, I somehow chose a medium-bore, classical [Bach
 36](https://www.bachbrass.com/instruments/trombones/professional/36), with
 gold-brass bell and everything.
 
-What made the difference compared to the other instruments I tried is the incredible,
-full sound this instrument is able to produce. My guitarist Max, who was with me
-at the store, put it this way:
+What made the difference compared to the other instruments I tried is the
+incredible, full sound this instrument is able to produce. My guitarist
+[Max](https://www.youtube.com/user/schmaexle), who was with me at the store, put
+it this way:
 
 > The other instruments are good, too. But this one sounds like it has a
 > built-in compressor.
