@@ -39,18 +39,26 @@ body {
     // Android
     "Roboto",
     // Basic web fallback
-    "Helvetica Neue", Arial, sans-serif,
+    "Helvetica Neue",
+    Arial, sans-serif,
     // Emoji fonts
-    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !default;
+    "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol" !default;
   font-size: 18px;
-	line-height: 1.4;
+  line-height: 1.4;
 }
 
-th, td {
+th,
+td {
   border-top: 1px solid;
 }
 th {
   border-bottom: 1px solid;
+}
+
+blockqote {
+  font-style: italic;
+  font-size: 110%;
 }
 
 /* Prevent URLs from breaking out of container. This is a fix for displaying
@@ -59,7 +67,6 @@ th {
   *
   * Copy&Pasta from https://css-tricks.com/snippets/css/prevent-long-urls-from-breaking-out-of-container/ */
 code {
-
   /* These are technically the same, but use both */
   overflow-wrap: break-word;
   word-wrap: break-word;
