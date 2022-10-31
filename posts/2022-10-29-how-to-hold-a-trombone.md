@@ -16,7 +16,7 @@ spent a good few hours in their practice room trying out different instruments.
 I fully expected to get a light, small-bore, jazz or pop music tenor trombone.
 Instead, I somehow chose a medium-bore, classical [Bach
 36](https://www.bachbrass.com/instruments/trombones/professional/36), with
-gold-brass bell and everything.
+rose brass bell and everything.
 
 What made the difference compared to the other instruments I tried is the
 incredible, full sound this instrument is able to produce. My guitarist
