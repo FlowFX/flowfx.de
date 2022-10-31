@@ -623,8 +623,8 @@ GITHUB_COMMIT_SOURCE = True
 #
 # from nikola import filters
 FILTERS = {
-   # ".css": [filters.yui_compressor],
-   # ".css": [filters.cssminify],
+    # ".css": [filters.yui_compressor],
+   ".css": [filters.cssminify],
    #".js": [filters.yui_compressor],
    #".jpg": ["jpegoptim --strip-all -m75 -v %s"],
    #".html": [filters.html5lib_minify],
