@@ -23,10 +23,10 @@ Additionally I prefer:
 
 ---
 
-I am not a computer scientist. I am a physicist by training and a musician and
-athlete by passion. But I've been working with computers my whole life. I wrote
-my first HTML in the 90s and started developing websites professionally with
-WordPress around 2010.
+I am not a computer scientist. I am a physicist by training and a musician by
+passion. But I've been working with computers my whole life. I wrote my first
+HTML in the 90s and started developing websites professionally with WordPress
+around 2010.
 
 2016, while living in Mexico, I finally picked up Python and Django in order to
 develop more serious web applications. I got my first paid project in 2017 and
