@@ -51,6 +51,8 @@ have been working in the field ever since.
   thus jumpstarted my career as a Rails developer. We now work together at ioki,
   so everything worked out fine.
 
+    Proudest achievement: I successfully replaced Jira with GitHub issues for the team's task management.
+
 - _Jan 2017 - Dec 2017:_ **Software Developer Python at Lexa.mx, Mexico City.**  
   After teaching myself the basics of web development using Python in the
   previous year, I got the opportunity to build the prototype for a SaaS startup from
@@ -62,6 +64,8 @@ have been working in the field ever since.
     This was a super interesting collaboration between lawyers, designers, and me
   as the developer. While the product never went anywhere, you can still find
   the designs in my friend [Angélica Ramos's portfolio](https://angelica-ramos.com/portfolio/lexa/).
+
+    Coolest story to tell: How I tested the LaTeX templates for legal documents using pytest.
 
 - _Sep 2013 - Jul 2014:_ **Bartender at the [Ganter brewery experience](https://www.ganter-brauerlebnis.de/), Freiburg.**  
   Learned to draw the perfect beer.
