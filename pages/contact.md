@@ -9,9 +9,8 @@
 .. type: text
 -->
 
-Message me on the Fediverse <a rel="me" href="https://chaos.social/@flowfx"
-title="Look me up on mastodon!">@flowfx@chaos.social</a> aka Mastodon. ~~Or on
-the [Twitter](https://twitter.com/flowfx_) if you must.~~ You can also contact me via
+Message me on Mastodon <a rel="me" href="https://chaos.social/@flowfx"
+title="Look me up on mastodon!">@flowfx@chaos.social</a>! You can also contact me via
 
 ## email
 
@@ -24,7 +23,8 @@ Or, if you happen to have my phone number, use
 ## secure instant messaging
 
 - [Signal](https://whispersystems.org/) (preferred),
-- iMessage (well, more or less secure).
+- iMessage (well, more or less secure),
+- [Matrix](https://matrix.to/#/@flowfx:freiburg.social) (no phone number necessary).
 
 ---
 
