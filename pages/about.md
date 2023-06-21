@@ -9,9 +9,11 @@
 .. type: text
 -->
 
-<img src="/images/flowfx-2019.jpg" alt="Florian Posdziech headshot" style="width:100%;max-width:250px">
+<img src="/images/flowfx-2023.jpg" alt="Florian Posdziech provile picture. CC-BY Florian \"Cheata\" Köhler" style="width:100%;max-width:250px">
 
-My name is Florian Posdziech. I'm a software developer, trombonist, runner, and
+<small>Photo: CC-BY 4.0 Florian »Cheatha« Köhler</small>
+
+My name is Florian Posdziech. I'm a software developer, trombone player, runner, and
 occasional podcaster. I am currently working as a backend developer for
 [ioki](https://ioki.com/) in Frankfurt, Germany.
 
@@ -27,13 +29,9 @@ _Recruiters_, please read [my resume](link://slug/resume) before contacting me.
 
 ### Music
 
-I play the trombone in 2 bands, the Reggae and Ska band _The Uplifters & Block Ice Horn Section_ from Freiburg, and _Dolby Frontal_, a rock pop (funk?) cover band out of Heidelberg.
+I play the trombone for the Reggae and Ska band \*_The Uplifters & Block Ice Horn Section_ from Freiburg.
 
-My next gigs are:
-
-- May 21st, Dolby Frontal @ our guitarist's wedding.
-- June 24th, The Uplifters & Block Ice Horn Section @ [Lorettobad](https://www.badeninfreiburg.de/baeder-saunen/lorettobad), Freiburg.
-- September 27th, The Uplifters & Block Ice Horn Section @ [The Barn Kitchen](https://www.thebarnkitchen.de/), Kirchzarten.
+You'll find our next gigs at [theuplifters.de/termine](https://theuplifters.de/termine).
 
 ### Training
 
@@ -47,7 +45,7 @@ I do most of my coding for work, so the only public repositories that I regularl
 - a [Doom Emacs configuration](https://codeberg.org/flowfx/doom.d), and
 - an [Ansible playbook](https://codeberg.org/flowfx/ansible-localhost) for my everything not covered by the dotfiles.
 
-From time to time I spend time on [my pet project](https://github.com/FlowFX/divingdolphin).
+<strike>From time to time</strike> Never do I spend time on [my pet project](https://github.com/FlowFX/divingdolphin).
 
 ### Podcasts
 
