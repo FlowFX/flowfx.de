@@ -21,41 +21,36 @@ I like reggae music, baseball, fish tacos, and beer. I've lived, studied and wor
 
 Check my [Now page](link://slug/now) to see what I'm up to at the moment.
 
-_Recruiters_, please read [my resume](link://slug/resume) before contacting me.
-
 ---
 
 ## What I do
 
 ### Music
 
-I play the trombone for the Reggae and Ska band \*_The Uplifters & Block Ice Horn Section_ from Freiburg.
+I play the trombone in the Reggae and Ska band _The Uplifters & Block Ice Horn Section_ from Freiburg.
 
 You'll find our next gigs at [theuplifters.de/termine](https://theuplifters.de/termine).
 
 ### Training
 
-[I run](https://runalyze.com/athlete/flowfx), and I train with kettlebells. Sometimes I join my wife for some CrossFit-like training at our friend's gym [muskeltiere](https://www.muskeltiere-sport.de/) in the Jungbusch.
+[I run](https://runalyze.com/athlete/flowfx), and I train with kettlebells. Sometimes I join my wife for some CrossFit at our friend's gym [muskeltiere](https://www.muskeltiere-sport.de/) in the Jungbusch.
 
 ### Coding
 
 I do most of my coding for work, so the only public repositories that I regularly touch are my configuration files:
 
-- [My dotfiles](https://codeberg.org/flowfx/dotfiles) for Vim, tmux, zsh, i3, and such,
-- a [Doom Emacs configuration](https://codeberg.org/flowfx/doom.d), and
-- an [Ansible playbook](https://codeberg.org/flowfx/ansible-localhost) for my everything not covered by the dotfiles.
-
-<strike>From time to time</strike> Never do I spend time on [my pet project](https://github.com/FlowFX/divingdolphin).
+- [My dotfiles](https://codeberg.org/flowfx/dotfiles) for Vim, tmux, zsh, i3, and such, and
+- a [Doom Emacs configuration](https://codeberg.org/flowfx/doom.d).
 
 ### Podcasts
 
-Sometimes I talk with friends into microphones.
+Sometimes I talk into a microphone.
 
 **[Several Ways To Live (in Mexico City)](https://severalwaystolive.com/)**: An English podcast that I record together with my friend [Nick Farr](https://chaos.social/web/accounts/1767). It used to be about Mexican food and culture. Now it's something else.
 
-**[Tacos und Limetten](https://tacosundlimetten.de/)**: A German podcast where I talk to fellow expats in Mexico City.
+**[Tacos und Limetten](https://tacosundlimetten.de/)**: A German podcast where I talk to fellow and former expats in Mexico City.
 
-**[Cultural Comments - der C3S-Podcast](https://podcast.c3s.cc/)**: A German podcast by and for the C3S, an upcoming alternative to the GEMA.
+**[Cultural Comments - der C3S-Podcast](https://podcast.c3s.cc/)**: A German podcast by and for the C3S, an upcoming alternative to the GEMA collecting sociaty.
 
 ---
 

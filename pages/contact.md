@@ -16,9 +16,11 @@ title="Look me up on mastodon!">@flowfx@chaos.social</a>! You can also contact m
 
 - hallo (at) <span style="display: none">don't spam me</span> flowfx (dot) <span style="display: none">really, please don't</span> de
 
-which I read from time to time. _Recruiters_, please [read this](link://slug/resume) before contacting me.
+which I read from time to time.
 
-Or, if you happen to have my phone number, use
+_Recruiters_, please don't bother contacting me. I am _very_ happy with my current position. Check again next year!
+
+If you happen to have my phone number, use
 
 ## secure instant messaging
 
@@ -45,5 +47,4 @@ R1 14a
 ## Kontakt:
 
 E-Mail:
-kontakt-955644
-(at) <span style="display: none">don't spam me</span> flowfx (punkt) <span style="display: none">really, please don't</span> de<br>
+hallo (at) <span style="display: none">don't spam me</span> flowfx (punkt) <span style="display: none">really, please don't</span> de<br>
