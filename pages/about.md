@@ -21,8 +21,6 @@ I like reggae music, baseball, fish tacos, and beer. I've lived, studied and wor
 
 Check my [Now page](link://slug/now) to see what I'm up to at the moment.
 
-_Recruiters_, please don't bother contacting me. I am _very_ happy with my current position. Check again next year!
-
 ---
 
 ## What I do
