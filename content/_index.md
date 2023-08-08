@@ -1,4 +1,4 @@
 +++
 title = "FlowFX"
-template = "section.html"
+template = "blog.html"
 +++
