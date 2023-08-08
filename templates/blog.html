@@ -2,7 +2,7 @@
 
 {% block main %}
   <main>
-    {% for page in section.pages %}
+    {% for page in paginator.pages %}
       <article>
         <h1><a href="{{ page.permalink }}">{{ page.title }}</a></h1>
       {%- if page.date %}
@@ -20,4 +20,14 @@
       No posts yet
     {% endfor %}
   </main>
+
+  <nav class="pagination">
+      {% if paginator.previous %}
+          <a class="previous" href="{{ paginator.previous }}">‹ Older posts</a>
+      {% endif %}
+      {% if paginator.next %}
+          <a class="next" href="{{ paginator.next }}">Newer posts ›</a>
+      {% endif %}
+  </nav>
 {% endblock %}
+
