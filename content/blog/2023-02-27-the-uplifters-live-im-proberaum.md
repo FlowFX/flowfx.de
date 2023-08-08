@@ -14,7 +14,7 @@ Well, here they are, two of our original songs, live in the studio:
 
 ## Be Free
 
-{{ youtube(id="LRyKdED6srA", class="video-container") }}
+{{ youtube(id="LRyKdED6srA") }}
 
 ## Change My Life
 

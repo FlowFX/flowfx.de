@@ -1,4 +1,9 @@
-<html><body><p>Der Chaos Communication Congress ist mehr als nur ein Hackertreffen. Der Großteil der Vorträge sind allgemeinverständlich und für jedermann interessant. Gut, dass sie alle in Ton und Bild festgehalten werden.
+---
+title: 30C3 - Politische Bildung für Jedermann
+tags: 30c3,edward snowden,glenn greenwald,josef foschepoth,linus,markus beckedahl,neumann,Video,Sonstiges
+---
+
+<p>Der Chaos Communication Congress ist mehr als nur ein Hackertreffen. Der Großteil der Vorträge sind allgemeinverständlich und für jedermann interessant. Gut, dass sie alle in Ton und Bild festgehalten werden.
 
 Diese unvollständige Liste soll einen Einstiegspunkt bieten. Alle weiteren Vorträge könnt ihr <a href="https://media.ccc.de/browse/congress/2013/">direkt auf den Seiten des CCC</a> durchstöbern.
 
@@ -8,9 +13,9 @@ Professor Josef Foschepoth aus Freiburg erläutert, wieso die aktuellen Enthüll
 
 Der Vortrag beginnt bei ca. 10:30 Minuten. Irgendwie ist das Video (noch) nicht richtig geschnitten.
 
-https://www.youtube.com/watch?v=4sxA91SRfrI
+{{ youtube(id="4sxA91SRfrI")}}
 
-<!--more-->
+<!-- more -->
 
 <h3>Bullshit made in Germany</h3>
 
@@ -50,4 +55,4 @@ https://www.youtube.com/watch?v=gyA6NZ9C9pM
 
 to be continued…
 
-Ich nehme gerne Ergänzungsvorschläge in den Kommentaren entgegen!</body></html>
+Ich nehme gerne Ergänzungsvorschläge in den Kommentaren entgegen!
