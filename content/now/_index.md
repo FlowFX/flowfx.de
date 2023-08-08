@@ -1,7 +1,8 @@
----
-title: What I'm doing at the moment
-slug: now
----
++++
+template = "index.html"
++++
+
+# What I'm doing at the moment
 
 _(This is [a Now page](http://nownownow.com/about). Where's yours?)_
 

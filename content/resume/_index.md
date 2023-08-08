@@ -1,7 +1,8 @@
----
-title: Resume
-slug: resume
----
++++
+template = "index.html"
++++
+
+# Resume
 
 I am very happy working at [ioki](https://ioki.com/) at the moment.
 

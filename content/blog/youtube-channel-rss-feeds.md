@@ -2,7 +2,10 @@
 title: YouTube channel RSS feeds
 slug: youtube-channel-rss-feeds
 date: 2020-10-10
-tags: rss
+taxonomies:
+  tags:
+    - rss
+    - youtube
 ---
 
 For mostly unknown reasons I want to delete my Google account at some point in the future. The Google services that I am regularly using are Search, Maps, and - increasingly - YouTube. The latter is the only service that really benefits from an account that remembers subscriptions, lists and the history of watched videos.

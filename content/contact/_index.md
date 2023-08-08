@@ -1,7 +1,8 @@
----
-title: Contact
-slug: contact
----
++++
+template = "index.html"
++++
+
+# Contact
 
 Message me on Mastodon <a rel="me" href="https://chaos.social/@flowfx"
 title="Look me up on mastodon!">@flowfx@chaos.social</a>! You can also contact me via

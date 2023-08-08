@@ -1,7 +1,8 @@
----
-title: About Me
-slug: about
----
++++
+template = "index.html"
++++
+
+# About Me
 
 <img src="../images/flowfx-2023.jpg" alt='Florian Posdziech profile picture. CC-BY Florian "Cheata" Köhler' style="width:100%;max-width:250px">
 

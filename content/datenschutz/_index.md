@@ -1,7 +1,8 @@
----
-title: Datenschutzerklärung
-slug: datenschutz
----
++++
+template = "index.html"
++++
+
+# Datenschutzerklärung
 
 <p>Stand: 28. August 2019<h2>Inhaltsübersicht</h2>
  <ul class="index"><li><a class="index-link" href="#m3">

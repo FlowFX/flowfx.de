@@ -11,6 +11,11 @@ build_search_index = false
 # Theme
 theme = "zola-bearblog"
 
+taxonomies = [
+  {name = "categories", feed = true},
+  {name = "tags", feed = true},
+]
+
 [markdown]
 # Whether to do syntax highlighting
 # Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
@@ -20,12 +25,12 @@ highlight_code = true
 
 [[extra.main_menu]]
 name = "About"
-url = "@/about.md"
+url = "@/about/_index.md"
 
 [[extra.main_menu]]
 name = "Now"
-url = "@/now.md"
+url = "@/now/_index.md"
 
 [[extra.main_menu]]
 name = "Contact"
-url = "@/contact.md"
+url = "@/contact/_index.md"
