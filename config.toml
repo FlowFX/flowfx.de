@@ -17,4 +17,15 @@ theme = "zola-bearblog"
 highlight_code = true
 
 [extra]
-# Put all your custom variables here
+
+[[extra.main_menu]]
+name = "About"
+url = "@/about.md"
+
+[[extra.main_menu]]
+name = "Now"
+url = "@/now.md"
+
+[[extra.main_menu]]
+name = "Contact"
+url = "@/contact.md"
