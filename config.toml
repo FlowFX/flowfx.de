@@ -1,4 +1,5 @@
 title = "FlowFX"
+author = "Florian Posdziech"
 base_url = "https://flowfx.de"
 description = "Personal blog of Florian Posdziech: trombone player, software developer, athlete."
 
@@ -7,6 +8,9 @@ compile_sass = false
 
 # Whether to build a search index to be used later on by a JavaScript library
 build_search_index = false
+
+generate_feed = true
+feed_filename = "rss.xml"
 
 # Theme
 theme = "zola-bearblog"
