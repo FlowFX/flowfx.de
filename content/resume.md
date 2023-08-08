@@ -1,9 +1,7 @@
-<!--
-.. title: Resume
-.. slug: resume
-.. date: 2021-09-04
-.. type: text
--->
+---
+title: Resume
+slug: resume
+---
 
 I am very happy working at [ioki](https://ioki.com/) at the moment.
 
@@ -43,7 +41,7 @@ have been working in the field ever since.
   transport pricing systems into human- and machine-readable code. And writing
   tests of course.
 
-    I host our internal series of tech-focused lightning talks.
+  I host our internal series of tech-focused lightning talks.
 
 - _May 2018 - Aug 2019:_ **Software Developer Ruby on Rails at CHI Deutschland Cargo Handling GmbH, Frankfurt.**  
   Looking for a job in the Rhein-Main-Neckar area, I overlooked the requirement for
@@ -51,7 +49,7 @@ have been working in the field ever since.
   thus jumpstarted my career as a Rails developer. We now work together at ioki,
   so everything worked out fine.
 
-    Proudest achievement: I successfully replaced Jira with GitHub issues for the team's task management.
+  Proudest achievement: I successfully replaced Jira with GitHub issues for the team's task management.
 
 - _Jan 2017 - Dec 2017:_ **Software Developer Python at Lexa.mx, Mexico City.**  
   After teaching myself the basics of web development using Python in the
@@ -61,11 +59,11 @@ have been working in the field ever since.
   [LaTeX](https://www.latex-project.org/) for templating and typesetting
   documents, and I fell in love with [pytest](https://docs.pytest.org/).
 
-    This was a super interesting collaboration between lawyers, designers, and me
+  This was a super interesting collaboration between lawyers, designers, and me
   as the developer. While the product never went anywhere, you can still find
   the designs in my friend [Angélica Ramos's portfolio](https://angelica-ramos.com/portfolio/lexa/).
 
-    Coolest story to tell: How I tested the LaTeX templates for legal documents using pytest.
+  Coolest story to tell: How I tested the LaTeX templates for legal documents using pytest.
 
 - _Sep 2013 - Jul 2014:_ **Bartender at the [Ganter brewery experience](https://www.ganter-brauerlebnis.de/), Freiburg.**  
   Learned to draw the perfect beer.

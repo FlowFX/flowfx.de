@@ -1,13 +1,7 @@
-<!--
-.. title: Datenschutzerklärung
-.. slug: datenschutz
-.. date: 2018-05-27 12:00:58 UTC-05:00
-.. tags:
-.. category:
-.. link:
-.. description:
-.. type: text
--->
+---
+title: Datenschutzerklärung
+slug: datenschutz
+---
 
 <p>Stand: 28. August 2019<h2>Inhaltsübersicht</h2>
  <ul class="index"><li><a class="index-link" href="#m3">

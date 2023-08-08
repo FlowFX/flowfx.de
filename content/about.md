@@ -1,15 +1,9 @@
-<!--
-.. title: About Me
-.. slug: about
-.. date: 2017-05-18
-.. tags:
-.. category:
-.. link:
-.. description:
-.. type: text
--->
+---
+title: About Me
+slug: about
+---
 
-<img src="/images/flowfx-2023.jpg" alt="Florian Posdziech provile picture. CC-BY Florian \"Cheata\" Köhler" style="width:100%;max-width:250px">
+<img src="../images/flowfx-2023.jpg" alt='Florian Posdziech profile picture. CC-BY Florian "Cheata" Köhler' style="width:100%;max-width:250px">
 
 <small>Photo: CC-BY 4.0 Florian »Cheatha« Köhler</small>
 
@@ -20,8 +14,6 @@ occasional podcaster. I am currently working as a backend developer for
 I like reggae music, baseball, fish tacos, and beer. I've lived, studied and worked in the USA, Norway and Mexico. Maybe it shows.
 
 Check my [Now page](link://slug/now) to see what I'm up to at the moment.
-
----
 
 ## What I do
 

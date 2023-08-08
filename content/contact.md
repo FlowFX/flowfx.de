@@ -1,13 +1,7 @@
-<!--
-.. title: Contact
-.. slug: contact
-.. date: 2015-08-01
-.. tags:
-.. category:
-.. link:
-.. description:
-.. type: text
--->
+---
+title: Contact
+slug: contact
+---
 
 Message me on Mastodon <a rel="me" href="https://chaos.social/@flowfx"
 title="Look me up on mastodon!">@flowfx@chaos.social</a>! You can also contact me via

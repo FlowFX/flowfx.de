@@ -1,13 +1,7 @@
-<!--
-.. title: What I'm doing at the moment
-.. slug: now
-.. date: 2016-06-22 17:44:06 UTC-05:00
-.. tags:
-.. category:
-.. link:
-.. description:
-.. type: text
--->
+---
+title: What I'm doing at the moment
+slug: now
+---
 
 _(This is [a Now page](http://nownownow.com/about). Where's yours?)_
 
