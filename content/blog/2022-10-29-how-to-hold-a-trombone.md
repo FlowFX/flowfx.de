@@ -1,13 +1,9 @@
-<!--
-.. title: How to hold a trombone
-.. slug: how-to-hold-a-trombone
-.. date: 2022-10-28 20:00:00 UTC
-.. tags: trombone, brass, instrument, music
-.. category:
-.. link:
-.. description:
-.. type: text
--->
+---
+title: How to hold a trombone
+taxonomies:
+  tags: ["trombone", "brass", "instrument"]
+  categories: ["music"]
+---
 
 Last week I bought a brand new trombone. Following [my
 teacher](https://der-trompetenlehrer.de/)'s recommendation, I made an
@@ -38,6 +34,4 @@ that collects brass instruments like others collect stamps. He also plays them
 very well, and he plays _all_ of them. Naturally he knows how to properly hold - even a heavy - a
 trombone:
 
-<div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Gu9fALekykY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" loading="lazy" allowfullscreen></iframe>
-</div>
+{{ youtube(id="Gu9fALekykY") }}
