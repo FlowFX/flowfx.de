@@ -1,1 +1,0 @@
-<html><body><p>Alle Taschen sind gepackt. Das Rad ist fit. Ich auch. Das Wetter stimmt. Los geht's! Ich bin raus. Tschüss!</p></body></html>

@@ -1,7 +1,0 @@
-<html><body><p>Auf dem Heimweg vom heutigen <a href="http://www.diefelsen.de" title="Offizielle Webseite der Felsen">Felsen</a>konzert stolperte ich über ein Album der <a href="http://www.hblx.de" title="official home of the h-blockx">H-Blockx</a>, dass sich auf meinem mobilem Musikabspielgerät aka Telefon versteckt hatte. Das erinnerte mich an eines der geilsten (nein, ich finde kein besseres Wort dafür) Konzerte, dass ich jemals erleben durfte: Die H-Blockx bei Rock am Ring <del datetime="2011-03-30T21:43:09+00:00">2000</del> 2001.
-
-Während Alanis Morissette auf der Hauptbühne vor schwach besetztem Publikum spielte, war der Platz vor der Alternastage dicht gepackt. Wer nicht mithüpfte, ging unter. Von vorne bis hinten. Von irgendwo gerüchtete es auch, dass es wahrscheinlich das letzte Konzerte der Band sein würde.
-
-Kurz: es war großartig! Live-Bilder finde ich natürlich gerade nicht, nur Aufnahmen von ihrem letztjährigen Auftritt auf der Hauptbühne. Irgendwas sagt mir aber, dass die Sänger zehn Jahre vorher mit mehr Elan auf der Bühne standen.
-
-<iframe title="YouTube video player" width="480" height="300" src="http://www.youtube-nocookie.com/embed/ZIV_7lRXJsk" frameborder="0" allowfullscreen></iframe></p></body></html>
