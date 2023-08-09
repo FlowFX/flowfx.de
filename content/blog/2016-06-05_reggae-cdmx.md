@@ -1,9 +1,10 @@
-.. title: Reggae CDMX
-.. slug: reggae-cdmx
-.. date: 2016-06-05 11:56:56 UTC-05:00
-.. tags: kirby, reggae, mexico city
-.. type: text
-.. status: draft
+---
+title: Reggae CDMX
+slug: reggae-cdmx
+date: 2016-06-05
+taxonomies:
+  tags: ["kirby", "reggae", "mexico city"]
+---
 
 A couple of months ago I started a new side project: `Reggae CDMX`_. Clearly inspired by the popular but very local website reggae-freiburg.de.vu_, it's a collection of all local events that are related to Reggae, Dub or Ska music and culture.
 
