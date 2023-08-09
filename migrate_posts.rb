@@ -15,9 +15,11 @@ Dir.chdir(origin_path) do
   files.each do |file|
     post = Post.new
 
-    # TODO: this doesn't work with TEASER tags
-    body = File.read(file).split("-->\n").slice(1..).join("\n")
-    post.body = body
+    parts = File.read(file).split("-->\n")
+
+    raise if parts.length > 2
+
+    post.body = parts.slice(1..).join("\n")
 
     File.foreach(file) do |line|
       if line =~ /\.\. title/
