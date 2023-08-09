@@ -23,10 +23,10 @@
 
   <nav class="pagination">
       {% if paginator.previous %}
-          <a class="previous" href="{{ paginator.previous }}">‹ Older posts</a>
+          <a class="previous" href="{{ paginator.previous }}">‹ Newer posts</a>
       {% endif %}
       {% if paginator.next %}
-          <a class="next" href="{{ paginator.next }}">Newer posts ›</a>
+          <a class="next" href="{{ paginator.next }}">Older posts ›</a>
       {% endif %}
   </nav>
 {% endblock %}
