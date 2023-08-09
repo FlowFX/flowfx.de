@@ -10,47 +10,49 @@ Post = Struct.new(:title, :slug, :date, :draft, :tags, :categories, :body)
 posts = []
 
 Dir.chdir(origin_path) do
-  files = Dir.glob('*.meta')
+  files = Dir.glob('*.md')
 
   files.each do |file|
-    filename_parts = file.split('.').slice(0...-1)
-
-    metadata_filename = (filename_parts + ['meta']).join('.')
-    content_filename= (filename_parts + ['md']).join('.')
-
     post = Post.new
 
-    if File.exist?(content_filename)
-      post.body = File.read(content_filename).delete_prefix('<html><body>').delete_suffix('</body></html>')
-    else
-      next
-    end
+    # TODO: this doesn't work with TEASER tags
+    body = File.read(file).split("-->\n").slice(1..).join("\n")
+    post.body = body
 
-    File.foreach(metadata_filename) do |line|
-      if line =~ /title/
+    File.foreach(file) do |line|
+      if line =~ /\.\. title/
         title = line.match(/title:\ (.*)/).captures.first
         post.title = title
-      elsif line =~ /slug/
+      elsif line =~ /\.\. slug/
         slug = line.match(/slug:\ (.*)/).captures.first
         post.slug = slug
-      elsif line =~ /date/
+      elsif line =~ /\.\. date/
         date = line.match(/date:\ (.*)/).captures.first
         post.date = Date.parse(date).strftime('%Y-%m-%d')
-      elsif line =~ /status/
-        post.draft = true if line.match?(/draft/)
-      elsif line =~ /tags/
-        tags = line.match(/tags:\ (.*)/).captures.first.split(',').join('", "')
-        post.tags = "\[\"#{tags}\"\]"
-      elsif line =~ /category/
-        categories = line.match(/category:\ (.*)/).captures.first.split(',').join('", "')
-        post.categories = "\[\"#{categories}\"\]"
+      elsif line =~ /\.\. status/
+        if line.match?(/draft/) || line.match?(/private/)
+          post.draft = true
+        end
+      elsif line =~ /\.\. tags/
+        tags = line.match(/tags:\ (.*)/)&.captures&.first&.split(',')
+        
+        if tags && tags.any?
+          tags = tags.join('", "')
+          post.tags = "\[\"#{tags}\"\]" if !tags.nil?
+        end
+      elsif line =~ /\.\. category/
+        categories = line.match(/category:\ (.*)/)&.captures&.first&.split(',')
+
+        if categories && categories.any?
+          categories = categories.join('", "')
+          post.categories = "\[\"#{categories}\"\]" if !categories.nil?
+        end
       end
     end
 
     posts << post
 
-    # File.delete(metadata_filename)
-    # File.delete(content_filename)
+    File.delete(file)
   end
 end
 
