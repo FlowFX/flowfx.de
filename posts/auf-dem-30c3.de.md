@@ -1,3 +1,0 @@
-<html><body><p>Morgen beginnt der <a href="https://events.ccc.de/congress/2013/wiki/Main_Page">30. Chaos Communication Congress</a> im CCH in Hamburg. Ich freue mich sehr, wieder dort sein zu können. Diesmal weiß ich auch, wo ich die meiste Zeit verbringen werde: in der <a href="https://www.c3s.cc/die-c3s-auf-dem-30c3/">Assembly der C3S</a>.
-
-Solltet ihr auch zum 30C3 fahren, kommt doch dort vorbei und sagt hallo! Alternativ erreicht ihr mich bestimmt auch über <a href="https://twitter.com/flowfxx">Twitter</a> und <a href="https://alpha.app.net/flowfx">ADN</a>.</p></body></html>

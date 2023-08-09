@@ -1,1 +1,0 @@
-<html><body><a href="/wp-content/uploads/2012/11/wpid-DSCN1533.jpg"><img class="aligncenter" alt="image" src="/wp-content/uploads/2012/11/wpid-DSCN1533.jpg"></a></body></html>

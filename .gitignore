@@ -1,13 +1,2 @@
-# Nikola
-.*
-!.htaccess
-cache/
-output/
-private/
-sop/
-state_data.json
-__pycache__
-.doit.db
-venv
-!.github
-!.well-known
+# Zola
+public/

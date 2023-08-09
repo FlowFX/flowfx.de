@@ -3,20 +3,20 @@ on: [push]
 jobs:
   nikola_build:
     runs-on: ubuntu-latest
-    name: "Build and deploy my Nikola site"
+    name: "Build and deploy my Zola site"
     steps:
       - name: Check out repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
       - name: Build site
-        uses: flowfx/nikola-action@v7
+      - uses: kytta/zola-build-pages@v1
         with:
-          dry_run: true
+          zola-version: "0.17.2"
       - name: Deploy site
-        if: ${{ github.ref_name == 'master' }}
+        if: ${{ github.ref_name == 'main' }}
         uses: burnett01/rsync-deployments@5.2.1
         with:
           switches: -rav --delete
-          path: output/
+          path: public/
           remote_path: /var/www/virtual/flowfx/html/flowfx.de/
           remote_host: ariel.uberspace.de
           remote_user: flowfx
