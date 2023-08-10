@@ -35,9 +35,9 @@ As required by German law.
 
 ## Angaben gemäß § 5 TMG:
 
-Florian Posdziech
-R1 14a
-68161 Mannheim
+Florian Posdziech  
+Rahnfelsstraße 14  
+68163 Mannheim
 
 ## Kontakt:
 
