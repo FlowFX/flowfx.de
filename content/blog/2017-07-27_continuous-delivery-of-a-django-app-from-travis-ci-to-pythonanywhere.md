@@ -188,30 +188,36 @@ else:
 
 ```
 
-
 ### Set environment variables
+
 To make all this actually work, you need to set some environment variables in the Travis project settings. Namely `PYTHONANYWHERE_DOMAIN`, `PYTHONANYWHERE_USERNAME` and `PYTHONANYWHERE_API_TOKEN`.
 
 Also, don't forget to set `DJANGO_SECRET_KEY`!
 
 ## Summary
+
 These are the resources you need:
 
 ### PythonAnywhere
+
 - [Deploying an existing Django project on PythonAnywhere](https://help.pythonanywhere.com/pages/DeployExistingDjangoProject)
 - [Git push deployments](https://blog.pythonanywhere.com/87/)
 - [SSH Access](https://help.pythonanywhere.com/pages/SSHAccess)
 - [PythonAnywhere API](https://help.pythonanywhere.com/pages/API/)
 
 ### Travis CI
+
 - [Custom deployment](https://docs.travis-ci.com/user/deployment/custom/)
 - [Encrypting files](https://docs.travis-ci.com/user/encrypting-files/)
 
 ### Future
+
 I need to look into Travis's [Script deployment](https://docs.travis-ci.com/user/deployment/script/) which looks like a much cleaner way to run the deployment commands.
 
 ### Comment!
-If you find the one error that I missed, [please tell me about it](link://slug/contact)!
+
+If you find the one error that I missed, [please tell me about it](/contact)!
 
 ## Updates
+
 - 5/9/2017: used Unkenmathe as example project, formatting.

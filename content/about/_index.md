@@ -14,7 +14,7 @@ occasional podcaster. I am currently working as a backend developer for
 
 I like reggae music, baseball, fish tacos, and beer. I've lived, studied and worked in the USA, Norway and Mexico. Maybe it shows.
 
-Check my [Now page](link://slug/now) to see what I'm up to at the moment.
+Check my [Now page](/now) to see what I'm up to at the moment.
 
 ## What I do
 

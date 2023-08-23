@@ -7,7 +7,7 @@ taxonomies:
   categories: 
 ---
 
-<p>Gestern war ich mit <a href="http://www.twitter.com/flederrattie">Flederrattie</a> in der <a href="batschkapp.tickets.de">Batschkapp</a> in Frankfurt. Nicht nur ist das ein netter Laden, es haben auch klasse Bands gespielt. Die Entdeckung des Abends war <a href="https://www.facebook.com/thejbconspiracy">The JB Conspiracy</a> aus dem Land von der anderen Seite vom Kanal. Endlich mal wieder ein junge Skaband, die mich nicht nach drei Liedern langweilt. Jedenfalls konnte ich meine Beine keine Sekunde stillhalten, und das ist das beste Zeichen für jede Band.
+<p>Gestern war ich mit <a href="http://www.twitter.com/flederrattie">Flederrattie</a> in der <a href="https://batschkapp.net/">Batschkapp</a> in Frankfurt. Nicht nur ist das ein netter Laden, es haben auch klasse Bands gespielt. Die Entdeckung des Abends war <a href="https://www.facebook.com/thejbconspiracy">The JB Conspiracy</a> aus dem Land von der anderen Seite vom Kanal. Endlich mal wieder ein junge Skaband, die mich nicht nach drei Liedern langweilt. Jedenfalls konnte ich meine Beine keine Sekunde stillhalten, und das ist das beste Zeichen für jede Band.
 
 Hier ein Video, das vermutlich nur ein paar Tage alt ist:
 

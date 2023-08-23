@@ -31,7 +31,7 @@ If you happen to have my phone number, use
 
 As required by German law.
 
-**[Datenschutzerklärung](link://slug/datenschutz)**
+**[Datenschutzerklärung](/datenschutz)**
 
 ## Angaben gemäß § 5 TMG:
 
