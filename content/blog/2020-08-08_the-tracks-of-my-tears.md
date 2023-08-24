@@ -2,24 +2,39 @@
 title: "The Tracks Of My Tears"
 slug: the-tracks-of-my-tears
 date: 2020-08-08
+taxonomies:
+  tags:
+    [
+      "youtube",
+      "napster",
+      "spotify",
+      "reel big fish",
+      "guano apes",
+      "rainer von vielen",
+      "joe cocker",
+      "cover",
+      "get ready",
+      "the temptations",
+      "wishbone ash",
+      "hard to handle",
+      "otis redding",
+      "toots & the maytals",
+      "the black crows",
+    ]
+  categories: [music]
 ---
-
 
 I love cover songs. I love bands that take a good song and make it better. Bands like [Cake](https://www.youtube.com/watch?v=f9rCUQjmkxU), [Reel Big Fish](https://www.youtube.com/watch?v=QHpU0ZfXZ_g), [Guano Apes](https://www.youtube.com/watch?v=Q9jJufz9RNE), and [Rainer von Vielen](https://www.youtube.com/watch?v=oYFe76uvmms). Joe Cocker made a whole career of it.
 
-That's why [Napster was the best!](link://slug/hard-to-handle). Napster had everything, every cover and live version anyone had ever published. Napster would have had this super, mega, uber amazing live version of [Hard To Handle](link://slug/hard-to-handle) by the Black Crows, if Napster had survived until 2005.
+That's why [Napster was the best!](/blog/hard-to-handle). Napster had everything, every cover and live version anyone had ever published. Napster would have had this super, mega, uber amazing live version of [Hard To Handle](/blog/hard-to-handle) by the Black Crows, if Napster had survived until 2005.
 
-<div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ilFOdcrLvHo?start=3" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" loading="lazy" allowfullscreen></iframe>
-</div>
+{{ youtube(id="ilFOdcrLvHo") }}
 
 (Spotify doesn't.)
 
 Napster would have had this super fun rock version of the Temptations [Get Read](https://www.youtube-nocookie.com/watch?v=PV97roslmt0) by Wishbone Ash.
 
-<div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/NLqyFH6wo4k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" loading="lazy" allowfullscreen></iframe>
-</div>
+{{ youtube(id="NLqyFH6wo4k") }}
 
 (Spotify doesn't.)
 
@@ -31,9 +46,7 @@ I'm always trying to find cover versions of songs. Many times, there are amazing
 
 It seems to me that in this rare case, the originial is the best there is, and noone can improve upon it.
 
-<div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/rNS6D4hSQdA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" loading="lazy" allowfullscreen></iframe>
-</div>
+{{ youtube(id="rNS6D4hSQdA") }}
 
 I challenge everyone to show me that I'm wrong.
 
@@ -41,6 +54,4 @@ I challenge everyone to show me that I'm wrong.
 
 **Update Sep 10th, 2020:** There is actually a pretty decent cover version, recorded by Boyzone. It does not change the song in any way, but the production is superb, and the horn parts are really well done!
 
-<div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/s17xomf6RN8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" loading="lazy" allowfullscreen></iframe>
-</div>
+{{ youtube(id="s17xomf6RN8") }}

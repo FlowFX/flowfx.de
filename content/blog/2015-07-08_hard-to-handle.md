@@ -4,7 +4,15 @@ slug: hard-to-handle
 date: 2015-07-08
 taxonomies:
   tags:
-  categories: ["Musik"]
+    [
+      "napster",
+      "hard to handle",
+      "the black crows",
+      "sasha",
+      "otis redding",
+      "toots & the maytals",
+    ]
+  categories: [music]
 ---
 
 Napster war super. Napster war für mich die glorreiche Zeit der
@@ -16,7 +24,7 @@ die Zeit speziell.
 Meine Lieblingsgeschichte ist, wie einmal in der Harald Schmidt Show
 Sasha zu Gast war (der später unter dem Namen Dick Brave berühmt werden
 sollte). Zum Abschluss der Sendung sang er mit der Studioband den Song
-\"Hard To Handle\". Es war großartig.
+"Hard To Handle". Es war großartig.
 
 Sasha ist es also zu verdanken, dass auch ich Otis Redding kennenlernte:
 
