@@ -40,4 +40,4 @@ Die eindrücklichste Version kam allerdings von der mir damals völlig
 unbekannten Band The Black Crowes. Die genaue Aufnahme finde ich bei
 YouTube nicht, aber sie spielen auch heute noch gut:
 
-{{ youtube(id="2CE6bgj-hx4") }}
+{{ youtube(id="k2PDUn_xsPY") }}
