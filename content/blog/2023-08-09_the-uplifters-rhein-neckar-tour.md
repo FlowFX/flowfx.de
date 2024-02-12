@@ -1,5 +1,11 @@
 ---
 title: Rhein-Neckar-Tour mit den Uplifters
+taxonomies:
+  tags:
+    - theuplifters
+    - live
+  categories:
+    - music
 ---
 
 Dafür, dass [The Uplifters](https://theuplifters.de/) eine Freiburger Band sind, spielen wir dieses Jahr außergewöhnlich oft in der Rhein-Neckar-Ecke. Gut für mich, denn dann ist die Anreise nicht so lang.
