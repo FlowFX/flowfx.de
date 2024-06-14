@@ -4,9 +4,9 @@ template = "index.html"
 
 # Resume
 
-I am very happy working at [ioki](https://ioki.com/) at the moment.
+I am happily working at [ioki](https://ioki.com/) at the moment.
 
-But in 2024 or later I will be moving to Latin America with my wife, who will be
+<strike>In 2024 or later</strike> At some time in the future I will be moving to Latin America with my wife, who will be
 working at a [German
 school](https://www.auslandsschulwesen.de/Webs/ZfA/DE/Schulnetz/DAS/das_node.html)
 there, and that will require me to have a job that allows me to work
@@ -42,7 +42,9 @@ have been working in the field ever since.
   transport pricing systems into human- and machine-readable code. And writing
   tests of course.
 
-  I host our internal series of tech-focused lightning talks.
+  I hosted our internal series of tech-focused lightning talks for a few years.
+
+  Proudest achievement: I co-initiated ioki's first works council election.
 
 - _May 2018 - Aug 2019:_ **Software Developer Ruby on Rails at CHI Deutschland Cargo Handling GmbH, Frankfurt.**  
   Looking for a job in the Rhein-Main-Neckar area, I overlooked the requirement for
