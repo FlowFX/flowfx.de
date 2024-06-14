@@ -22,7 +22,7 @@ Check my [Now page](/now) to see what I'm up to at the moment.
 
 I play the trombone in the Reggae and Ska band _The Uplifters & Block Ice Horn Section_ from Freiburg.
 
-You'll find our next gigs at [theuplifters.de/termine](https://theuplifters.de/termine).
+You'll find our next gigs at [theuplifters.de/konzerte](https://theuplifters.de/konzerte).
 
 ### Training
 
