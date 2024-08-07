@@ -17,6 +17,10 @@ ignoreErrors = ["error-disable-taxonomy"]
   blog = "/blog/:slug/"
   tags = "/tags/:slug/"
 
+[markup.goldmark.renderer]
+  # Allow HTML in md files
+  unsafe = true
+
 [params]
   # The "description" of your website. This is used in the meta data of your generated html.
   # description = "Hugo + Bear = :heart:"
