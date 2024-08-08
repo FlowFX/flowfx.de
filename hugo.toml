@@ -14,7 +14,7 @@ enableRobotsTXT = true
 disableKinds = ["taxonomy"]
 ignoreErrors = ["error-disable-taxonomy"]
 [permalinks]
-  blog = "/blog/:slug/"
+  blog = "/blog/:filename/"
   tags = "/tags/:slug/"
 
 [markup.goldmark.renderer]
