@@ -56,7 +56,7 @@ $ bundle install --standalone --path .bundle
 Anytime you want to use `bundle install`, you now have to use `bundle install --standalone` instead. I created the bash alias `bis` for that.
 
 ## vim-test
-I recently started [using the vim-test](link://slug/running-rspec-with-a-single-keystroke-in-a-separate-tmux-session) plugin. That plugin has a neat option that makes it use the springified binstubs.
+I recently started [using the vim-test](/blog/running-rspec-with-a-single-keystroke-in-a-separate-tmux-session) plugin. That plugin has a neat option that makes it use the springified binstubs.
 
 
 ```vim

@@ -5,9 +5,9 @@ date: 2018-04-04
 ---
 
 
-[My search for a new job](link://slug/looking-for-work-django-developer-can-do-a-lot) has been successful. I'm starting a new position as a Ruby-On-Rails developer with a company at the  Frankfurt Airport on May 2nd (I will commute from Mannheim). In the end it took me 4 months, 7 applications, 5 interviews and 2 job offers. This doesn't sound too bad, but still, it's not an experience I want to repeat anytime soon.
+[My search for a new job](/blog/looking-for-work-django-developer-can-do-a-lot) has been successful. I'm starting a new position as a Ruby-On-Rails developer with a company at the  Frankfurt Airport on May 2nd (I will commute from Mannheim). In the end it took me 4 months, 7 applications, 5 interviews and 2 job offers. This doesn't sound too bad, but still, it's not an experience I want to repeat anytime soon.
 
-*Check my [Now page](link://slug/now) to see where I'm currently at in the process of moving back to Germany.*
+*Check my [Now page](/now) to see where I'm currently at in the process of moving back to Germany.*
 
 > Wait. Rails?
 

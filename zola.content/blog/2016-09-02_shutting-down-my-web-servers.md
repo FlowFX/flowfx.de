@@ -9,4 +9,4 @@ draft: true
 ---
 
 
-Last year I started [the adventure of running my own web servers](link://slug/running-my-own-web-servers). Of course, I never got around to follow up on that initial post and describe the setup I eventually did use. And now I'm done with it. 
+Last year I started [the adventure of running my own web servers](/blog/running-my-own-web-servers). Of course, I never got around to follow up on that initial post and describe the setup I eventually did use. And now I'm done with it. 

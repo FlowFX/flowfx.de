@@ -8,7 +8,7 @@ taxonomies:
 ---
 
 
-**Update 04/04/2018: [There's been a development](link://slug/moving-back-to-germany).**
+**Update 04/04/2018: [There's been a development](/blog/moving-back-to-germany).**
 
 My wife Kathrin will not like this post. She will find it self-deprecating and underselling my abilities. But this is my blog, so I don't care.
 
@@ -93,7 +93,7 @@ As I very much enjoy automated software testing, I am also interested in working
 ## Timetable
 My current plan is to remain in Mexico while Kathrin finishes the school year and for us to move back to the Rhein-Neckar area in Germany in early July. But I am happy to relocate earlier as necessary.
 
-If all this makes you want to think about maybe hiring me, or if you know a friend who might, then [let's talk](link://slug/contact)! I also have a detailed CV prepared if that's your sort of thing.
+If all this makes you want to think about maybe hiring me, or if you know a friend who might, then [let's talk](/contact)! I also have a detailed CV prepared if that's your sort of thing.
 
 Until then I'll be happily working on Udacity's [Full Stack Web Development Nanodegree](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004) program to fill some knowledge gaps.
 

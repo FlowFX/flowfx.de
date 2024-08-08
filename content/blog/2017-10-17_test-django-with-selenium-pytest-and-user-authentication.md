@@ -116,4 +116,4 @@ def test_login_of_anonymous_user(live_server, browser, user):
 ## Summary
 These are the pytest fixtures that I use to test a Django app with an authenticated user.
 
-If there is a better way to do this, [please tell me!](link://slug/contact) I want to know.
+If there is a better way to do this, [please tell me!](/contact) I want to know.
