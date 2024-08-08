@@ -28,13 +28,13 @@ I love cover songs. I love bands that take a good song and make it better. Bands
 
 That's why [Napster was the best!](/blog/hard-to-handle). Napster had everything, every cover and live version anyone had ever published. Napster would have had this super, mega, uber amazing live version of [Hard To Handle](/blog/hard-to-handle) by the Black Crows, if Napster had survived until 2005.
 
-{{ youtube(id="ilFOdcrLvHo") }}
+{{< youtube ilFOdcrLvHo >}}
 
 (Spotify doesn't.)
 
 Napster would have had this super fun rock version of the Temptations [Get Read](https://www.youtube-nocookie.com/watch?v=PV97roslmt0) by Wishbone Ash.
 
-{{ youtube(id="NLqyFH6wo4k") }}
+{{< youtube NLqyFH6wo4k >}}
 
 (Spotify doesn't.)
 
@@ -46,7 +46,7 @@ I'm always trying to find cover versions of songs. Many times, there are amazing
 
 It seems to me that in this rare case, the originial is the best there is, and noone can improve upon it.
 
-{{ youtube(id="rNS6D4hSQdA") }}
+{{< youtube rNS6D4hSQdA >}}
 
 I challenge everyone to show me that I'm wrong.
 
@@ -54,4 +54,4 @@ I challenge everyone to show me that I'm wrong.
 
 **Update Sep 10th, 2020:** There is actually a pretty decent cover version, recorded by Boyzone. It does not change the song in any way, but the production is superb, and the horn parts are really well done!
 
-{{ youtube(id="s17xomf6RN8") }}
+{{< youtube s17xomf6RN8 >}}

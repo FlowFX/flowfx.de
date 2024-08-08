@@ -12,6 +12,6 @@ taxonomies:
 
 Shiver man by Fat Freddy's Drop - in voller Länge.
 
-{{ youtube(id="6NtB-PuG9PU") }}
+{{< youtube 6NtB-PuG9PU >}}
 
 Die beste Band der Welt.

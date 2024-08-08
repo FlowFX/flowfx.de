@@ -9,4 +9,4 @@ taxonomies:
 
 Does it get any better?
 
-{{ youtube(id="A22oy8dFjqc") }}
+{{< youtube A22oy8dFjqc >}}

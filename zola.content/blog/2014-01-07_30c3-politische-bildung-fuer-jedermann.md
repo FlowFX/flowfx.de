@@ -13,7 +13,7 @@ Professor Josef Foschepoth aus Freiburg erläutert, wieso die aktuellen Enthüll
 
 Der Vortrag beginnt bei ca. 10:30 Minuten. Irgendwie ist das Video (noch) nicht richtig geschnitten.
 
-{{ youtube(id="4sxA91SRfrI")}}
+{{< youtube 4sxA91SRfrI >}}
 
 <!-- more -->
 
