@@ -36,3 +36,22 @@ All I needed to do is create a new [[https://support.apple.com/de-de/guide/autom
 [[/images/2024/Automator-Emacs_app.png]]
 
 Every time I call *Emacs.app*, I get a new fresh Emacs window, just like I'm used to on my Linux machine that runs the Emacs server from systemd.
+** The Uplifters - Live im Proberaum :theuplifters:live:@music:
+:PROPERTIES:
+:EXPORT_DATE: 2023-02-27
+:EXPORT_FILE_NAME: the-uplifters-live-im-proberaum
+:END:
+
+I have [[https://theuplifters.de/][an awesome band]]! In December we recorded a few songs "live" in our rehearsal room in Freiburg, both audio and video. Over the winter everybody but me put /a lot/ of work into pulling both together and making it look and sound good. And what can I say, they did an amazing job. I'm truly impressed. Plus: everything was done using free and open source software: [[https://ardour.org/][Ardour]] and [[https://kdenlive.org/][kdenlive]]!
+
+Well, here they are, two of our original songs, live in the studio:
+
+*** Be Free
+
+#+html: {{< youtube LRyKdED6srA >}}
+
+*** Change My Life
+
+#+html: {{< youtube E8jI3KVACGQ >}}
+
+If you want to see us play live sometime, head over to [[https://theuplifters.de][theuplifters.de]] and sign up to our newsletter! We only send out emails when we have public gigs to announce. Of course you can always book us for your private garden party as well. 😃
