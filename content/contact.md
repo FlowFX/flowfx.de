@@ -1,5 +1,6 @@
 +++
-template = "index.html"
+title = "Contact"
+menu = "main"
 +++
 
 # Contact
