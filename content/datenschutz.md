@@ -1,5 +1,5 @@
 +++
-template = "index.html"
+title = "Datenschutz"
 +++
 
 # Datenschutzerklärung
