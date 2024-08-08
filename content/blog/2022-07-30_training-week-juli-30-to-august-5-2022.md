@@ -2,9 +2,8 @@
 title: "Training week Juli 30 to August 5"
 slug: training-week-juli-30-to-august-5-2022
 date: 2022-07-30
-taxonomies:
-  tags: 
-  categories: ["training"]
+tags:
+categories: ["training"]
 ---
 
 
