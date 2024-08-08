@@ -2,26 +2,25 @@
 title: "The Tracks Of My Tears"
 slug: the-tracks-of-my-tears
 date: 2020-08-08
-taxonomies:
-  tags:
-    [
-      "youtube",
-      "napster",
-      "spotify",
-      "reel big fish",
-      "guano apes",
-      "rainer von vielen",
-      "joe cocker",
-      "cover",
-      "get ready",
-      "the temptations",
-      "wishbone ash",
-      "hard to handle",
-      "otis redding",
-      "toots & the maytals",
-      "the black crows",
-    ]
-  categories: [music]
+tags:
+  [
+	"youtube",
+	"napster",
+	"spotify",
+	"reel big fish",
+	"guano apes",
+	"rainer von vielen",
+	"joe cocker",
+	"cover",
+	"get ready",
+	"the temptations",
+	"wishbone ash",
+	"hard to handle",
+	"otis redding",
+	"toots & the maytals",
+	"the black crows",
+  ]
+categories: [music]
 ---
 
 I love cover songs. I love bands that take a good song and make it better. Bands like [Cake](https://www.youtube.com/watch?v=f9rCUQjmkxU), [Reel Big Fish](https://www.youtube.com/watch?v=QHpU0ZfXZ_g), [Guano Apes](https://www.youtube.com/watch?v=Q9jJufz9RNE), and [Rainer von Vielen](https://www.youtube.com/watch?v=oYFe76uvmms). Joe Cocker made a whole career of it.
