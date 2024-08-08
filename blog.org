@@ -1,0 +1,38 @@
+#+HUGO_BASE_DIR: .
+#+hugo_section: blog
+
+* Blog
+** Using Automator to create an Emacs.app for running Emacs Client & Server :emacs:macos:@tech:
+:PROPERTIES:
+:EXPORT_DATE: 2024-02-11
+:EXPORT_FILE_NAME: 2024-02-11_emacs-app
+:END:
+
+Or: *Back To The Mac 1*
+
+After using only Linux machines for work for the past 5 years, my next machine will be a MacBook. That's why I'm working on improving my development environment on macOS as best as I can now, something that's not really been necessary when using my personal Mac.
+
+First order of business: how do I start the Emacs server and connect to it with the emacsclient?
+
+I'm using [[https://github.com/d12frosted/homebrew-emacs-plus][Emacs+]] from homebrew:
+
+#+begin_src shell
+  brew install emacs-plus@29
+#+end_src
+
+Once installed, it works fine, but neither do Spotlight - or Alfred - see any Emacs.app, nor do I know how to start the server or start multiple clients that connect to it.
+
+I found the solution on the blog of one Alex Balgavy: [[https://blog.alex.balgavy.eu/setting-up-emacs-as-a-daemon-on-macos/][Setting up Emacs as a daemon on macOS]]. Then I simplified it for my purposes.
+
+All I needed to do is create a new [[https://support.apple.com/de-de/guide/automator/welcome/mac][Automator]] document of type /Application/ that runs this shell script:
+
+#+begin_src shell
+  export PATH=/opt/homebrew/bin:$PATH
+  emacsclient -c -a '' >/dev/null 2>&1 &
+#+end_src
+
+`-c` creates a GUI frame, and `-a ''` connects to the server named `''` - or starts it if it's not already running.
+
+[[/images/2024/Automator-Emacs_app.png]]
+
+Every time I call *Emacs.app*, I get a new fresh Emacs window, just like I'm used to on my Linux machine that runs the Emacs server from systemd.
