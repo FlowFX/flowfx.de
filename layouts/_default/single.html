@@ -13,6 +13,11 @@
   {{ .Content }}
 </content>
 <p>
+  Categories:
+  {{ range (.GetTerms "categories") }}
+  <a href="{{ .Permalink }}">#{{ .LinkTitle }}</a>
+  {{ end }}
+  Tags:
   {{ range (.GetTerms "tags") }}
   <a href="{{ .Permalink }}">#{{ .LinkTitle }}</a>
   {{ end }}
