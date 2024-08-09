@@ -21,6 +21,12 @@ ignoreErrors = ["error-disable-taxonomy"]
   # Allow HTML in md files
   unsafe = true
 
+[outputs]
+  home = ['html']
+  section = ['html', 'rss']
+  taxonomy = ['html', 'rss']
+  term = ['html']
+
 [params]
   # The "description" of your website. This is used in the meta data of your generated html.
   # description = "Hugo + Bear = :heart:"
