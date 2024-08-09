@@ -13,6 +13,24 @@ enableRobotsTXT = true
 disableKinds = ["taxonomy"]
 ignoreErrors = ["error-disable-taxonomy"]
 
+[menus]
+  [[menus.main]]
+    name = 'About'
+    pageRef = '/'
+    weight = 10
+  [[menus.main]]
+    name = 'Now'
+    pageRef = '/now'
+    weight = 20
+  [[menus.main]]
+    name = 'Contact'
+    pageRef = '/contact'
+    weight = 30
+  [[menus.main]]
+    name = 'Blog'
+    pageRef = '/blog'
+    weight = 40
+
 [permalinks]
   blog = "/blog/:slugorfilename/"
   tags = "/tags/:slug/"
