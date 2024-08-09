@@ -28,6 +28,13 @@
   {{else}}
     <small>
       <div>
+	Categories:
+        {{ range .Site.Taxonomies.categories }}
+        <a href="{{ .Page.Permalink }}">#{{ .Page.Title }}</a>&nbsp;
+        {{ end }}
+      </div>
+      <div>
+	Tags:
         {{ range .Site.Taxonomies.tags }}
         <a href="{{ .Page.Permalink }}">#{{ .Page.Title }}</a>&nbsp;
         {{ end }}
