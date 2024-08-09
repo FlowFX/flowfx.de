@@ -1,8 +1,8 @@
 ---
 title: The Uplifters & Block Ice Horn Section - Live im Jos Fritz Café!
-taxonomies:
-  tags: ["freiburg", "josfritzcafe", "live", "theuplifters"]
-  categories: ["musik"]
+date: 2014-01-03
+tags: ["freiburg", "josfritzcafe", "live", "theuplifters"]
+categories: ["music"]
 ---
 
 Kommenden Samstag stehe ich endlich wieder live auf der Bühne. Nach vier Jahren im nordbadischen Exil darf ich wieder mit meiner alten, neuen, ersten, tollsten Band überhaupt gemeinsam musizieren.
