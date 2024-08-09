@@ -2,9 +2,8 @@
 title: "Using the pytest-mock plugin"
 slug: using-the-pytest-mock-plugin
 date: 2017-03-17
-taxonomies:
-  tags: ["pytest", " mock", " plugin"]
-  categories: 
+tags: ["pytest", "mock", "plugin"]
+categories: ["tech"]
 ---
 
 

@@ -2,9 +2,8 @@
 title: "Reggae Freiburg"
 slug: reggae-freiburg
 date: 2017-06-24
-taxonomies:
-  tags: ["reggae", " Freiburg"]
-  categories: 
+tags: ["reggae", "Freiburg"]
+categories: ["music"]
 ---
 
 

@@ -3,8 +3,8 @@ title: "Testing Django forms with pytest parameterization"
 slug: testing-django-forms-with-pytest-parameterization
 date: 2017-03-07
 taxonomies:
-  tags: ["python", " pytest", " django", " forms", " testing"]
-  categories: 
+tags: ["python", "pytest", "django", "forms", "testing"]
+categories: ["tech"]
 ---
 
 

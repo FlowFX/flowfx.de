@@ -2,9 +2,8 @@
 title: "pytest parameter matrices"
 slug: pytest-parameter-matrices
 date: 2017-10-10
-taxonomies:
-  tags: ["pytest", " django", " parametrization", " testing"]
-  categories: 
+tags: ["pytest", "django", "parametrization", "testing"]
+categories: ["tech"]
 ---
 
 

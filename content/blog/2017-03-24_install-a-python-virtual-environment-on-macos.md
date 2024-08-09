@@ -2,9 +2,8 @@
 title: "How to install a Python virtual environment on macOS"
 slug: install-a-python-virtual-environment-on-macos
 date: 2017-03-24
-taxonomies:
-  tags: ["python", " virtualenvwrapper", " macos", " homebrew"]
-  categories: 
+tags: ["python", "virtualenvwrapper", "macos", "homebrew"]
+categories: ["tech"]
 ---
 
 

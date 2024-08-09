@@ -2,9 +2,8 @@
 title: "Populate your Django test database with pytest fixtures"
 slug: populate-your-django-test-database-with-pytest-fixtures
 date: 2017-05-05
-taxonomies:
-  tags: ["python", " pytest", " django", " fixture", " database", " testing"]
-  categories: 
+tags: ["python", "pytest", "django", "fixture", "database", "testing"]
+categories: ["tech"]
 ---
 
 
