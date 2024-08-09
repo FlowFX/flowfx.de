@@ -28,6 +28,9 @@ ignoreErrors = ["error-disable-taxonomy"]
   term = ['html']
 
 [params]
+  # Provide author name for the footer partial.
+  author = "Florian Posdziech"
+
   # The "description" of your website. This is used in the meta data of your generated html.
   # description = "Hugo + Bear = :heart:"
 
