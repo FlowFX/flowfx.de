@@ -2,17 +2,8 @@
 title: Hard To Handle
 slug: hard-to-handle
 date: 2015-07-08
-taxonomies:
-  tags:
-    [
-      "napster",
-      "hard to handle",
-      "the black crows",
-      "sasha",
-      "otis redding",
-      "toots & the maytals",
-    ]
-  categories: [music]
+tags: ["napster", "hard to handle", "the black crows", "sasha", "otis redding", "toots & the maytals"]
+categories: ["music"]
 ---
 
 Napster war super. Napster war für mich die glorreiche Zeit der
@@ -28,16 +19,16 @@ sollte). Zum Abschluss der Sendung sang er mit der Studioband den Song
 
 Sasha ist es also zu verdanken, dass auch ich Otis Redding kennenlernte:
 
-{{ youtube(id="1ZxN9iQM7OY") }}
+{{< youtube 1ZxN9iQM7OY >}}
 
 Es kann gut sein, dass ich damals auch zum ersten Mal Toots & The
 Maytals hörte. Auf die Reggae-Schiene kam ich aber erst 2005, als ich in
 Freiburg die Uplifters mitgründete.
 
-{{ youtube(id="J5oANHA8wxE") }}
+{{< youtube J5oANHA8wxE >}}
 
 Die eindrücklichste Version kam allerdings von der mir damals völlig
 unbekannten Band The Black Crowes. Die genaue Aufnahme finde ich bei
 YouTube nicht, aber sie spielen auch heute noch gut:
 
-{{ youtube(id="k2PDUn_xsPY") }}
+{{< youtube k2PDUn_xsPY >}}

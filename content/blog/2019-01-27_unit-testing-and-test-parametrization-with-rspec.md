@@ -217,7 +217,7 @@ The reason we have not yet introduced this plugin into our test suite at work is
 ## Conclusion?
 All-in-all, I am still very confused about how to best use RSpec. Testing simple functions includes *a lot* of boilerplate code that's hard to write and slow to read. Test parameterization is doable but no clear best practice has emerged, yet.
 
-If you can help me out and give me some pointers, or if you can tell me that I'm going at this completely wrong, please mention me on [Mastodon](https://chaos.social/@flowfx/) (preferred) or [Twitter](https://twitter.com/flowfx_) or [contact me another way](link://slug/contact).
+If you can help me out and give me some pointers, or if you can tell me that I'm going at this completely wrong, please mention me on [Mastodon](https://chaos.social/@flowfx/) (preferred) or [Twitter](https://twitter.com/flowfx_) or [contact me another way](/contact).
 
 Possible future questions include:
 

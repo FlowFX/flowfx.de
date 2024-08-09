@@ -21,10 +21,10 @@ Gestern war ich mit <a href="http://www.twitter.com/flederrattie">Flederrattie</
 
 Hier ein Video, das vermutlich nur ein paar Tage alt ist:
 
-{{ youtube(id="Oaz0r4KVFEg") }}
+{{< youtube Oaz0r4KVFEg >}}
 
 Als drittes und letztes spielten Reel Big Fish, die ich das letzte Mal vor knapp 12 Jahren bei Rock am Ring gesehen hatte. Und sie rocken immernoch. Wer <a href="http://www.youtube.com/playlist?list=PLD8BC3B86B26693A9&amp;feature=view_all">Youtube</a> kennt, den überrascht die Show nicht sonderlich. Aber den ganzen Laden 80 Minuten am Stück Tanzen lassen, das schaffen nicht viele. Am Ende waren wir schweiß- und biergetränkt und ziemlich fertig. Deswegen ist Reel Big Fish immernoch eine ganz heiße Empfehlung für alle tanzwütigen Skaliebhaber!
 
 Hier noch ein relativ aktuelles Video mit allen aktuellen Mitmusikanten:
 
-{{ youtube(id="vginTFoksb0") }}
+{{< youtube vginTFoksb0 >}}

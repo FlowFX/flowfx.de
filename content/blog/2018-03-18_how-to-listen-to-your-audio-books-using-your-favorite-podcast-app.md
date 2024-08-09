@@ -76,5 +76,5 @@ The `audiobooks` directory now has to be served by a web server. A simple one th
 At least my favorite podcast app [Pocket Casts](https://play.pocketcasts.com/) has no problem subscribing to it. I also tried adding password protection using HTTP auth, but that didn't work.
 
 
-If you have questions about any of this, please [send me a message](link://slug/contact). 
+If you have questions about any of this, please [send me a message](/contact). 
 

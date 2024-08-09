@@ -10,7 +10,7 @@ taxonomies:
 
 After hearing about it [from Brian Okken](https://twitter.com/brianokken/status/842551389968461826), I today tried out the [pytest-mock plugin](https://pypi.python.org/pypi/pytest-mock). It is surprisingly simple to use and useful, too.
 
-The other day I wrote about [mocks in Django views](link://slug/mocking-database-calls-when-testing-django-views). The example test uses the <code>with</code> statement for patching the object.
+The other day I wrote about [mocks in Django views](/blog/mocking-database-calls-when-testing-django-views). The example test uses the <code>with</code> statement for patching the object.
 
     from mock import patch
     

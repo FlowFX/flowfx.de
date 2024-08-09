@@ -1,5 +1,7 @@
 ---
 title: Rhein-Neckar-Tour mit den Uplifters
+date : 2023-08-09
+slug : the-uplifters-rhein-neckar-tour
 taxonomies:
   tags:
     - theuplifters

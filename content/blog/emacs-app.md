@@ -1,12 +1,11 @@
----
-title: "Using Automator to create an Emacs.app for running Emacs Client & Server"
-taxonomies:
-  tags:
-    - emacs
-    - macos
-  categories:
-    - tech
----
++++
+title = "Using Automator to create an Emacs.app for running Emacs Client & Server"
+author = ["Florian Posdziech"]
+date = 2024-02-11
+tags = ["emacs", "macos"]
+categories = ["tech"]
+draft = false
++++
 
 Or: **Back To The Mac 1**
 
@@ -16,7 +15,9 @@ First order of business: how do I start the Emacs server and connect to it with 
 
 I'm using [Emacs+](https://github.com/d12frosted/homebrew-emacs-plus) from homebrew:
 
-    brew install emacs-plus@29
+```shell
+brew install emacs-plus@29
+```
 
 Once installed, it works fine, but neither do Spotlight - or Alfred - see any Emacs.app, nor do I know how to start the server or start multiple clients that connect to it.
 
@@ -24,11 +25,13 @@ I found the solution on the blog of one Alex Balgavy: [Setting up Emacs as a dae
 
 All I needed to do is create a new [Automator](https://support.apple.com/de-de/guide/automator/welcome/mac) document of type _Application_ that runs this shell script:
 
-    export PATH=/opt/homebrew/bin:$PATH
-    emacsclient -c -a '' >/dev/null 2>&1 &
+```shell
+export PATH=/opt/homebrew/bin:$PATH
+emacsclient -c -a '' >/dev/null 2>&1 &
+```
 
-`-c` creates a GUI frame, and `-a ''` connects to the server named `''` - or starts it if it's not already running.
+\`-c\` creates a GUI frame, and \`-a ''\` connects to the server named \`''\` - or starts it if it's not already running.
 
-![](/images/2024/Automator-Emacs_app.png)
+{{< figure src="/images/2024/Automator-Emacs_app.png" >}}
 
 Every time I call **Emacs.app**, I get a new fresh Emacs window, just like I'm used to on my Linux machine that runs the Emacs server from systemd.

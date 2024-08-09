@@ -2,9 +2,8 @@
 title: "Training week August 6 to 26"
 slug: training-weeks-august-6-to-26
 date: 2022-08-06
-taxonomies:
-  tags: 
-  categories: ["training"]
+tags:
+categories: ["training"]
 ---
 
 

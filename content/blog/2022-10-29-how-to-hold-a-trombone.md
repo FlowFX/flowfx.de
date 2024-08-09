@@ -1,8 +1,9 @@
 ---
 title: How to hold a trombone
-taxonomies:
-  tags: ["trombone", "brass", "instrument"]
-  categories: ["music"]
+slug: how-to-hold-a-trombone
+date: 2022-10-29
+tags: ["trombone", "brass", "instrument"]
+categories: ["music"]
 ---
 
 Last week I bought a brand new trombone. Following [my
@@ -34,4 +35,4 @@ that collects brass instruments like others collect stamps. He also plays them
 very well, and he plays _all_ of them. Naturally he knows how to properly hold - even a heavy - a
 trombone:
 
-{{ youtube(id="Gu9fALekykY") }}
+{{< youtube Gu9fALekykY >}}
