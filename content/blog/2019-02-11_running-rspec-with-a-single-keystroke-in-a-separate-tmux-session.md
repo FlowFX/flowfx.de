@@ -2,11 +2,9 @@
 title: "Running RSpec with a single keystroke in a separate tmux session"
 slug: running-rspec-with-a-single-keystroke-in-a-separate-tmux-session
 date: 2019-02-11
-taxonomies:
-  tags: ["rspec", " vim", " tmux", " testing", " rails", " ruby"]
-  categories: 
+tags: ["rspec", "vim", "tmux", "testing", "rails", "ruby"]
+categories: ["tech"]
 ---
-
 
 This is a tiny update to [Running Specs from Vim, Sent to tmux via Tslime](https://thoughtbot.com/blog/running-specs-from-vim-sent-to-tmux-via-tslime) from the thoughtbot blog. Go read it, and realize that it's six years old.
 

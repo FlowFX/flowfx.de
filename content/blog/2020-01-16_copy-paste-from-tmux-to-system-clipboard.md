@@ -2,15 +2,13 @@
 title: "Copy & paste from tmux to system clipboard"
 slug: copy-paste-from-tmux-to-system-clipboard
 date: 2020-01-16
-taxonomies:
-  tags: ["tmux", " linux"]
-  categories: 
+tags: ["tmux", "linux"]
+categories: ["tech"]
 ---
-
 
 For the first time in many years I am using a Linux machine for my work. In general I am extremely pleased with the system I've set up. But of course, there are things that don't "just work".
 
-Like... copy selected text from a tmux pane to the clipboard. 
+Like... copy selected text from a tmux pane to the clipboard.
 
 As usual, [StackOverflow](https://unix.stackexchange.com/a/349020) knows the answer. In short:
 
