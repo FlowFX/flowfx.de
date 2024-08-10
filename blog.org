@@ -253,3 +253,20 @@ Danach einmal kurz von der Bühne, dann hoch und loslegen!
 
 *** LINKS
 - [[https://severalwaystolive.com/][Florians Podcast mit Nick Farr]]
+
+** TODO Running RSpec with a single keystroke in a separate Emacs frame
+:PROPERTIES:
+:EXPORT_DATE: 
+:EXPORT_FILE_NAME: running-rspec-with-a-single-keystroke-in-a-separate-emacs-frame
+:END:
+
+Find it in [[https://codeberg.org/flowfx/emacs.d][my Emacs config]].
+
+Don't open a new buffer for RSpec if one already exists. Also, don't move the focus.
+
+#+begin_src elisp
+  (add-to-list 'display-buffer-alist
+	       '("\\*rspec-compilation\\*" . (nil (reusable-frames . t) (inhibit-switch-frame . t))))
+#+end_src
+
+[[running-rspec-with-a-single-keystroke-in-a-separate-tmux-session][Running RSpec with a single keystroke in a separate tmux session]]
