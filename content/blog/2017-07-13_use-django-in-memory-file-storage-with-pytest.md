@@ -2,9 +2,8 @@
 title: "Use Django in-memory file storage with pytest"
 slug: use-django-in-memory-file-storage-with-pytest
 date: 2017-07-13
-taxonomies:
-  tags: ["django", " in-memory", " storage", " pytest", " fixture"]
-  categories: 
+tags: ["django", "in-memory", "storage", "pytest", "fixture"]
+categories: ["tech"]
 ---
 
 

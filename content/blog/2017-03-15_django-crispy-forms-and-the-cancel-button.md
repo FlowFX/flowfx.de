@@ -2,9 +2,8 @@
 title: "django-crispy-forms and the 'cancel' button"
 slug: django-crispy-forms-and-the-cancel-button
 date: 2017-03-15
-taxonomies:
-  tags: ["django", " form", " crispy-forms"]
-  categories: 
+tags: ["django", "form", "crispy-forms"]
+categories: ["tech"]
 ---
 
 

@@ -2,9 +2,8 @@
 title: "Mocking database calls in Django view tests"
 slug: mocking-database-calls-when-testing-django-views
 date: 2017-03-10
-taxonomies:
-  tags: ["django", " mock", " pytest", " unit test", " testing"]
-  categories: 
+tags: ["django", "mock", "pytest", "unit test", "testing"]
+categories: ["tech"]
 ---
 
 

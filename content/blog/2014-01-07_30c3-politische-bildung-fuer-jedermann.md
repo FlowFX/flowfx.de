@@ -1,6 +1,7 @@
 ---
 title: 30C3 - Politische Bildung für Jedermann
-tags: 30c3,edward snowden,glenn greenwald,josef foschepoth,linus,markus beckedahl,neumann,Video,Sonstiges
+date: 2014-01-07
+tags: ["30c3", "Edward Snowden", "Glenn Greenwald", "Josef Foschepoth", "Markus Beckedahl", "Linus Neumann", "video"]
 ---
 
 <p>Der Chaos Communication Congress ist mehr als nur ein Hackertreffen. Der Großteil der Vorträge sind allgemeinverständlich und für jedermann interessant. Gut, dass sie alle in Ton und Bild festgehalten werden.
@@ -13,7 +14,7 @@ Professor Josef Foschepoth aus Freiburg erläutert, wieso die aktuellen Enthüll
 
 Der Vortrag beginnt bei ca. 10:30 Minuten. Irgendwie ist das Video (noch) nicht richtig geschnitten.
 
-{{ youtube(id="4sxA91SRfrI")}}
+{{< youtube 4sxA91SRfrI >}}
 
 <!-- more -->
 

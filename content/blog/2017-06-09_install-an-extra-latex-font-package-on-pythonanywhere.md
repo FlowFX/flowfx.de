@@ -2,9 +2,8 @@
 title: "Install an extra LaTeX font package on PythonAnywhere"
 slug: install-an-extra-latex-font-package-on-pythonanywhere
 date: 2017-06-09
-taxonomies:
-  tags: ["python", " latex", " roboto", " pythonanywhere", " texlive"]
-  categories: 
+tags: ["python", "latex", "roboto", "pythonanywhere", "texlive"]
+categories: ["tech"]
 ---
 
 

@@ -1,17 +1,17 @@
 ---
 title: 11 Minuten Vorspiel
-taxonomies:
-  tags:
-    - hornsection
-    - live
-    - video
-    - ffd
-  categories:
-    - music
+date: 2013-11-29
+tags:
+  - hornsection
+  - live
+  - video
+  - ffd
+categories:
+  - music
 ---
 
-Shiver man by Fat Freddy's Drop - in voller Länge.
+Shiverman by Fat Freddy's Drop - in voller Länge.
 
-{{ youtube(id="6NtB-PuG9PU") }}
+{{< youtube 6NtB-PuG9PU >}}
 
 Die beste Band der Welt.

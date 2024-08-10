@@ -2,9 +2,8 @@
 title: "Continuous deployment of a Django app from Travis CI to PythonAnywhere"
 slug: continuous-delivery-of-a-django-app-from-travis-ci-to-pythonanywhere
 date: 2017-07-27
-taxonomies:
-  tags: ["pythonanywhere", " django", " python", " travis ci", " continuous deployment", " github"]
-  categories: 
+tags: ["pythonanywhere", "django", "python", "travis ci", "continuous deployment", "github"]
+categories: ["tech"]
 ---
 
 

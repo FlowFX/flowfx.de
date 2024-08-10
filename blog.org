@@ -1,0 +1,232 @@
+#+HUGO_BASE_DIR: .
+#+hugo_section: blog
+
+* Blog
+** Using Automator to create an Emacs.app for running Emacs Client & Server :emacs:macos:@tech:
+:PROPERTIES:
+:EXPORT_DATE: 2024-02-11
+:EXPORT_FILE_NAME: emacs-app
+:END:
+
+Or: *Back To The Mac 1*
+
+After using only Linux machines for work for the past 5 years, my next machine will be a MacBook. That's why I'm working on improving my development environment on macOS as best as I can now, something that's not really been necessary when using my personal Mac.
+
+First order of business: how do I start the Emacs server and connect to it with the emacsclient?
+
+I'm using [[https://github.com/d12frosted/homebrew-emacs-plus][Emacs+]] from homebrew:
+
+#+begin_src shell
+  brew install emacs-plus@29
+#+end_src
+
+Once installed, it works fine, but neither do Spotlight - or Alfred - see any Emacs.app, nor do I know how to start the server or start multiple clients that connect to it.
+
+I found the solution on the blog of one Alex Balgavy: [[https://blog.alex.balgavy.eu/setting-up-emacs-as-a-daemon-on-macos/][Setting up Emacs as a daemon on macOS]]. Then I simplified it for my purposes.
+
+All I needed to do is create a new [[https://support.apple.com/de-de/guide/automator/welcome/mac][Automator]] document of type /Application/ that runs this shell script:
+
+#+begin_src shell
+  export PATH=/opt/homebrew/bin:$PATH
+  emacsclient -c -a '' >/dev/null 2>&1 &
+#+end_src
+
+`-c` creates a GUI frame, and `-a ''` connects to the server named `''` - or starts it if it's not already running.
+
+[[/images/2024/Automator-Emacs_app.png]]
+
+Every time I call *Emacs.app*, I get a new fresh Emacs window, just like I'm used to on my Linux machine that runs the Emacs server from systemd.
+** The Uplifters - Live im Proberaum :theuplifters:live:@music:
+:PROPERTIES:
+:EXPORT_DATE: 2023-02-27
+:EXPORT_FILE_NAME: the-uplifters-live-im-proberaum
+:END:
+
+I have [[https://theuplifters.de/][an awesome band]]! In December we recorded a few songs "live" in our rehearsal room in Freiburg, both audio and video. Over the winter everybody but me put /a lot/ of work into pulling both together and making it look and sound good. And what can I say, they did an amazing job. I'm truly impressed. Plus: everything was done using free and open source software: [[https://ardour.org/][Ardour]] and [[https://kdenlive.org/][kdenlive]]!
+
+Well, here they are, two of our original songs, live in the studio:
+
+*** Be Free
+
+#+html: {{< youtube LRyKdED6srA >}}
+
+*** Change My Life
+
+#+html: {{< youtube E8jI3KVACGQ >}}
+
+If you want to see us play live sometime, head over to [[https://theuplifters.de][theuplifters.de]] and sign up to our newsletter! We only send out emails when we have public gigs to announce. Of course you can always book us for your private garden party as well. 😃
+** EurKEY, MacOS and Emacs' Meta key :emacs:macos:keyboard:@tech:
+:PROPERTIES:
+:EXPORT_DATE: 2024-08-08
+:EXPORT_FILE_NAME: eurkey-macos-and-emacs-meta-key
+:END:
+
+*Back To The Mac 2*
+
+I am building my first [[https://codeberg.org/flowfx/emacs.d][custom Emacs configuration]], moving away from [[https://github.com/doomemacs/][Doom Emacs]]. Doom was great for getting started with Emacs after using Vim exclusively for the previous... 15 years?!
+
+After the jump [[/blog/emacs-app][back to the Mac]] there were a number of new issues with my setup that I had no idea how to solve, and there's so much magic happening in Doom that I didn't really want to look too much into it. So I'm taking a step back and starting from scratch. Not really from scratch, because I am using [[https://codeberg.org/ashton314/emacs-bedrock][Emacs Bedrock]] as a base config. But still.
+
+Reading [[https://www.masteringemacs.org/][Mastering Emacs]] helped me /a ton/ in finally understanding some core concepts like ... windows, frames, ~M-x~, ...
+
+-----
+
+Speaking of ~M-x~.
+
+One of my most important (tech/productivity) discoveries of the last 10 years is the [EurKEY keyboard layout](#). In short, it let's me use the ANSI/US keyboard layout for programming while also conveniently insert Umlauts and other accented characters. During my work day I mostly write in English and Ruby. Other times I often write German or Spanish. EurKEY let's me do all of that very simply and in similar fashion in every operating systems I use: MacOS and GNU/Linux.
+
+EurKEY requires the use of the Mac's ~option~ key. Emacs also likes the ~option~ key. It's called ~Meta~ there and is used in the most important command: ~Meta-x~. If Emacs uses ~option~ for ~Meta~, then it's not forwarded to MacOS to be used in EurKEY.
+
+The solution? Disable the ~option~ key and only re-enable the /right/ ~option~ key to act as ~Meta~.
+
+#+begin_src elisp
+  (setq mac-option-modifier 'none)
+  (setq mac-right-option-modifier 'meta)
+#+end_src
+
+This way I can use *the right option key* for Emacs and the left one to write Umlauts.
+
+** TODO Posdcast Ep. 3 - Technical Rider :live:band:soundcheck:@music:@podcaster:
+:PROPERTIES:
+:EXPORT_DATE: 
+:EXPORT_FILE_NAME: posdcast-3-soundcheck-1-technical-rider
+:END:
+
+Vor ein paar Wochen hatte ich die fantastische Gelegenheit, [[https://chaos.social/@thunfisch/][Jan aka
+thunfisch]] zu allem zu befragen was aus Sicht eines Tontechnikers in
+den Technical Rider einer kleinen Band wie den [[https://theuplifters.de/][Uplifters]] gehört.
+
+#+begin_html
+  <iframe title="Podlove Web Player: Der Posdcast - Soundcheck #1 Technical Rider" height="200" src="https://cdn.podlove.org/web-player/5.x/share.html?config=https%3A%2F%2Fposdcast.de%2Fwp-json%2Fpodlove-web-player%2Fshortcode%2Fconfig%2Fdefault%2Ftheme%2Fdefault&amp;episode=https%3A%2F%2Fposdcast.de%2Fwp-json%2Fpodlove-web-player%2Fshortcode%2Fpublisher%2F22" frameborder="0" scrolling="no" tabindex="0">
+  </iframe>
+#+end_html
+
+*** Inhalt eines Technical Riders
+- Kontaktdaten (E-Mail, Mobilnummer)
+- Veröffentlichungs- und Verfallsdatum
+- Kanalliste
+- Festivalpatch: Schlagzeug, Bass, Gitarre, Keys, Akustikgitarren,
+  Vocals, alles weitere hintendran
+
+**** Kanalliste
+- Was ist das für ein Instrument? Beim Schlagzeug interessant: was für
+  ein Kessel ist es?
+- Wie wird es übergeben? Bei der Gitarre z.B.: muss die mikrophoniert
+  werden? Oder kommt da ein DI-Signal? XLR oder Klinke?
+
+Jans TechRider hat:
+
+- Spalte "Nummer"
+- Spalte "Instrument" - was ist es?
+- Spalte "Gewünschtes Mikrophon, DI (aktiv/passiv), XLR..."
+- Spalte "Anmerkungen" - Gitarrenemulator etc
+
+Eigene DI-Box auf nem Pedalboard ist gut und kann helfen.
+
+Kommentare bei unserem TechRider:
+
+- "XLR" bei den Mikros kann man sich sparen
+- farbliche Zusammenfassung ist gut. Aber: druckt es mal mit nem
+  S/W-Drucker aus. Muss nicht schön aussehen, aber lesbar sein.
+
+**** Monitoring
+Infos: Wo? Bühnenplan schicken. Daraus sieht Jan, was da auch drauf
+muss.
+
+Anzahl der Kanäle? Welche Boxen gehen auf einen Kanal?
+
+4 Monitorkanäle kann man erwarten. Mehr ist Glückssache.
+
+Gerne mehr Boxenpositionen einzeichnen mit Fallback für: welche Monitore
+können auf 4 Kanäle zusammengefasst werden?
+
+Monitoringvorgaben bringen nichts. Interessiert keine Sau. Man startet
+mit dem Monitormix von der Band davor und dann wird an
+
+**** In-Ear-Monitoring
+- [[https://www.thomann.de/de/behringer_x32_producer.htm][Behringer X32
+  Producer]]
+- [[https://www.thomann.de/de/behringer_wing.htm][Behringer Wing]]
+
+Wenn Band eigenen In-Ear-Mix macht, dann macht das weniger Arbeit für
+den Techniker. Kommt ein eigener Techniker mit? Wenn, dann Split! AES50
+splitten wenn möglich.
+
+https://en.wikipedia.org/wiki/AES50
+
+Wenn Analog-Split, dann selbst mitbringen! Auch mit entsprechenden
+Kabeln. "Wir würden gerne 16 Kanäle splitten. Wir haben nen Kabelradius
+von 5m.."
+
+Analog-Split geht auch bei kurzer Umbauzeit - wenn man's vorbereitet.
+Muss klar vorher kommuniziert werden was man mitbringt.
+
+InEar-Mix ohne Splitten und eigenem Pult ist voll okay: schreibt rein
+"Wir haben Body-Packs mit 10m Kabel und brauchen nen Mix für 8 Kanäle".
+
+Es hilft zu wissen, welche Musiker auf welchen InEar-Kanälen sein
+sollen. Was genau auf welchen Kanal soll, ist weniger wichtig. S.o.
+Außer es ist ne Extrawurst wie für Florians 2. Kanal mit nur Posaune.
+
+Patchliste ist nicht Kanalliste. Patchliste ist das was am Abend
+verwendet wird, Kanalliste ist das was wir sagen, das wir mitbringen.
+
+**** Wireless
+Schreib rein welches Modell und welches Frequenzband.
+
+Funkstrecken niemals ungefragt einschalten!!!
+
+**** Techniker
+Kommt ein Techniker mit?
+
+Weil: Pult wird anders programmiert. Und Techniker will wissen welches
+Pult da steht. Und ist cool! Passt.
+
+*** Soundcheck
+- vorbereitet sein!
+- während des Aufbaus nicht die Lautstärken durchtesten
+- Instrumente gestimmt!
+
+Ablauf wird vom Techniker vorgegeben. Handzeichen beim Einpegeln fürs
+Monitorsignal. Dezent! Was man nicht hört, lauter. Was man hört, erstmal
+lassen.
+
+DISZIPLIN!
+
+Instrumente spielen:
+
+- Drums: mit gesunden Schlägen draufhauen. Erstmal einpegeln, danach 15,
+  20 Schläge zum Equalizen.
+- Bass: der lautestes Sound, und abgedrehte Dinge.
+- Gitarre: Cleane und verzehrte Sounds etc pp. Wenn Box, dann gerne quer
+  über die Bühne strahlen und vielleicht sogar winkeln. So geht vorne
+  weniger raus, und der Gitarrist hört sich. Wichtig: einmal der
+  lauteste Sound zum Eingainen. Cleanen sound, etc, die verschiedenen
+  Stufen.
+- Keys: Stereo hört eh kein Zuhörer. 4 Kanäle gehen immer. Mehr... naja.
+  Dann lieber Submix. Die ganz schrägen Sounds anspielen. Den lautesten
+  Sound zum Einpegeln..
+- Vocals: zum Einpegeln laut singen! Vorm auf die Bühne gerne Aufwärmen.
+  Wenn eigene Mikros, gerne mitbringen! Und im TechRider erwähnen.
+  Modell! Phantomspeisung. Ist auf jeden Fall ne Hygienefrage!
+- Sampler: wenn nur Samples, dann kurz Einpegeln, fertig. Spannender ist
+  das Playback. Trick: 30 Sekunden Track mit Weißem Rauschen auf 0dB FS.
+  Danach kann er Einpegeln.
+- Bläser: Mikros selbst mitbringen. Laut einpegeln und fertig.
+
+**** Chorus spielen
+Irgendwas wo alle spielen und möglichst viele singen.
+
+0. [@0] Möglichst Standardsounds
+1. 15-20s
+2. Erster Monitorcheck. Gibt's was krasses was sofort geändert werden
+   muss?
+3. Go back to 1) solange wie Zeit ist.
+4. Bandbreite: einmal laut und aggressiv und einmal leise
+
+Ziel: Extreme finden und eine Balance dazwischen zu bauen.
+
+Danach einmal kurz von der Bühne, dann hoch und loslegen!
+
+*** LINKS
+- [[https://severalwaystolive.com/][Florians Podcast mit Nick Farr]]

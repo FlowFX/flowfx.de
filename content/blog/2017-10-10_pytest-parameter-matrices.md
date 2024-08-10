@@ -2,17 +2,16 @@
 title: "pytest parameter matrices"
 slug: pytest-parameter-matrices
 date: 2017-10-10
-taxonomies:
-  tags: ["pytest", " django", " parametrization", " testing"]
-  categories: 
+tags: ["pytest", "django", "parametrization", "testing"]
+categories: ["tech"]
 ---
 
 
-A few months ago I explained how I efficiently [test Django forms with pytest parameterization](link://slug/testing-django-forms-with-pytest-parameterization). Last week, I learned a new trick from [Raphael Pierzina](https://github.com/hackebrot)'s post about [ids for fixtures and parametrize](https://hackebrot.github.io/pytest-tricks/param_id_func/), which is:
+A few months ago I explained how I efficiently [test Django forms with pytest parameterization](/blog/testing-django-forms-with-pytest-parameterization). Last week, I learned a new trick from [Raphael Pierzina](https://github.com/hackebrot)'s post about [ids for fixtures and parametrize](https://hackebrot.github.io/pytest-tricks/param_id_func/), which is:
 
 **You you can add multiple parametrization markers to a test function which then create a test parameter matrix.**
 
-The list of test cases can thus be written much more clearly. Compare the example code from [my previous post](link://slug/testing-django-forms-with-pytest-parameterization):
+The list of test cases can thus be written much more clearly. Compare the example code from [my previous post](/blog/testing-django-forms-with-pytest-parameterization):
 
 ```python  
 from django import forms

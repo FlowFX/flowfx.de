@@ -2,9 +2,8 @@
 title: "How to test django template tags"
 slug: how-to-test-django-template-tags
 date: 2017-05-09
-taxonomies:
-  tags: ["django", " template", " testing"]
-  categories: 
+tags: ["django", "template", "testing"]
+categories: ["tech"]
 ---
 
 

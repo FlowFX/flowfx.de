@@ -1,5 +1,5 @@
 +++
-template = "index.html"
+title = "Datenschutz"
 +++
 
 # Datenschutzerklärung
@@ -13,7 +13,7 @@ Sicherheitsmaßnahmen</a></li><li><a class="index-link" href="#m225">
 Bereitstellung des Onlineangebotes und Webhosting</a></li><li><a
 class="index-link" href="#m328"> Plugins und eingebettete Funktionen sowie
 Inhalte</a></li></ul><h2 id="m3">Verantwortlicher</h2> <p>Florian
-Posdziech<br>R1 14a<br>68161 Mannheim</p>
+Posdziech<br>Rahnfelsstraße 14<br>68163 Mannheim</p>
 <p><strong>E-Mail-Adresse</strong>: hallo (at) <span style="display: none">don't spam me</span> flowfx (punkt) <span style="display: none">really, please don't</span> de</p>
 <p><strong>Impressum</strong>: <a href="https://flowfx.de/contact#impressum"
 target="_blank">https://flowfx.de/contact#impressum</a></p>

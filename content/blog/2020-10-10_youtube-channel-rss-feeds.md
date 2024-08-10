@@ -1,5 +1,7 @@
 ---
 title: YouTube channel RSS feeds
+date: 2020-10-10
+slug: youtube-channel-rss-feeds
 taxonomies:
   tags:
     - rss

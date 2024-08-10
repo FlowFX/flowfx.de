@@ -2,9 +2,8 @@
 title: "Super Heavy - Miracle Worker (or not, according to GEMA)"
 slug: super-heavy-miracle-worker
 date: 2011-08-13
-taxonomies:
-  tags: ["Musik"]
-  categories: 
+tags: ["Musik"]
+categories: 
 ---
 
 <p>Da kommt ein oberfettkrasses Musikerkollektiv mit einem neuen Projekt daher. Es gibt ein teuer teuer produziertes Musikvideo dazu. Und in Deutschland kann man es nicht sehen.. <em>Wer</em> bitte hat was davon? <em>Wer</em>??

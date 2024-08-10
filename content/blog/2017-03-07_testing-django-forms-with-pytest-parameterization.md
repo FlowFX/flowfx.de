@@ -3,8 +3,8 @@ title: "Testing Django forms with pytest parameterization"
 slug: testing-django-forms-with-pytest-parameterization
 date: 2017-03-07
 taxonomies:
-  tags: ["python", " pytest", " django", " forms", " testing"]
-  categories: 
+tags: ["python", "pytest", "django", "forms", "testing"]
+categories: ["tech"]
 ---
 
 
@@ -44,4 +44,4 @@ When working in a TDD-style, I start with one test case, code the  form logic, t
 
 <small>If you think there is a better way to test Django forms, please drop me a line [on the Twitter](https://www.twitter.com/flowfx_)!</small>
 
-### Update 10/10/2017: [pytest parameter matrices](link://slug/pytest-parameter-matrices)
+### Update 10/10/2017: [pytest parameter matrices](/blog/pytest-parameter-matrices)
