@@ -33,7 +33,7 @@ You'll find our next gigs at [theuplifters.de/konzerte](https://theuplifters.de/
 I do most of my coding for work, so the only public repositories that I regularly touch are my configuration files:
 
 - [My dotfiles](https://codeberg.org/flowfx/dotfiles) for Vim, tmux, zsh, i3, and such, and
-- a [Doom Emacs configuration](https://codeberg.org/flowfx/doom.d).
+- [my Emacs configuration](https://codeberg.org/flowfx/emacs.d).
 
 ### Podcasts
 
