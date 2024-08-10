@@ -1,3 +1,4 @@
+#+STARTUP: show2levels
 #+HUGO_BASE_DIR: .
 #+hugo_section: blog
 
