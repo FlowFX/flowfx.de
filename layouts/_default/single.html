@@ -13,12 +13,19 @@
   {{ .Content }}
 </content>
 <p>
-  Categories:
-  {{ range (.GetTerms "categories") }}
+  {{ $categories := .GetTerms "categories" }}
+  {{ if gt (len $categories) 0 }}
+    Categories:
+  {{ end }}
+  {{ range $categories }}
   <a href="{{ .Permalink }}">#{{ .LinkTitle }}</a>
   {{ end }}
-  Tags:
-  {{ range (.GetTerms "tags") }}
+
+  {{ $tags := .GetTerms "tags" }}
+  {{ if gt (len $tags) 0 }}
+    Tags:
+  {{ end }}
+  {{ range $tags }}
   <a href="{{ .Permalink }}">#{{ .LinkTitle }}</a>
   {{ end }}
 </p>
