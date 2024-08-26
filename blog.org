@@ -109,6 +109,24 @@ The solution? Disable the ~option~ key and only re-enable the /right/ ~option~ k
 
 This way I can use *the right option key* for Emacs and the left one to write Umlauts.
 
+** The Uplifters - Live beim Acker-Kult-Festival 2024 :theuplifters:live:@music:
+:PROPERTIES:
+:EXPORT_DATE: 2024-08-25
+:EXPORT_FILE_NAME: the-uplifters-live-beim-acker-kult-festival-2024
+:END:
+
+This past spring I was looking for a local band to support [[https://theuplifters.de/][The Uplifters]] at a concert I was setting up in Mannheim in June. "Support" meaning: draw a few more people than we would by ourselves - us being from Freiburg and not well known here yet. In the course of this search, I met [[https://www.instagram.com/theoffbeatservice/][The Offbeat Service]] from Worms. They couldn't play the date, but they told us about a nice little festival around the corner in Dorsheim, the [[http://ackerkult.de/]["Acker-Kult"]]. They were still looking for bands, and they liked us.
+
+The originally planned concert in Mannheim never happened. Instead, we played a great show at Acker-Kult, I now play /with/ The Offbeat Service, and we finally have some decent live videos to present. Enjoy!
+
+*** Youthman
+
+#+html: {{< youtube 2PLFhydkPwE >}}
+
+*** Ghost Town (Specials Cover)
+
+#+html: {{< youtube A3DFDtL-84M >}}
+
 ** TODO Posdcast Ep. 3 - Technical Rider :live:band:soundcheck:@music:@podcaster:
 :PROPERTIES:
 :EXPORT_DATE: 
@@ -269,4 +287,5 @@ Don't open a new buffer for RSpec if one already exists. Also, don't move the fo
 	       '("\\*rspec-compilation\\*" . (nil (reusable-frames . t) (inhibit-switch-frame . t))))
 #+end_src
 
-[[running-rspec-with-a-single-keystroke-in-a-separate-tmux-session][Running RSpec with a single keystroke in a separate tmux session]]
+[[/blog/running-rspec-with-a-single-keystroke-in-a-separate-tmux-session][Running RSpec with a single keystroke in a separate tmux session]]
+
