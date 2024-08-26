@@ -26,7 +26,7 @@ You'll find our next gigs at [theuplifters.de/konzerte](https://theuplifters.de/
 
 ### Training
 
-[I run](https://runalyze.com/athlete/flowfx), and I train with kettlebells. Sometimes I join my wife for some CrossFit at our friend's gym [muskeltiere](https://www.muskeltiere-sport.de/) in the Jungbusch.
+I run, I train with kettlebells, and I do CrossFit at the awesome [muskeltiere](https://www.muskeltiere-sport.de/) gym in the Jungbusch.
 
 ### Coding
 
