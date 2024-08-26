@@ -13,8 +13,6 @@ title="Look me up on mastodon!">@flowfx@chaos.social</a>! You can also contact m
 
 which I read from time to time.
 
-_Recruiters_, please don't bother contacting me. I am _very_ happy with my current position. Check again next year!
-
 ## secure instant messaging
 
 - Signal: [FlowFX.23](https://signal.me/#eu/XWMoX1isrzJxWtsLfizVQp6S5cl9biBE7F618rpZ3U_e05kt0ZVOzbSs_rFVsFhY) 
