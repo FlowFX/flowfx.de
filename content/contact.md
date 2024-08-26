@@ -15,13 +15,10 @@ which I read from time to time.
 
 _Recruiters_, please don't bother contacting me. I am _very_ happy with my current position. Check again next year!
 
-If you happen to have my phone number, use
-
 ## secure instant messaging
 
-- [Signal](https://whispersystems.org/) (preferred),
-- iMessage (well, more or less secure),
-- [Matrix](https://matrix.to/#/@flowfx:freiburg.social) (no phone number necessary).
+- Signal: [FlowFX.23](https://signal.me/#eu/XWMoX1isrzJxWtsLfizVQp6S5cl9biBE7F618rpZ3U_e05kt0ZVOzbSs_rFVsFhY) 
+- Threema: [7M8R86MK](https://threema.id/7M8R86MK)
 
 ---
 
