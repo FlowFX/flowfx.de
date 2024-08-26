@@ -8,8 +8,8 @@ title = "About Me"
 
 <small>Photo: CC-BY 4.0 Florian »Cheatha« Köhler</small>
 
-My name is Florian Posdziech. I'm a software developer, trombone player, runner, and
-occasional podcaster. I am currently working as a backend developer for
+My name is Florian Posdziech. I'm a software [developer](/categories/tech/ "blog articles from category tech"), [musician](/categories/music/ "music-related blog posts"), [athlete](/categories/training/), and
+occasional [podcaster](/categories/podcast/). I am currently working as a backend developer for
 [ioki](https://ioki.com/) in Frankfurt, Germany.
 
 I like reggae music, baseball, fish tacos, and beer. I've lived, studied and worked in the USA, Norway and Mexico. Maybe it shows.
