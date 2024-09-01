@@ -5,19 +5,24 @@ template = "index.html"
 
 # Resume
 
-I am not a computer scientist. I am a physicist by training and a musician by
-passion. But I've been working with computers my whole life. I wrote my first
-HTML in the 90s and started developing websites professionally with WordPress
-around 2010.
+I am not a computer scientist. I'm a physicist by training and
+musician by passion. But I've been working with computers my whole
+life. I wrote my first HTML in the 90s and started developing websites
+professionally with WordPress around 2010.
 
-2016, while living in Mexico, I finally picked up Python and Django in order to
-develop more serious web applications. I got my first paid project in 2017 and
-have been working in the field ever since.
+2016, while living in Mexico, I finally picked up Python and Django in
+order to develop more serious web applications. I got my first paid
+project in 2017 and have been working in the field ever since.
+
+I like
+
+- working in a team of equals, where mistakes are not problems but things that are discussed and learned from.
+- asking stupid questions and getting them answered.
+- testing. Without tests there can be no code.
 
 I prefer
 
-- working part-time. Currently I work Mondays through Thursdays, and
-  it greatly benefits my well-being and the quality of my work.
+- working part-time. Currently I work Mondays through Thursdays, and it greatly benefits my well-being and the quality of my work.
 - not working on stupid things like cars, bitcoin, or advertising.
 
 ## Relevant job experience
@@ -30,6 +35,11 @@ I prefer
   well.
 
   I hosted our internal series of tech-focused lightning talks for a few years.
+
+  My most impactful contribution to our code base is probably the
+  [DSL](https://en.wikipedia.org/wiki/Domain-specific_language)
+  I wrote for implementing the - extremely diverse - price systems of
+  public transport providers.
 
   Proudest achievement: I co-initiated ioki's first works council election.
 
@@ -61,4 +71,4 @@ I prefer
 ## Education
 
 - _2002 - 2008:_ **Studied physics in Freiburg and Trondheim.**  
-  Diplom / M.Sc. in physics.
+  Diplom / M.Sc. in physics. Thesis: _Mathematical modelling of the JAK2-STAT5 signalling pathway_.

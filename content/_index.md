@@ -33,7 +33,7 @@ I run, I train with kettlebells, and I do CrossFit at the awesome [muskeltiere](
 I do most of my coding for work, so the only public repositories that I regularly touch are my configuration files:
 
 - [My dotfiles](https://codeberg.org/flowfx/dotfiles) for Vim, tmux, zsh, i3, and such, and
-- [my Emacs configuration](https://codeberg.org/flowfx/emacs.d).
+- my [Emacs config](https://codeberg.org/flowfx/emacs.d).
 
 ### Podcasts
 
