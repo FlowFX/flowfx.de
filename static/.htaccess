@@ -5,6 +5,7 @@ RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
 
 # Move from Zola to Hugo
 Redirect 301 /rss.xml /blog/index.xml
+Redirect 301 /cv /resume
 
 # BEGIN Expire headers
 <ifModule mod_expires.c>
