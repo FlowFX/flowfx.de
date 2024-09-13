@@ -13,6 +13,9 @@ enableRobotsTXT = true
 disableKinds = ["taxonomy"]
 ignoreErrors = ["error-disable-taxonomy"]
 
+# Make image-gallery shortcode work (among other things I'm sure)
+assetDir = "static"
+
 [menus]
   [[menus.main]]
     name = 'About'

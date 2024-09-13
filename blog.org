@@ -127,6 +127,28 @@ The originally planned concert in Mannheim never happened. Instead, we played a 
 
 #+html: {{< youtube A3DFDtL-84M >}}
 
+** Live dates autumn 2024 :theuplifters:theoffbeatservice:marshallpfefferle:live:concert:@music:
+:PROPERTIES:
+:EXPORT_DATE: 2024-09-13
+:EXPORT_FILE_NAME: live-dates-autumn-2024
+:END:
+
+I'll be playing a surprising number of shows until the end of the year, both with my long-term band [[https://theuplifters.de/][The Uplifters & Block Ice Horn Section]], the band that I just recently joined, [[https://www.instagram.com/theoffbeatservice/][The Offbeat Service]] (mostly 2-tone Ska from Worms), and the very fun rock-pop-funk cover band [[https://www.instagram.com/marshallpfefferle/][Marshall Pfefferle]] from Heidelberg:
+
+- 19.09. "Karl" in /Heidelberg/ with *Marshall Pfefferle*
+- 09.11. [[https://www.instagram.com/cafeleitstelle/][Café Leitstelle]] in /Heidelberg/ with *The Uplifters* AND *Marshall Pfefferle*
+- 16.11. [[https://www.oetingervilla.de/][Oettinger Villa]] in /Darmstadt/ with *The Offbeat Service*
+- 23.11. [[https://www.knabenschule.de/][Bessunger Knabenschule]] in /Darmstadt/ with *The Offbeat Service*
+- 30.11. [[https://diefunzelworms.de/][Die Funzel]] in /Worms/ with *The Offbeat Service*
+
+#+html: <pre> </pre>
+
+#+html: {{< image-gallery gallery_dir="/images/albums/2024-09-13_live-dates-autumn-2024" >}}
+
+Here's a short from a recent rehearsal with The Offbeat Service. I love that song! ❤️
+
+#+html: {{< youtube uERmw88Xx1c >}}
+
 ** TODO Posdcast Ep. 3 - Technical Rider :live:band:soundcheck:@music:@podcaster:
 :PROPERTIES:
 :EXPORT_DATE: 
