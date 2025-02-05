@@ -25,7 +25,7 @@ I like
 I prefer
 
 - working part-time. Currently I work Mondays through Thursdays, and it greatly benefits my well-being and the quality of my work.
-- not working on stupid things like cars, bitcoin, or advertising.
+- not working on stupid things like cars, crypto, "AI", or advertising.
 
 ## Relevant job experience
 
