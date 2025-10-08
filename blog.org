@@ -15,14 +15,13 @@
 I'm living in Mannheim, Germany,
 
 - working as a backend developer at [[https://ioki.com/][ioki]],
-- serving as a member of ioki's first works council,
+- proudly serving as a member of ioki's first works council,
 - practicing my trombone under the guidance of [[https://der-trompetenlehrer.de/][Ralf-Werner Kopp]],
-- rehearsing and playing with [[https://theuplifters.de/][The Uplifters & Block Ice Horn Section]],
-- practicing for my first rehearsals with my new band [[https://www.instagram.com/theoffbeatservice/][The Offbeat Service]],
-- training at [[https://www.muskeltiere-sport.de/][muskeltiere Mannheim]], or kettlebelling in my garden.
+- rehearsing and playing with [[https://theuplifters.de/][The Uplifters & Block Ice Horn Section]] and [[https://www.instagram.com/theoffbeatservice/][The Offbeat Service]],
+- lifting at my local gym and occasionally training at [[https://www.muskeltiere-sport.de/][muskeltiere Mannheim]].
 
 When my activities or priorities change, I'll update this page. Last
-update was August 10, 2024.
+update was October 8, 2025.
 
 * Blog
 ** Using Automator to create an Emacs.app for running Emacs Client & Server :emacs:macos:@tech:
