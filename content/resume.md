@@ -24,7 +24,7 @@ I like
 
 I prefer
 
-- working part-time. Currently I work Mondays through Thursdays, and it greatly benefits my well-being and the quality of my work.
+- working part-time. Currently I work 30 hours per week, Monday through Friday, and it greatly benefits my well-being and the quality of my work.
 - not working on stupid things like cars, crypto, "AI", or advertising.
 
 ## Relevant job experience
@@ -40,7 +40,7 @@ I prefer
 
   My most impactful contribution to our code base is probably the
   [DSL](https://en.wikipedia.org/wiki/Domain-specific_language)
-  I wrote for implementing the - extremely diverse - price systems of
+  I wrote for efficiently implementing the - extremely diverse - price systems of
   public transport providers.
 
   Proudest achievement: I co-initiated ioki's first works council election.
