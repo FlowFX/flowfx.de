@@ -24,13 +24,11 @@ Check my [Now page](/now) to see what I'm up to at the moment.
 
 ### Music
 
-I play the trombone in the Reggae and Ska band _The Uplifters & Block Ice Horn Section_ from Freiburg.
-
-You'll find our next gigs at [theuplifters.de/konzerte](https://theuplifters.de/konzerte).
+I play the trombone in the Reggae and Ska band [_The Uplifters & Block Ice Horn Section_](https://theuplifters.de/konzerte) from Freiburg, and the [_The Offbeat Service_](https://www.instagram.com/theoffbeatservice/) from Worms.
 
 ### Training
 
-I run, I train with kettlebells, and I do CrossFit at the awesome [muskeltiere](https://www.muskeltiere-sport.de/) gym in the Jungbusch.
+At any time I train one or more of either running, kettlebelling, heavy club swinging, [CrossFit](https://www.muskeltiere-sport.de/), strength training, body building, or rucking.
 
 ### Coding
 
@@ -45,7 +43,7 @@ Sometimes I talk into a microphone.
 
 **[Several Ways To Live (in Mexico City)](https://severalwaystolive.com/)**: An English podcast that I record together with my friend [Nick Farr](https://chaos.social/web/accounts/1767). It used to be about Mexican food and culture. Now it's something else.
 
-**[Tacos und Limetten](https://tacosundlimetten.de/)**: A German podcast where I talk to fellow and former expats in Mexico City.
+<!-- **[Tacos und Limetten](https://tacosundlimetten.de/)**: A German podcast where I talk to fellow and former expats in Mexico City. -->
 
 **[Cultural Comments - der C3S-Podcast](https://podcast.c3s.cc/)**: A German podcast by and for the C3S, an upcoming alternative to the GEMA collecting sociaty.
 
