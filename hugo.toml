@@ -22,6 +22,10 @@ assetDir = "static"
     pageRef = '/'
     weight = 10
   [[menus.main]]
+    name = 'Music'
+    pageRef = '/music'
+    weight = 18
+  [[menus.main]]
     name = 'Now'
     pageRef = '/now'
     weight = 20

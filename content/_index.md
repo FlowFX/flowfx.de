@@ -26,6 +26,8 @@ Check my [Now page](/now) to see what I'm up to at the moment.
 
 I play the trombone in the Ska and Reggae band [_The Uplifters & Block Ice Horn Section_](https://theuplifters.de/konzerte) from Freiburg, and the 2-tone and Rocksteady band [_The Offbeat Service_](https://www.instagram.com/theoffbeatservice/) from Worms.
 
+You can find dates for my next gigs on [the music page](/music).
+
 ### Training
 
 At any time I train one or more of either running, kettlebelling, heavy club swinging, [CrossFit](https://www.muskeltiere-sport.de/), strength training, body building, or rucking.

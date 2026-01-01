@@ -23,6 +23,16 @@ I'm living in Mannheim, Germany,
 When my activities or priorities change, I'll update this page. Last
 update was October 8, 2025.
 
+* Music
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: /
+:EXPORT_FILE_NAME: music
+:END:
+
+** All things music
+
+tbc
+
 * Blog
 ** Using Automator to create an Emacs.app for running Emacs Client & Server :emacs:macos:@tech:
 :PROPERTIES:
