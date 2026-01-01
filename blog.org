@@ -31,7 +31,24 @@ update was October 8, 2025.
 
 ** All things music
 
-tbc
+I play the trombone for the Ska & Reggae band [[https://theuplifters.de/][The Uplifters & Block Ice Horn Section]] from Freiburg and [[https://www.instagram.com/theoffbeatservice/][The Offbeat Service]] from Worms.
+
+*** My next live gigs
+
++ *9 May 2026* @ [[https://www.alter-mannheim.de/][Alter]], Mannheim with /The Uplifters/. ([[https://theuplifters.de/news/9-mai-2026-alter-mannheim/][Info]])
++ *11 July 2026* @ [[https://www.open-air-hamm.de/][Open Air Hamm]] with /The Offbeat Service/.
++ *24 October 2026* @ [[https://altehackerei.de/][Alte Hackerei]], Karlsruhe with /The Offbeat Service/. (Support for [[https://wisecracker.de/][Wisecräcker]])
+
+**** 2025
++ 13 December @ [[https://www.instagram.com/diefunzel][Funzel]], Worms with /The Offbeat Service/.
++ 13 September @ Altstadtfest Speyer with /The Uplifters/. ([[https://theuplifters.de/news/altstadtfest-speyer-13-09-am-nagelklotz/][Info]])
++ 16 August @ [[https://www.jazzandjoy.de/][Worms: jazz and joy]] with /The Offbeat Service/.
++ 20 July @ Fancy Farm, Kirchzeiten with /The Uplifters/.
++ 5 July @ [[https://www.alter-mannheim.de/][Alter]], Mannheim with /The Uplifters/.
++ 15 February @ [[https://josfritzfreiburg.de/][Jos Fritz]], Freiburg with /The Uplifters/.
+
+**** 2024
++ tbc...
 
 * Blog
 ** Using Automator to create an Emacs.app for running Emacs Client & Server :emacs:macos:@tech:
