@@ -1,6 +1,7 @@
 #+STARTUP: show2levels
 #+HUGO_BASE_DIR: .
 #+hugo_section: blog
+#+MACRO: theoffbeatservice [[https://www.instagram.com/theoffbeatservice/][The Offbeat Service]]
 
 * Now
 :PROPERTIES:
@@ -337,3 +338,17 @@ Don't open a new buffer for RSpec if one already exists. Also, don't move the fo
 
 [[/blog/running-rspec-with-a-single-keystroke-in-a-separate-tmux-session][Running RSpec with a single keystroke in a separate tmux session]]
 
+
+** /music :live:concert:@music:
+:PROPERTIES:
+:EXPORT_DATE: 2026-01-01
+:EXPORT_FILE_NAME: flowfx-music
+:END:
+
+I have added the [[/music][/music]] page to collect everything related to my musical activities. Most importantly, this is where I will list the dates for all my upcoming gigs. More will come later.
+
+I have also created a [[https://joinpeertube.org/][PeerTube]] account on [[https://makertube.net/][MakerTube]] to collect all videos of me playing with my bands. If you're on the Fediverse you can subscribe to the [[https://makertube.net/c/flowfx_music/videos][flowfx_music@makertube.net]] channel. The most recent video there is a compilation of videos shot at my recent gig at [[https://www.instagram.com/diefunzel][Die Funzel]] with {{{theoffbeatservice}}}:
+
+#+html: <iframe title="The Offbeat Service live in der Funzel 13.12.2025" width="560" height="315" src="https://makertube.net/videos/embed/kzbJyafThzVHePe3WREXz6" style="border: 0px;" allow="fullscreen" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe>
+
+Check [[https://makertube.net/my-library/video-playlists][the playlists]] to also see the videos from [[https://makertube.net/c/theuplifters_music/videos][The Uplifters channel]].
