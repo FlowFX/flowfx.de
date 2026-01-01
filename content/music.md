@@ -6,7 +6,7 @@ draft = false
 
 ## All things music {#all-things-music}
 
-I play the trombone for the Ska &amp; Reggae band [The Uplifters &amp; Block Ice Horn Section](https://theuplifters.de/) from Freiburg and [The Offbeat Service](https://www.instagram.com/theoffbeatservice/) from Worms.
+I play the trombone for [The Uplifters &amp; Block Ice Horn Section](https://theuplifters.de/) from Freiburg and [The Offbeat Service](https://www.instagram.com/theoffbeatservice/) from Worms.
 
 
 ### My next live gigs {#my-next-live-gigs}
@@ -23,6 +23,7 @@ I play the trombone for the Ska &amp; Reggae band [The Uplifters &amp; Block Ice
 -   16 August @ [Worms: jazz and joy](https://www.jazzandjoy.de/) with _The Offbeat Service_.
 -   20 July @ Fancy Farm, Kirchzeiten with _The Uplifters_.
 -   5 July @ [Alter](https://www.alter-mannheim.de/), Mannheim with _The Uplifters_.
+-   30 April @ Wilhelmsplatz, Heidelberg with _Marshall Pfefferle_.
 -   15 February @ [Jos Fritz](https://josfritzfreiburg.de/), Freiburg with _The Uplifters_.
 
 
