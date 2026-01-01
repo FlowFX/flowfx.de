@@ -1,6 +1,7 @@
 #+STARTUP: show2levels
 #+HUGO_BASE_DIR: .
 #+hugo_section: blog
+#+MACRO: theuplifters [[https://theuplifters.de/][The Uplifters]]
 #+MACRO: theoffbeatservice [[https://www.instagram.com/theoffbeatservice/][The Offbeat Service]]
 
 * Now
@@ -143,7 +144,7 @@ This way I can use *the right option key* for Emacs and the left one to write Um
 :EXPORT_FILE_NAME: the-uplifters-live-beim-acker-kult-festival-2024
 :END:
 
-This past spring I was looking for a local band to support [[https://theuplifters.de/][The Uplifters]] at a concert I was setting up in Mannheim in June. "Support" meaning: draw a few more people than we would by ourselves - us being from Freiburg and not well known here yet. In the course of this search, I met [[https://www.instagram.com/theoffbeatservice/][The Offbeat Service]] from Worms. They couldn't play the date, but they told us about a nice little festival around the corner in Dorsheim, the [[http://ackerkult.de/]["Acker-Kult"]]. They were still looking for bands, and they liked us.
+This past spring I was looking for a local band to support {{{theuplifters}}} at a concert I was setting up in Mannheim in June. "Support" meaning: draw a few more people than we would by ourselves - us being from Freiburg and not well known here yet. In the course of this search, I met {{{theoffbeatservice}}} from Worms. They couldn't play the date, but they told us about a nice little festival around the corner in Dorsheim, the [[http://ackerkult.de/]["Acker-Kult"]]. They were still looking for bands, and they liked us.
 
 The originally planned concert in Mannheim never happened. Instead, we played a great show at Acker-Kult, I now play /with/ The Offbeat Service, and we finally have some decent live videos to present. Enjoy!
 
