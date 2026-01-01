@@ -15,10 +15,6 @@ I'll be playing a surprising number of shows until the end of the year, both wit
 -   23.11. [Bessunger Knabenschule](https://www.knabenschule.de/) in _Darmstadt_ with **The Offbeat Service**
 -   30.11. [Die Funzel](https://diefunzelworms.de/) in _Worms_ with **The Offbeat Service**
 
-<pre> </pre>
-
-{{< image-gallery gallery_dir="/images/albums/2024-09-13_live-dates-autumn-2024" >}}
-
 Here's a short from a recent rehearsal with The Offbeat Service. I love that song! ❤️
 
 {{< youtube uERmw88Xx1c >}}
