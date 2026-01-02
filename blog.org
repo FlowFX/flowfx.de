@@ -355,7 +355,7 @@ I have also created a [[https://joinpeertube.org/][PeerTube]] account on [[https
 
 Check [[https://makertube.net/my-library/video-playlists][the playlists]] to also see the videos from [[https://makertube.net/c/theuplifters_music/videos][The Uplifters channel]].
 
-** Hugo shortcode for embedding PeerTube videos
+** Hugo shortcode for embedding PeerTube videos :hugo:peertube:@tech:
 :PROPERTIES:
 :EXPORT_DATE: 2026-01-02
 :EXPORT_FILE_NAME: hugo-shortcode-for-embedding-peertube-videos
