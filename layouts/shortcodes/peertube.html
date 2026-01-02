@@ -1,0 +1,19 @@
+<!--
+{{/*
+
+    Usage:
+
+    {{< peertube kzbJyafThzVHePe3WREXz6 peertube.net >}}
+
+    The 2nd argument is optional and defaults to makertube.net.
+
+*/}}
+-->
+
+{{ $id := (.Get 0) }}
+{{ $server := (default "makertube.net" (.Get 1)) }}
+
+<div style="position: relative; padding-top: 56.25%;">
+  <iframe title="Play PeerTube video" width="100%" height="100%" src="https://{{ $server }}/videos/embed/{{ $id }}" style="border: 0px; position: absolute; inset: 0px;" allow="fullscreen" sandbox="allow-same-origin allow-scripts allow-popups allow-forms">
+  </iframe>
+</div>
