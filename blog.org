@@ -351,6 +351,6 @@ I have added the [[/music][/music]] page to collect everything related to my mus
 
 I have also created a [[https://joinpeertube.org/][PeerTube]] account on [[https://makertube.net/][MakerTube]] to collect all videos of me playing with my bands. If you're on the Fediverse you can subscribe to the [[https://makertube.net/c/flowfx_music/videos][flowfx_music@makertube.net]] channel. The most recent video there is a compilation of videos shot at my recent gig at [[https://www.instagram.com/diefunzel][Die Funzel]] with {{{theoffbeatservice}}}:
 
-#+html: <iframe title="The Offbeat Service live in der Funzel 13.12.2025" width="560" height="315" src="https://makertube.net/videos/embed/kzbJyafThzVHePe3WREXz6" style="border: 0px;" allow="fullscreen" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe>
+#+html: <div style="position: relative; padding-top: 56.25%;"><iframe title="The Offbeat Service live in der Funzel 13.12.2025" width="100%" height="100%" src="https://makertube.net/videos/embed/kzbJyafThzVHePe3WREXz6" style="border: 0px; position: absolute; inset: 0px;" allow="fullscreen" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe></div>
 
 Check [[https://makertube.net/my-library/video-playlists][the playlists]] to also see the videos from [[https://makertube.net/c/theuplifters_music/videos][The Uplifters channel]].
