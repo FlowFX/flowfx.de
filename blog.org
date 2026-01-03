@@ -431,3 +431,23 @@ The required change in the file is still the same ([[https://github.com/FlowFX/f
 #+end_src
 
 Make sure you run a version of Hugo equal or greater than =v0.146.0= both locally AND in your build CI. I was very confused for a while [[https://github.com/FlowFX/flowfx.de/commit/f54391438aeb171cbe26d0bfb24c84256c437f2f][until /I/ did]].
+
+
+
+
+* Local Variables
+# Local Variables:
+# eval: (defun fx/org-update-export-file-name-at-point ()
+#         "Update EXPORT_FILE_NAME for the current Org heading only."
+#         (interactive)
+#         (save-excursion
+#           (unless (org-at-heading-p)
+#             (org-back-to-heading t))
+#           (let ((date (org-entry-get nil "EXPORT_DATE"))
+#                 (slug (org-entry-get nil "EXPORT_HUGO_SLUG")))
+#             (unless (and date slug)
+#               (user-error "EXPORT_DATE or EXPORT_HUGO_SLUG missing"))
+#             (org-set-property
+#              "EXPORT_FILE_NAME"
+#              (format "%s_%s" date slug)))))
+# End:
