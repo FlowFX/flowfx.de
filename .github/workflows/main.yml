@@ -1,6 +1,8 @@
 name: Build and deploy
 on:
   workflow_dispatch:
+  schedule:
+    - cron: "30 6 * * *"
   push:
     branches:
       - main
