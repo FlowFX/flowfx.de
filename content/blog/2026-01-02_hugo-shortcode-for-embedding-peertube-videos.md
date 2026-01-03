@@ -2,6 +2,7 @@
 title = "Hugo shortcode for embedding PeerTube videos"
 author = ["Florian Posdziech"]
 date = 2026-01-02
+slug = "hugo-shortcode-for-embedding-peertube-videos"
 tags = ["hugo", "peertube"]
 categories = ["tech"]
 draft = false

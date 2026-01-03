@@ -2,6 +2,7 @@
 title = "The Uplifters - Live im Proberaum"
 author = ["Florian Posdziech"]
 date = 2023-02-27
+slug = "the-uplifters-live-im-proberaum"
 tags = ["theuplifters", "live"]
 categories = ["music"]
 draft = false

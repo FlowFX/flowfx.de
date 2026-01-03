@@ -2,6 +2,7 @@
 title = "Full text RSS feed in Hugo"
 author = ["Florian Posdziech"]
 date = 2026-01-03
+slug = "hugo-full-text-rss-feed"
 tags = ["hugo"]
 categories = ["tech"]
 draft = false

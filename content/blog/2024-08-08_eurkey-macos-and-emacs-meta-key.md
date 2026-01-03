@@ -2,6 +2,7 @@
 title = "EurKEY, MacOS and Emacs' Meta key"
 author = ["Florian Posdziech"]
 date = 2024-08-08
+slug = "eurkey-macos-and-emacs-meta-key"
 tags = ["emacs", "macos", "keyboard"]
 categories = ["tech"]
 draft = false

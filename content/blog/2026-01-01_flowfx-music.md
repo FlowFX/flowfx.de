@@ -2,6 +2,7 @@
 title = "/music"
 author = ["Florian Posdziech"]
 date = 2026-01-01
+slug = "flowfx-music"
 tags = ["live", "concert"]
 categories = ["music"]
 draft = false

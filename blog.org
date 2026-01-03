@@ -57,7 +57,8 @@ I play the trombone for [[https://theuplifters.de/][The Uplifters & Block Ice Ho
 ** Using Automator to create an Emacs.app for running Emacs Client & Server :emacs:macos:@tech:
 :PROPERTIES:
 :EXPORT_DATE: 2024-02-11
-:EXPORT_FILE_NAME: emacs-app
+:EXPORT_HUGO_SLUG: emacs-app
+:EXPORT_FILE_NAME: 2024-02-11_emacs-app
 :END:
 
 Or: *Back To The Mac 1*
@@ -88,10 +89,12 @@ All I needed to do is create a new [[https://support.apple.com/de-de/guide/autom
 [[/images/2024/Automator-Emacs_app.png]]
 
 Every time I call *Emacs.app*, I get a new fresh Emacs window, just like I'm used to on my Linux machine that runs the Emacs server from systemd.
+
 ** The Uplifters - Live im Proberaum :theuplifters:live:@music:
 :PROPERTIES:
 :EXPORT_DATE: 2023-02-27
-:EXPORT_FILE_NAME: the-uplifters-live-im-proberaum
+:EXPORT_HUGO_SLUG: the-uplifters-live-im-proberaum
+:EXPORT_FILE_NAME: 2023-02-27_the-uplifters-live-im-proberaum
 :END:
 
 I have [[https://theuplifters.de/][an awesome band]]! In December we recorded a few songs "live" in our rehearsal room in Freiburg, both audio and video. Over the winter everybody but me put /a lot/ of work into pulling both together and making it look and sound good. And what can I say, they did an amazing job. I'm truly impressed. Plus: everything was done using free and open source software: [[https://ardour.org/][Ardour]] and [[https://kdenlive.org/][kdenlive]]!
@@ -110,7 +113,8 @@ If you want to see us play live sometime, head over to [[https://theuplifters.de
 ** EurKEY, MacOS and Emacs' Meta key :emacs:macos:keyboard:@tech:
 :PROPERTIES:
 :EXPORT_DATE: 2024-08-08
-:EXPORT_FILE_NAME: eurkey-macos-and-emacs-meta-key
+:EXPORT_HUGO_SLUG: eurkey-macos-and-emacs-meta-key
+:EXPORT_FILE_NAME: 2024-08-08_eurkey-macos-and-emacs-meta-key
 :END:
 
 *Back To The Mac 2*
@@ -141,7 +145,8 @@ This way I can use *the right option key* for Emacs and the left one to write Um
 ** The Uplifters - Live beim Acker-Kult-Festival 2024 :theuplifters:live:@music:
 :PROPERTIES:
 :EXPORT_DATE: 2024-08-25
-:EXPORT_FILE_NAME: the-uplifters-live-beim-acker-kult-festival-2024
+:EXPORT_HUGO_SLUG: the-uplifters-live-beim-acker-kult-festival-2024
+:EXPORT_FILE_NAME: 2024-08-25_the-uplifters-live-beim-acker-kult-festival-2024
 :END:
 
 This past spring I was looking for a local band to support {{{theuplifters}}} at a concert I was setting up in Mannheim in June. "Support" meaning: draw a few more people than we would by ourselves - us being from Freiburg and not well known here yet. In the course of this search, I met {{{theoffbeatservice}}} from Worms. They couldn't play the date, but they told us about a nice little festival around the corner in Dorsheim, the [[http://ackerkult.de/]["Acker-Kult"]]. They were still looking for bands, and they liked us.
@@ -159,7 +164,8 @@ The originally planned concert in Mannheim never happened. Instead, we played a 
 ** Live dates autumn 2024 :theuplifters:theoffbeatservice:marshallpfefferle:live:concert:@music:
 :PROPERTIES:
 :EXPORT_DATE: 2024-09-13
-:EXPORT_FILE_NAME: live-dates-autumn-2024
+:EXPORT_HUGO_SLUG: live-dates-autumn-2024
+:EXPORT_FILE_NAME: 2024-09-13_live-dates-autumn-2024
 :END:
 
 I'll be playing a surprising number of shows until the end of the year, both with my long-term band [[https://theuplifters.de/][The Uplifters & Block Ice Horn Section]], the band that I just recently joined, [[https://www.instagram.com/theoffbeatservice/][The Offbeat Service]] (mostly 2-tone Ska from Worms), and the very fun rock-pop-funk cover band [[https://www.instagram.com/marshallpfefferle/][Marshall Pfefferle]] from Heidelberg:
@@ -180,8 +186,9 @@ Here's a short from a recent rehearsal with The Offbeat Service. I love that son
 
 ** TODO Posdcast Ep. 3 - Technical Rider :live:band:soundcheck:@music:@podcaster:
 :PROPERTIES:
-:EXPORT_DATE: 
-:EXPORT_FILE_NAME: posdcast-3-soundcheck-1-technical-rider
+:EXPORT_DATE:
+:EXPORT_HUGO_SLUG: posdcast-3-soundcheck-1-technical-rider
+:EXPORT_FILE_NAME: _posdcast-3-soundcheck-1-technical-rider
 :END:
 
 Vor ein paar Wochen hatte ich die fantastische Gelegenheit, [[https://chaos.social/@thunfisch/][Jan aka
@@ -325,8 +332,9 @@ Danach einmal kurz von der Bühne, dann hoch und loslegen!
 
 ** TODO Running RSpec with a single keystroke in a separate Emacs frame
 :PROPERTIES:
-:EXPORT_DATE: 
-:EXPORT_FILE_NAME: running-rspec-with-a-single-keystroke-in-a-separate-emacs-frame
+:EXPORT_DATE:
+:EXPORT_HUGO_SLUG: running-rspec-with-a-single-keystroke-in-a-separate-emacs-frame
+:EXPORT_FILE_NAME: _running-rspec-with-a-single-keystroke-in-a-separate-emacs-frame
 :END:
 
 Find it in [[https://codeberg.org/flowfx/emacs.d][my Emacs config]].
@@ -344,7 +352,8 @@ Don't open a new buffer for RSpec if one already exists. Also, don't move the fo
 ** /music :live:concert:@music:
 :PROPERTIES:
 :EXPORT_DATE: 2026-01-01
-:EXPORT_FILE_NAME: flowfx-music
+:EXPORT_HUGO_SLUG: flowfx-music
+:EXPORT_FILE_NAME: 2026-01-01_flowfx-music
 :END:
 
 I have added the [[/music][/music]] page to collect everything related to my musical activities. Most importantly, this is where I will list the dates for all my upcoming gigs. More will come later.
@@ -358,7 +367,8 @@ Check [[https://makertube.net/my-library/video-playlists][the playlists]] to als
 ** Hugo shortcode for embedding PeerTube videos :hugo:peertube:@tech:
 :PROPERTIES:
 :EXPORT_DATE: 2026-01-02
-:EXPORT_FILE_NAME: hugo-shortcode-for-embedding-peertube-videos
+:EXPORT_HUGO_SLUG: hugo-shortcode-for-embedding-peertube-videos
+:EXPORT_FILE_NAME: 2026-01-02_hugo-shortcode-for-embedding-peertube-videos
 :END:
 
 So, I have a [[/blog/flowfx-music][PeerTube]] account now. With videos!! 🤯 Naturally, I want to embed these videos on this - statically generated - website. Just like YouTube, PeerTube offers an =iframe= embed code:
@@ -414,7 +424,8 @@ The result is a responsively embedded video. 🥳
 ** Full text RSS feed in Hugo :hugo:@tech:
 :PROPERTIES:
 :EXPORT_DATE: 2026-01-03
-:EXPORT_FILE_NAME: hugo-full-text-rss-feed
+:EXPORT_HUGO_SLUG: hugo-full-text-rss-feed
+:EXPORT_FILE_NAME: 2026-01-03_hugo-full-text-rss-feed
 :END:
 
 Since migrating this site to [[https://ox-hugo.scripter.co/][=ox-hugo=]] in 2024 its RSS feed only showed a summary of the blog posts — because that's Hugo's default. I very much dislike such truncated feeds and yesterday, finally, I have updated the template for RSS feeds to include the whole post content.

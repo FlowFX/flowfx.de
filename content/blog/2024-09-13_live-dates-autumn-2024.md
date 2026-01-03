@@ -2,6 +2,7 @@
 title = "Live dates autumn 2024"
 author = ["Florian Posdziech"]
 date = 2024-09-13
+slug = "live-dates-autumn-2024"
 tags = ["theuplifters", "theoffbeatservice", "marshallpfefferle", "live", "concert"]
 categories = ["music"]
 draft = false

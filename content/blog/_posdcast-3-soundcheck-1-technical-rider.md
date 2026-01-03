@@ -1,6 +1,7 @@
 +++
 title = "Posdcast Ep. 3 - Technical Rider"
 author = ["Florian Posdziech"]
+slug = "posdcast-3-soundcheck-1-technical-rider"
 tags = ["live", "band", "soundcheck"]
 categories = ["music", "podcaster"]
 draft = true

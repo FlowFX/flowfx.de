@@ -2,6 +2,7 @@
 title = "The Uplifters - Live beim Acker-Kult-Festival 2024"
 author = ["Florian Posdziech"]
 date = 2024-08-25
+slug = "the-uplifters-live-beim-acker-kult-festival-2024"
 tags = ["theuplifters", "live"]
 categories = ["music"]
 draft = false
