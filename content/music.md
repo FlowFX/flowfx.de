@@ -9,7 +9,7 @@ draft = false
 I play the trombone for [The Uplifters &amp; Block Ice Horn Section](https://theuplifters.de/) from Freiburg and [The Offbeat Service](https://www.instagram.com/theoffbeatservice/) from Worms.
 
 
-### My next live gigs {#my-next-live-gigs}
+### Upcoming concert dates {#upcoming-concert-dates}
 
 -   **9 May 2026** @ [Alter](https://www.alter-mannheim.de/), Mannheim with _The Uplifters_. ([Info](https://theuplifters.de/news/9-mai-2026-alter-mannheim/))
 -   **11 July 2026** @ [Open Air Hamm](https://www.open-air-hamm.de/) with _The Offbeat Service_.
