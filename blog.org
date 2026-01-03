@@ -460,4 +460,5 @@ Don't open a new buffer for RSpec if one already exists. Also, don't move the fo
 #             (org-set-property
 #              "EXPORT_FILE_NAME"
 #              (format "%s_%s" date slug)))))
+# eval: (add-hook 'before-save-hook 'fx/org-update-export-file-name-at-point nil t)
 # End:
