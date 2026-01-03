@@ -54,6 +54,196 @@ I play the trombone for [[https://theuplifters.de/][The Uplifters & Block Ice Ho
 + tbc...
 
 * Blog
+** Full text RSS feed in Hugo :hugo:@tech:
+:PROPERTIES:
+:EXPORT_DATE: 2026-01-03
+:EXPORT_HUGO_SLUG: hugo-full-text-rss-feed
+:EXPORT_FILE_NAME: 2026-01-03_hugo-full-text-rss-feed
+:END:
+
+Since migrating this site to [[https://ox-hugo.scripter.co/][=ox-hugo=]] in 2024 its RSS feed only showed a summary of the blog posts — because that's Hugo's default. I very much dislike such truncated feeds and yesterday, finally, I have updated the template for RSS feeds to include the whole post content.
+
+Of course I'm not the only one with this problem. The information on, for example https://blog.amen6.com/blog/2024/03/hugo-enabling-full-text-rss-feed/ is a bit outdated, though.
+
+The default =rss.xml= is now located at https://github.com/gohugoio/hugo/blob/master/tpl/tplimpl/embedded/templates/rss.xml ([[https://github.com/gohugoio/hugo/blob/b8a2c10d06d815cdaf61ef2f03fb37267612da2e/tpl/tplimpl/embedded/templates/rss.xml][Permalink]]), and it needs to be placed directly inside the =/layouts= directory.
+
+The required change in the file is still the same ([[https://github.com/FlowFX/flowfx.de/commit/451b92f20dc43cfcb90ac7c35b62cd1c175975e9][commit]]):
+
+#+begin_src diff
+  -     <description>{{ .Summary | transform.XMLEscape | safeHTML }}</description>
+  +     <description>{{ .Content | transform.XMLEscape | safeHTML }}</description>
+#+end_src
+
+Make sure you run a version of Hugo equal or greater than =v0.146.0= both locally AND in your build CI. I was very confused for a while [[https://github.com/FlowFX/flowfx.de/commit/f54391438aeb171cbe26d0bfb24c84256c437f2f][until /I/ did]].
+
+
+
+** Hugo shortcode for embedding PeerTube videos :hugo:peertube:@tech:
+:PROPERTIES:
+:EXPORT_DATE: 2026-01-02
+:EXPORT_HUGO_SLUG: hugo-shortcode-for-embedding-peertube-videos
+:EXPORT_FILE_NAME: 2026-01-02_hugo-shortcode-for-embedding-peertube-videos
+:END:
+
+So, I have a [[/blog/flowfx-music][PeerTube]] account now. With videos!! 🤯 Naturally, I want to embed these videos on this - statically generated - website. Just like YouTube, PeerTube offers an =iframe= embed code:
+
+#+begin_src html
+  <iframe title="Los Muchachos feat. The Block Ice Horn Section - Guachiman (live at Jos Fritz Café 15 Feb 2025)" width="560" height="315" src="https://makertube.net/videos/embed/rpfGXbCVSu46P2ELUzhSjT" style="border: 0px;" allow="fullscreen" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe>
+#+end_src
+
+This =iframe= has a static width of =560px= which may be too large for smaller screens. But PeerTube is great and also offers a /Responsive embed/ which looks like this:
+
+#+begin_src html
+  <div style="position: relative; padding-top: 56.25%;">
+    <iframe title="The Offbeat Service live in der Funzel 13.12.2025" width="100%" height="100%" src="https://makertube.net/videos/embed/rpfGXbCVSu46P2ELUzhSjT" style="border: 0px; position: absolute; inset: 0px;" allow="fullscreen" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe>
+  </div>
+#+end_src
+
+Hugo has a built-in shortcode for YouTube videos. It is used this way:
+
+#+begin_src html
+  {{ youtube 0815x11 }}
+#+end_src
+
+Of course, I want the same thing for my PeerTube videos. One big difference between YouTube and PeerTube is that there is only one YouTube, but there are many, many PeerTube servers. In order to be able to add videos from different PeerTube servers, I need the server name as a second argument. But because both my own and  [[https://makertube.net/a/theuplifters/][my band's PeerTube account]] live on [[https://makertube.net/][MakerTube]], I set =makertube.net= as the default address. (See [[https://gohugo.io/functions/compare/default/][=compare.Default=]] in the Hugo docs)
+
+This results in:
+
+#+begin_src html
+  {{ $id := (.Get 0) }}
+  {{ $server := (default "makertube.net" (.Get 1)) }}
+
+  <div style="position: relative; padding-top: 56.25%;">
+    <iframe title="Play PeerTube video" width="100%" height="100%" src="https://{{ $server }}/videos/embed/{{ $id }}" style="border: 0px; position: absolute; inset: 0px;" allow="fullscreen" sandbox="allow-same-origin allow-scripts allow-popups allow-forms">
+    </iframe>
+  </div>
+#+end_src
+
+When saved as =/layouts/shortcodes/peertube.html=, I can use it exactly like the YouTube shortcode,
+
+#+begin_src html
+  {{ peertube rpfGXbCVSu46P2ELUzhSjT }}
+#+end_src
+
+or, if I need to, I can additionally change the address of the PeerTube server.
+
+#+begin_src html
+  {{ peertube rpfGXbCVSu46P2ELUzhSjT makertube.net }}
+#+end_src
+
+The result is a responsively embedded video. 🥳
+
+#+html: {{< peertube rpfGXbCVSu46P2ELUzhSjT >}}
+
+** /music :live:concert:@music:
+:PROPERTIES:
+:EXPORT_DATE: 2026-01-01
+:EXPORT_HUGO_SLUG: flowfx-music
+:EXPORT_FILE_NAME: 2026-01-01_flowfx-music
+:END:
+
+I have added the [[/music][/music]] page to collect everything related to my musical activities. Most importantly, this is where I will list the dates for all my upcoming gigs. More will come later.
+
+I have also created a [[https://joinpeertube.org/][PeerTube]] account on [[https://makertube.net/][MakerTube]] to collect all videos of me playing with my bands. If you're on the Fediverse you can subscribe to the [[https://makertube.net/c/flowfx_music/videos][flowfx_music@makertube.net]] channel. The most recent video there is a compilation of videos shot at my recent gig at [[https://www.instagram.com/diefunzel][Die Funzel]] with {{{theoffbeatservice}}}:
+
+#+html: {{< peertube kzbJyafThzVHePe3WREXz6 >}}
+
+Check [[https://makertube.net/my-library/video-playlists][the playlists]] to also see the videos from [[https://makertube.net/c/theuplifters_music/videos][The Uplifters channel]].
+
+** Live dates autumn 2024 :theuplifters:theoffbeatservice:marshallpfefferle:live:concert:@music:
+:PROPERTIES:
+:EXPORT_DATE: 2024-09-13
+:EXPORT_HUGO_SLUG: live-dates-autumn-2024
+:EXPORT_FILE_NAME: 2024-09-13_live-dates-autumn-2024
+:END:
+
+I'll be playing a surprising number of shows until the end of the year, both with my long-term band [[https://theuplifters.de/][The Uplifters & Block Ice Horn Section]], the band that I just recently joined, [[https://www.instagram.com/theoffbeatservice/][The Offbeat Service]] (mostly 2-tone Ska from Worms), and the very fun rock-pop-funk cover band [[https://www.instagram.com/marshallpfefferle/][Marshall Pfefferle]] from Heidelberg:
+
+- 19.09. "Karl" in /Heidelberg/ with *Marshall Pfefferle*
+- 09.11. [[https://www.instagram.com/cafeleitstelle/][Café Leitstelle]] in /Heidelberg/ with *The Uplifters* AND *Marshall Pfefferle*
+- 16.11. [[https://www.oetingervilla.de/][Oettinger Villa]] in /Darmstadt/ with *The Offbeat Service*
+- 23.11. [[https://www.knabenschule.de/][Bessunger Knabenschule]] in /Darmstadt/ with *The Offbeat Service*
+- 30.11. [[https://diefunzelworms.de/][Die Funzel]] in /Worms/ with *The Offbeat Service*
+
+# #+html: <pre> </pre 
+# 
+# #+html: {{< image-gallery gallery_dir="/images/albums/2024-09-13_live-dates-autumn-2024" >}}
+
+Here's a short from a recent rehearsal with The Offbeat Service. I love that song! ❤️
+
+#+html: {{< youtube uERmw88Xx1c >}}
+
+** The Uplifters - Live beim Acker-Kult-Festival 2024 :theuplifters:live:@music:
+:PROPERTIES:
+:EXPORT_DATE: 2024-08-25
+:EXPORT_HUGO_SLUG: the-uplifters-live-beim-acker-kult-festival-2024
+:EXPORT_FILE_NAME: 2024-08-25_the-uplifters-live-beim-acker-kult-festival-2024
+:END:
+
+This past spring I was looking for a local band to support {{{theuplifters}}} at a concert I was setting up in Mannheim in June. "Support" meaning: draw a few more people than we would by ourselves - us being from Freiburg and not well known here yet. In the course of this search, I met {{{theoffbeatservice}}} from Worms. They couldn't play the date, but they told us about a nice little festival around the corner in Dorsheim, the [[http://ackerkult.de/]["Acker-Kult"]]. They were still looking for bands, and they liked us.
+
+The originally planned concert in Mannheim never happened. Instead, we played a great show at Acker-Kult, I now play /with/ The Offbeat Service, and we finally have some decent live videos to present. Enjoy!
+
+*** Youthman
+
+#+html: {{< youtube 2PLFhydkPwE >}}
+
+*** Ghost Town (Specials Cover)
+
+#+html: {{< youtube A3DFDtL-84M >}}
+
+** EurKEY, MacOS and Emacs' Meta key :emacs:macos:keyboard:@tech:
+:PROPERTIES:
+:EXPORT_DATE: 2024-08-08
+:EXPORT_HUGO_SLUG: eurkey-macos-and-emacs-meta-key
+:EXPORT_FILE_NAME: 2024-08-08_eurkey-macos-and-emacs-meta-key
+:END:
+
+*Back To The Mac 2*
+
+I am building my first [[https://codeberg.org/flowfx/emacs.d][custom Emacs configuration]], moving away from [[https://github.com/doomemacs/][Doom Emacs]]. Doom was great for getting started with Emacs after using Vim exclusively for the previous... 15 years?!
+
+After the jump [[/blog/emacs-app][back to the Mac]] there were a number of new issues with my setup that I had no idea how to solve, and there's so much magic happening in Doom that I didn't really want to look too much into it. So I'm taking a step back and starting from scratch. Not really from scratch, because I am using [[https://codeberg.org/ashton314/emacs-bedrock][Emacs Bedrock]] as a base config. But still.
+
+Reading [[https://www.masteringemacs.org/][Mastering Emacs]] helped me /a ton/ in finally understanding some core concepts like ... windows, frames, ~M-x~, ...
+
+-----
+
+Speaking of ~M-x~.
+
+One of my most important (tech/productivity) discoveries of the last 10 years is the [EurKEY keyboard layout](#). In short, it let's me use the ANSI/US keyboard layout for programming while also conveniently insert Umlauts and other accented characters. During my work day I mostly write in English and Ruby. Other times I often write German or Spanish. EurKEY let's me do all of that very simply and in similar fashion in every operating systems I use: MacOS and GNU/Linux.
+
+EurKEY requires the use of the Mac's ~option~ key. Emacs also likes the ~option~ key. It's called ~Meta~ there and is used in the most important command: ~Meta-x~. If Emacs uses ~option~ for ~Meta~, then it's not forwarded to MacOS to be used in EurKEY.
+
+The solution? Disable the ~option~ key and only re-enable the /right/ ~option~ key to act as ~Meta~.
+
+#+begin_src elisp
+  (setq mac-option-modifier 'none)
+  (setq mac-right-option-modifier 'meta)
+#+end_src
+
+This way I can use *the right option key* for Emacs and the left one to write Umlauts.
+
+** The Uplifters - Live im Proberaum :theuplifters:live:@music:
+:PROPERTIES:
+:EXPORT_DATE: 2023-02-27
+:EXPORT_HUGO_SLUG: the-uplifters-live-im-proberaum
+:EXPORT_FILE_NAME: 2023-02-27_the-uplifters-live-im-proberaum
+:END:
+
+I have [[https://theuplifters.de/][an awesome band]]! In December we recorded a few songs "live" in our rehearsal room in Freiburg, both audio and video. Over the winter everybody but me put /a lot/ of work into pulling both together and making it look and sound good. And what can I say, they did an amazing job. I'm truly impressed. Plus: everything was done using free and open source software: [[https://ardour.org/][Ardour]] and [[https://kdenlive.org/][kdenlive]]!
+
+Well, here they are, two of our original songs, live in the studio:
+
+*** Be Free
+
+#+html: {{< youtube LRyKdED6srA >}}
+
+*** Change My Life
+
+#+html: {{< youtube E8jI3KVACGQ >}}
+
+If you want to see us play live sometime, head over to [[https://theuplifters.de][theuplifters.de]] and sign up to our newsletter! We only send out emails when we have public gigs to announce. Of course you can always book us for your private garden party as well. 😃
 ** Using Automator to create an Emacs.app for running Emacs Client & Server :emacs:macos:@tech:
 :PROPERTIES:
 :EXPORT_DATE: 2024-02-11
@@ -89,100 +279,6 @@ All I needed to do is create a new [[https://support.apple.com/de-de/guide/autom
 [[/images/2024/Automator-Emacs_app.png]]
 
 Every time I call *Emacs.app*, I get a new fresh Emacs window, just like I'm used to on my Linux machine that runs the Emacs server from systemd.
-
-** The Uplifters - Live im Proberaum :theuplifters:live:@music:
-:PROPERTIES:
-:EXPORT_DATE: 2023-02-27
-:EXPORT_HUGO_SLUG: the-uplifters-live-im-proberaum
-:EXPORT_FILE_NAME: 2023-02-27_the-uplifters-live-im-proberaum
-:END:
-
-I have [[https://theuplifters.de/][an awesome band]]! In December we recorded a few songs "live" in our rehearsal room in Freiburg, both audio and video. Over the winter everybody but me put /a lot/ of work into pulling both together and making it look and sound good. And what can I say, they did an amazing job. I'm truly impressed. Plus: everything was done using free and open source software: [[https://ardour.org/][Ardour]] and [[https://kdenlive.org/][kdenlive]]!
-
-Well, here they are, two of our original songs, live in the studio:
-
-*** Be Free
-
-#+html: {{< youtube LRyKdED6srA >}}
-
-*** Change My Life
-
-#+html: {{< youtube E8jI3KVACGQ >}}
-
-If you want to see us play live sometime, head over to [[https://theuplifters.de][theuplifters.de]] and sign up to our newsletter! We only send out emails when we have public gigs to announce. Of course you can always book us for your private garden party as well. 😃
-** EurKEY, MacOS and Emacs' Meta key :emacs:macos:keyboard:@tech:
-:PROPERTIES:
-:EXPORT_DATE: 2024-08-08
-:EXPORT_HUGO_SLUG: eurkey-macos-and-emacs-meta-key
-:EXPORT_FILE_NAME: 2024-08-08_eurkey-macos-and-emacs-meta-key
-:END:
-
-*Back To The Mac 2*
-
-I am building my first [[https://codeberg.org/flowfx/emacs.d][custom Emacs configuration]], moving away from [[https://github.com/doomemacs/][Doom Emacs]]. Doom was great for getting started with Emacs after using Vim exclusively for the previous... 15 years?!
-
-After the jump [[/blog/emacs-app][back to the Mac]] there were a number of new issues with my setup that I had no idea how to solve, and there's so much magic happening in Doom that I didn't really want to look too much into it. So I'm taking a step back and starting from scratch. Not really from scratch, because I am using [[https://codeberg.org/ashton314/emacs-bedrock][Emacs Bedrock]] as a base config. But still.
-
-Reading [[https://www.masteringemacs.org/][Mastering Emacs]] helped me /a ton/ in finally understanding some core concepts like ... windows, frames, ~M-x~, ...
-
------
-
-Speaking of ~M-x~.
-
-One of my most important (tech/productivity) discoveries of the last 10 years is the [EurKEY keyboard layout](#). In short, it let's me use the ANSI/US keyboard layout for programming while also conveniently insert Umlauts and other accented characters. During my work day I mostly write in English and Ruby. Other times I often write German or Spanish. EurKEY let's me do all of that very simply and in similar fashion in every operating systems I use: MacOS and GNU/Linux.
-
-EurKEY requires the use of the Mac's ~option~ key. Emacs also likes the ~option~ key. It's called ~Meta~ there and is used in the most important command: ~Meta-x~. If Emacs uses ~option~ for ~Meta~, then it's not forwarded to MacOS to be used in EurKEY.
-
-The solution? Disable the ~option~ key and only re-enable the /right/ ~option~ key to act as ~Meta~.
-
-#+begin_src elisp
-  (setq mac-option-modifier 'none)
-  (setq mac-right-option-modifier 'meta)
-#+end_src
-
-This way I can use *the right option key* for Emacs and the left one to write Umlauts.
-
-** The Uplifters - Live beim Acker-Kult-Festival 2024 :theuplifters:live:@music:
-:PROPERTIES:
-:EXPORT_DATE: 2024-08-25
-:EXPORT_HUGO_SLUG: the-uplifters-live-beim-acker-kult-festival-2024
-:EXPORT_FILE_NAME: 2024-08-25_the-uplifters-live-beim-acker-kult-festival-2024
-:END:
-
-This past spring I was looking for a local band to support {{{theuplifters}}} at a concert I was setting up in Mannheim in June. "Support" meaning: draw a few more people than we would by ourselves - us being from Freiburg and not well known here yet. In the course of this search, I met {{{theoffbeatservice}}} from Worms. They couldn't play the date, but they told us about a nice little festival around the corner in Dorsheim, the [[http://ackerkult.de/]["Acker-Kult"]]. They were still looking for bands, and they liked us.
-
-The originally planned concert in Mannheim never happened. Instead, we played a great show at Acker-Kult, I now play /with/ The Offbeat Service, and we finally have some decent live videos to present. Enjoy!
-
-*** Youthman
-
-#+html: {{< youtube 2PLFhydkPwE >}}
-
-*** Ghost Town (Specials Cover)
-
-#+html: {{< youtube A3DFDtL-84M >}}
-
-** Live dates autumn 2024 :theuplifters:theoffbeatservice:marshallpfefferle:live:concert:@music:
-:PROPERTIES:
-:EXPORT_DATE: 2024-09-13
-:EXPORT_HUGO_SLUG: live-dates-autumn-2024
-:EXPORT_FILE_NAME: 2024-09-13_live-dates-autumn-2024
-:END:
-
-I'll be playing a surprising number of shows until the end of the year, both with my long-term band [[https://theuplifters.de/][The Uplifters & Block Ice Horn Section]], the band that I just recently joined, [[https://www.instagram.com/theoffbeatservice/][The Offbeat Service]] (mostly 2-tone Ska from Worms), and the very fun rock-pop-funk cover band [[https://www.instagram.com/marshallpfefferle/][Marshall Pfefferle]] from Heidelberg:
-
-- 19.09. "Karl" in /Heidelberg/ with *Marshall Pfefferle*
-- 09.11. [[https://www.instagram.com/cafeleitstelle/][Café Leitstelle]] in /Heidelberg/ with *The Uplifters* AND *Marshall Pfefferle*
-- 16.11. [[https://www.oetingervilla.de/][Oettinger Villa]] in /Darmstadt/ with *The Offbeat Service*
-- 23.11. [[https://www.knabenschule.de/][Bessunger Knabenschule]] in /Darmstadt/ with *The Offbeat Service*
-- 30.11. [[https://diefunzelworms.de/][Die Funzel]] in /Worms/ with *The Offbeat Service*
-
-# #+html: <pre> </pre 
-# 
-# #+html: {{< image-gallery gallery_dir="/images/albums/2024-09-13_live-dates-autumn-2024" >}}
-
-Here's a short from a recent rehearsal with The Offbeat Service. I love that song! ❤️
-
-#+html: {{< youtube uERmw88Xx1c >}}
 
 ** TODO Posdcast Ep. 3 - Technical Rider :live:band:soundcheck:@music:@podcaster:
 :PROPERTIES:
@@ -347,103 +443,6 @@ Don't open a new buffer for RSpec if one already exists. Also, don't move the fo
 #+end_src
 
 [[/blog/running-rspec-with-a-single-keystroke-in-a-separate-tmux-session][Running RSpec with a single keystroke in a separate tmux session]]
-
-
-** /music :live:concert:@music:
-:PROPERTIES:
-:EXPORT_DATE: 2026-01-01
-:EXPORT_HUGO_SLUG: flowfx-music
-:EXPORT_FILE_NAME: 2026-01-01_flowfx-music
-:END:
-
-I have added the [[/music][/music]] page to collect everything related to my musical activities. Most importantly, this is where I will list the dates for all my upcoming gigs. More will come later.
-
-I have also created a [[https://joinpeertube.org/][PeerTube]] account on [[https://makertube.net/][MakerTube]] to collect all videos of me playing with my bands. If you're on the Fediverse you can subscribe to the [[https://makertube.net/c/flowfx_music/videos][flowfx_music@makertube.net]] channel. The most recent video there is a compilation of videos shot at my recent gig at [[https://www.instagram.com/diefunzel][Die Funzel]] with {{{theoffbeatservice}}}:
-
-#+html: {{< peertube kzbJyafThzVHePe3WREXz6 >}}
-
-Check [[https://makertube.net/my-library/video-playlists][the playlists]] to also see the videos from [[https://makertube.net/c/theuplifters_music/videos][The Uplifters channel]].
-
-** Hugo shortcode for embedding PeerTube videos :hugo:peertube:@tech:
-:PROPERTIES:
-:EXPORT_DATE: 2026-01-02
-:EXPORT_HUGO_SLUG: hugo-shortcode-for-embedding-peertube-videos
-:EXPORT_FILE_NAME: 2026-01-02_hugo-shortcode-for-embedding-peertube-videos
-:END:
-
-So, I have a [[/blog/flowfx-music][PeerTube]] account now. With videos!! 🤯 Naturally, I want to embed these videos on this - statically generated - website. Just like YouTube, PeerTube offers an =iframe= embed code:
-
-#+begin_src html
-  <iframe title="Los Muchachos feat. The Block Ice Horn Section - Guachiman (live at Jos Fritz Café 15 Feb 2025)" width="560" height="315" src="https://makertube.net/videos/embed/rpfGXbCVSu46P2ELUzhSjT" style="border: 0px;" allow="fullscreen" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe>
-#+end_src
-
-This =iframe= has a static width of =560px= which may be too large for smaller screens. But PeerTube is great and also offers a /Responsive embed/ which looks like this:
-
-#+begin_src html
-  <div style="position: relative; padding-top: 56.25%;">
-    <iframe title="The Offbeat Service live in der Funzel 13.12.2025" width="100%" height="100%" src="https://makertube.net/videos/embed/rpfGXbCVSu46P2ELUzhSjT" style="border: 0px; position: absolute; inset: 0px;" allow="fullscreen" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe>
-  </div>
-#+end_src
-
-Hugo has a built-in shortcode for YouTube videos. It is used this way:
-
-#+begin_src html
-  {{ youtube 0815x11 }}
-#+end_src
-
-Of course, I want the same thing for my PeerTube videos. One big difference between YouTube and PeerTube is that there is only one YouTube, but there are many, many PeerTube servers. In order to be able to add videos from different PeerTube servers, I need the server name as a second argument. But because both my own and  [[https://makertube.net/a/theuplifters/][my band's PeerTube account]] live on [[https://makertube.net/][MakerTube]], I set =makertube.net= as the default address. (See [[https://gohugo.io/functions/compare/default/][=compare.Default=]] in the Hugo docs)
-
-This results in:
-
-#+begin_src html
-  {{ $id := (.Get 0) }}
-  {{ $server := (default "makertube.net" (.Get 1)) }}
-
-  <div style="position: relative; padding-top: 56.25%;">
-    <iframe title="Play PeerTube video" width="100%" height="100%" src="https://{{ $server }}/videos/embed/{{ $id }}" style="border: 0px; position: absolute; inset: 0px;" allow="fullscreen" sandbox="allow-same-origin allow-scripts allow-popups allow-forms">
-    </iframe>
-  </div>
-#+end_src
-
-When saved as =/layouts/shortcodes/peertube.html=, I can use it exactly like the YouTube shortcode,
-
-#+begin_src html
-  {{ peertube rpfGXbCVSu46P2ELUzhSjT }}
-#+end_src
-
-or, if I need to, I can additionally change the address of the PeerTube server.
-
-#+begin_src html
-  {{ peertube rpfGXbCVSu46P2ELUzhSjT makertube.net }}
-#+end_src
-
-The result is a responsively embedded video. 🥳
-
-#+html: {{< peertube rpfGXbCVSu46P2ELUzhSjT >}}
-
-** Full text RSS feed in Hugo :hugo:@tech:
-:PROPERTIES:
-:EXPORT_DATE: 2026-01-03
-:EXPORT_HUGO_SLUG: hugo-full-text-rss-feed
-:EXPORT_FILE_NAME: 2026-01-03_hugo-full-text-rss-feed
-:END:
-
-Since migrating this site to [[https://ox-hugo.scripter.co/][=ox-hugo=]] in 2024 its RSS feed only showed a summary of the blog posts — because that's Hugo's default. I very much dislike such truncated feeds and yesterday, finally, I have updated the template for RSS feeds to include the whole post content.
-
-Of course I'm not the only one with this problem. The information on, for example https://blog.amen6.com/blog/2024/03/hugo-enabling-full-text-rss-feed/ is a bit outdated, though.
-
-The default =rss.xml= is now located at https://github.com/gohugoio/hugo/blob/master/tpl/tplimpl/embedded/templates/rss.xml ([[https://github.com/gohugoio/hugo/blob/b8a2c10d06d815cdaf61ef2f03fb37267612da2e/tpl/tplimpl/embedded/templates/rss.xml][Permalink]]), and it needs to be placed directly inside the =/layouts= directory.
-
-The required change in the file is still the same ([[https://github.com/FlowFX/flowfx.de/commit/451b92f20dc43cfcb90ac7c35b62cd1c175975e9][commit]]):
-
-#+begin_src diff
-  -     <description>{{ .Summary | transform.XMLEscape | safeHTML }}</description>
-  +     <description>{{ .Content | transform.XMLEscape | safeHTML }}</description>
-#+end_src
-
-Make sure you run a version of Hugo equal or greater than =v0.146.0= both locally AND in your build CI. I was very confused for a while [[https://github.com/FlowFX/flowfx.de/commit/f54391438aeb171cbe26d0bfb24c84256c437f2f][until /I/ did]].
-
-
 
 
 * Local Variables
