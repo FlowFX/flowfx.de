@@ -54,6 +54,21 @@ I play the trombone for [[https://theuplifters.de/][The Uplifters & Block Ice Ho
 + tbc...
 
 * Blog
+** Alpha Blondy - live at POL AND ROCK Festival 2018
+:PROPERTIES:
+:EXPORT_DATE: 2026-01-17
+:EXPORT_HUGO_SLUG: alpha-blondy-live-at-pol-and-rock-festival-2018
+:EXPORT_FILE_NAME: 2026-01-17_alpha-blondy-live-at-pol-and-rock-festival-2018
+:END:
+
+Alpha Blondy & The Solar System are probably my favorite live performers. I first saw them play at Chiemsee Reggae Summer in 2010, and once again [[https://www.youtube.com/watch?v=hlgHtpGa1wU][2016 in Mexico City]]. Their live sound is perfect. It's huge, precise, and clear. Of course I can't properly describe it, nor would it help you feel it. I can only encourage you to go see them as long as they're around!
+
+Then you will witness an amazing show like this one from Poland in 2018 which I love listening to:
+
+#+html: {{< youtube -Zls4z-xL6s >}}
+#+html: <br/>
+#+html: {{< youtube g2PK4e2I4Mc >}}
+
 ** Full text RSS feed in Hugo :hugo:@tech:
 :PROPERTIES:
 :EXPORT_DATE: 2026-01-03
