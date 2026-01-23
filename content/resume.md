@@ -5,45 +5,48 @@ template = "index.html"
 
 # Resume
 
-**Florian Posdziech. Software Developer.**
+**Florian Posdziech**
 
-I am not a computer scientist. I'm a physicist by training and
-musician by passion. But I've been working with computers my whole
-life. I wrote my first HTML in the 90s and started developing websites
-professionally with WordPress around 2010.
+I am a software developer, though not a computer scientist. I'm a physicist by
+training and musician by passion, and I've been working with computers my whole
+life. I wrote my first HTML in the 90s - also my first digital music scores -
+and started developing websites professionally with WordPress around 2010.
 
-2016, while living in Mexico, I finally picked up Python and Django in
-order to develop more serious web applications. I got my first paid
-project in 2017 and have been working in the field ever since.
+2016, while living in Mexico, I picked up Python and Django in order to develop
+more serious web applications. I got my first paid project in 2017 and have been
+working in the field ever since.
 
-I like
+I like:
 
-- working in a team of equals, where mistakes are not problems but things that are discussed and learned from.
-- asking stupid questions and getting them answered.
-- testing. Without tests there can be no code.
+- Working in a team of equals, where mistakes are not problems but things that are discussed and learned from.
+- Asking stupid questions and getting them answered.
+- Testing. Without tests there can be no code.
 
-I prefer
+I'm looking for:
 
-- working part-time. Currently I work 30 hours per week, Monday through Friday, and it greatly benefits my well-being and the quality of my work.
-- not working on stupid things like cars, crypto, "AI", or advertising.
+- **Part-time** work. For personal reasons I only work 30 hours per week, Monday through Friday.
+- Meaningful work. So no stupid things like cars, crypto, "AI", or advertising.
+- An office I can commute to by bike, so anything in **Mannheim** and Ludwigshafen, **or** a **fully remote** team.
 
 ## Relevant job experience
 
 - _Since September 2019:_ **Backend Developer at [ioki GmbH](https://ioki.com/), Frankfurt.**  
-  We work with Ruby on Rails, PostgreSQL, PostGIS, and all the other fun
-  standard stuff. My teammates and my lead [Andreas
-  Schwarzkopf](https://www.linkedin.com/in/andreas-schwarzkopf/) are incredibly
-  skilled, and I am learning a ton from them. Sometimes I can teach them as
-  well.
+  [ioki](https://ioki.com/) offers a SaaS application for on-demand shuttle
+  services in the public transport sector. We work with Ruby on Rails,
+  PostgreSQL, PostGIS, and all the other fun standard stuff. My teammates are
+  incredibly skilled, and I have learned a ton from them over the last years.
+  Sometimes I could teach them as well, especially about writing software tests.
 
-  I hosted our internal series of tech-focused lightning talks for a few years.
+  As everyone else on the team, I am not only responsible for writing new
+  features but also for code deployments, error monitoring, dependency updates,
+  debugging bug reports and - of course - code reviews.
 
-  My most impactful contribution to our code base is probably the
-  [DSL](https://en.wikipedia.org/wiki/Domain-specific_language)
-  I wrote for efficiently implementing the - extremely diverse - price systems of
+  For a few years I hosted our internal series of tech-focused lightning talks.
+
+  Most impactful contribution: I wrote a
+  [DSL](https://en.wikipedia.org/wiki/Domain-specific_language) for efficiently
+  implementing the - extremely diverse - price systems of our customers, the
   public transport providers.
-
-  Proudest achievement: I co-initiated ioki's first works council election.
 
 - _May 2018 - Aug 2019:_ **Software Developer Ruby on Rails at CHI Deutschland Cargo Handling GmbH, Frankfurt.**  
   Looking for a job in the Rhein-Main-Neckar area, I overlooked the requirement for
