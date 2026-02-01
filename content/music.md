@@ -12,8 +12,8 @@ I play the trombone for [The Uplifters &amp; Block Ice Horn Section](https://the
 ### Upcoming concert dates {#upcoming-concert-dates}
 
 -   **9 May 2026** @ [Alter](https://www.alter-mannheim.de/), Mannheim with _The Uplifters_. ([Info](https://theuplifters.de/news/9-mai-2026-alter-mannheim/))
+-   **24 May 2026** @ Rosenheim with _The Uplifters_. (tbd)
 -   **11 July 2026** @ [Open Air Hamm](https://www.open-air-hamm.de/) with _The Offbeat Service_.
--   **24 October 2026** @ [Alte Hackerei](https://altehackerei.de/), Karlsruhe with _The Offbeat Service_. (Support for [Wisecräcker](https://wisecracker.de/))
 
 
 #### 2025 {#2025}
