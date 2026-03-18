@@ -12,7 +12,7 @@ training and musician by passion, and I've been working with computers my whole
 life. I wrote my first HTML in the 90s - also my first digital music scores -
 and started developing websites professionally with WordPress around 2010.
 
-2016, while living in Mexico, I picked up Python and Django in order to develop
+2016, while living in Mexico, I taught pyself Python, Django, and TDD in order to develop
 more serious web applications. I got my first paid project in 2017 and have been
 working in the field ever since.
 
@@ -41,7 +41,7 @@ Last updated: March 18, 2026.
 ## Relevant job experience
 
 - _Since September 2019:_ **Backend Developer at [ioki GmbH](https://ioki.com/), Frankfurt.**  
-  [ioki](https://ioki.com/) offers a SaaS application for on-demand shuttle
+  ioki offers a SaaS application for on-demand shuttle
   services in the public transport sector. We work with Ruby on Rails,
   PostgreSQL, PostGIS, and all the other fun standard stuff. My teammates are
   incredibly skilled, and I have learned a ton from them over the last years.
