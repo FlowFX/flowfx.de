@@ -25,7 +25,7 @@ I'm looking for:
 
 I like:
 
-- Working in a team of equals where mistakes are not condemned but discussed and learn from.
+- Working in a team of equals where mistakes are not condemned but discussed and learned from.
 - Asking stupid questions and getting them answered.
 - Testing. Without tests there can be no code.
 
