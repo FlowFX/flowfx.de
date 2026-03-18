@@ -16,17 +16,27 @@ and started developing websites professionally with WordPress around 2010.
 more serious web applications. I got my first paid project in 2017 and have been
 working in the field ever since.
 
+I'm looking for:
+
+- Work as a **software developer** - but I am open for related positions as well.
+- A **part-time** position. For personal reasons I currently work 30 hours per week, Monday through Friday.
+- Meaningful work. No stupid things like automotives, crypto currencies, "AI", or advertising.
+- An office I can commute to by bike, so anything in **Mannheim** and Ludwigshafen, **or** a **fully remote** team.
+
 I like:
 
-- Working in a team of equals, where mistakes are not problems but things that are discussed and learned from.
+- Working in a team of equals where mistakes are not condemned but discussed and learn from.
 - Asking stupid questions and getting them answered.
 - Testing. Without tests there can be no code.
 
-I'm looking for:
+I offer:
 
-- **Part-time** work. For personal reasons I only work 30 hours per week, Monday through Friday.
-- Meaningful work. So no stupid things like cars, crypto, "AI", or advertising.
-- An office I can commute to by bike, so anything in **Mannheim** and Ludwigshafen, **or** a **fully remote** team.
+- 8 years of experience in developing, maintaining, and running Ruby On Rails applications.
+- A track record of learning new languages and frameworks on the job, and quickly becoming productive with them.
+- A passion for software testing.
+- The desire to do the right thing and do it right.
+
+Last updated: March 18, 2026.
 
 ## Relevant job experience
 
@@ -37,22 +47,21 @@ I'm looking for:
   incredibly skilled, and I have learned a ton from them over the last years.
   Sometimes I could teach them as well, especially about writing software tests.
 
-  As everyone else on the team, I am not only responsible for writing new
+  Like everyone else on the team, I am not only responsible for writing new
   features but also for code deployments, error monitoring, dependency updates,
   debugging bug reports and - of course - code reviews.
 
-  For a few years I hosted our internal series of tech-focused lightning talks.
+  For a number of years I hosted our internal series of tech-focused lightning talks.
 
-  Most impactful contribution: I wrote a
+  Most impactful contribution: I wrote the gem/module and a
   [DSL](https://en.wikipedia.org/wiki/Domain-specific_language) for efficiently
-  implementing the - extremely diverse - price systems of our customers, the
+  implementing the diverse price systems of our customers, the
   public transport providers.
 
 - _May 2018 - Aug 2019:_ **Software Developer Ruby on Rails at CHI Deutschland Cargo Handling GmbH, Frankfurt.**  
   Looking for a job in the Rhein-Main-Neckar area, I overlooked the requirement for
-  _Ruby_ skills in one job ad. [Daniel Loy](https://www.linkedin.com/in/daniel-loy-8b42a8a9/) hired me anyways and
-  thus jumpstarted my career as a Rails developer. We now work together at ioki,
-  so everything worked out fine.
+  _Ruby_ skills in one job ad. I got hired me anyways and
+  this jumpstarted my career as a Rails developer.
 
   Proudest achievement: I successfully replaced Jira with GitHub issues for the team's task management.
 
@@ -75,5 +84,5 @@ I'm looking for:
 
 ## Education
 
-- _2002 - 2008:_ **Studied physics in Freiburg and Trondheim.**  
+- _2002 - 2009:_ **Studied physics in Freiburg and Trondheim.**  
   Diplom / M.Sc. in physics. Thesis: _Mathematical modelling of the JAK2-STAT5 signalling pathway_.
