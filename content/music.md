@@ -11,9 +11,12 @@ I play the trombone for [The Uplifters &amp; Block Ice Horn Section](https://the
 
 ### Upcoming concert dates {#upcoming-concert-dates}
 
--   **9 May 2026** @ [Alter](https://www.alter-mannheim.de/), Mannheim with _The Uplifters_. ([Info](https://theuplifters.de/news/9-mai-2026-alter-mannheim/))
--   **24 May 2026** @ Rosenheim with _The Uplifters_. (tbd)
--   **11 July 2026** @ [Open Air Hamm](https://www.open-air-hamm.de/) with _The Offbeat Service_.
+-   **23 May 2026** @ [Campingplatz Erlensee](https://theuplifters.de/news/23-mai-campingplatz-erlensee-nahe-rosenheim/) near Rosenheim with _The Uplifters_.
+-   **24 May 2026** @ [SKA BBQ at Asta Biergarten](https://theuplifters.de/news/24-mai-asta-biergarten-rosenheim/) in Rosenheim with _The Uplifters_.
+-   **5 July 2026** @ [Freiburg Stimmt Ein](https://theuplifters.de/news/7-juli-freiburg-stimmt-ein/) with _The Uplifters_.
+-   **10 July 2026** @ [Open Air Hamm](https://www.open-air-hamm.de/) with _The Offbeat Service_.
+-   **20 July 2026** @ [ZMF](https://theuplifters.de/news/20-juli-zmf-freiburg/) Freiburg with _The Uplifters_.
+-   **24 October 2026** @ [Alte Hackerei](https://altehackerei.de/), Karlsruhe with _The Offbeat Service_. (Support for [Wisecräcker](https://wisecracker.de/), not yet confirmed)
 
 
 #### 2025 {#2025}
