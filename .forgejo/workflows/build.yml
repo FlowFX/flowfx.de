@@ -1,0 +1,12 @@
+name: publish
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  publish:
+    runs-on: codeberg-small
+    steps:
+      - run: "echo All good!"
