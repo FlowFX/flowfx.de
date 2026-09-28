@@ -57,6 +57,35 @@ I play the trombone for [[https://theuplifters.de/][The Uplifters & Block Ice Ho
 + tbc...
 
 * Blog
+** Python virtual environments in Emacs
+:PROPERTIES:
+:EXPORT_DATE: 2026-09-28
+:EXPORT_HUGO_SLUG: python-virtual-envs-in-emacs
+:EXPORT_FILE_NAME: 2026-09-28-python-virtual-envs-in-emacs
+:END:
+
+I am looking at Python again, specifically I am working through Brian Okken's awesome book [[https://pythontest.com/pytest-book/][Python Testing with pytest]]. I did that the first time 9 years ago when I first learned Django and TDD, and even wrote [[https://flowfx.de/tags/pytest/][a few blog posts]] about it.
+
+Nowadays my development environment is Emacs, and very quickly I had to answer the question: how do I tell the really good [[https://github.com/wbolster/emacs-python-pytest][=emacs-python-pytest=]] package where to find the virtual environment for my project. Luckily for me, [[https://mastodon.social/@cks/117186120032794520][Chris Siebenmann recently asked the same question on Mastodon]] and then [[https://utcc.utoronto.ca/~cks/space/blog/python/VenvsAndToolsInEmacs][blogged about it]]. That's how I knew where to look.
+
+It's all about setting the environment variables =PATH= and =VIRTUAL_ENV_PROMPT=. My solution differs from Chris's only in that I use the [[https://github.com/wbolster/emacs-direnv][=emacs-direnv=]] package that's already in [[https://codeberg.org/flowfx/emacs.d][my config]], but I guess =envrc= works just as well.
+
+#+begin_src elisp
+  (use-package direnv
+    :hook
+    (prog-mode . direnv-mode))
+#+end_src
+
+By checking what =venv/bin/activate= does to =PATH= and =VIRTUAL_ENV_PROMT=, I saw that they have to be set to =/path/to/project/venv/bin:$PATH= and =venv= respectively. A quick stack overflow search gave me a [[https://stackoverflow.com/a/246128][a one liner]] that returns the path directory of the file that it is run from. I put that into my `.envrc`, and now I can use this file in /all/ my Python projects, and Emacs always knows how to run in the correct virtual environment.
+
+#+begin_src sh
+  SCRIPT_DIR=$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )
+
+  export PATH=$SCRIPT_DIR/venv/bin:$PATH
+  export VIRTUAL_ENV_PROMT=venv
+#+end_src
+
+Off to more testing fun with pytest!
 ** More than enough reasons not to use LLMs
 :PROPERTIES:
 :EXPORT_DATE: 2026-01-18
