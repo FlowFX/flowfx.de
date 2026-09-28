@@ -12,7 +12,7 @@ Nowadays my development environment is Emacs, and very quickly I had to answer t
 
 It's all about setting the environment variables `PATH` and `VIRTUAL_ENV_PROMPT`. My solution differs from Chris's only in that I use the [`emacs-direnv`](https://github.com/wbolster/emacs-direnv) package that's already in [my config](https://codeberg.org/flowfx/emacs.d), but I guess `envrc` works just as well.
 
-```elisp
+```lisp
 (use-package direnv
   :hook
   (prog-mode . direnv-mode))
