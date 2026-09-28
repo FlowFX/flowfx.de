@@ -11,12 +11,17 @@ I play the trombone for [The Uplifters &amp; Block Ice Horn Section](https://the
 
 ### Upcoming concert dates {#upcoming-concert-dates}
 
--   **23 May 2026** @ [Campingplatz Erlensee](https://theuplifters.de/news/23-mai-campingplatz-erlensee-nahe-rosenheim/) near Rosenheim with _The Uplifters_.
--   **24 May 2026** @ [SKA BBQ at Asta Biergarten](https://theuplifters.de/news/24-mai-asta-biergarten-rosenheim/) in Rosenheim with _The Uplifters_.
--   **5 July 2026** @ [Freiburg Stimmt Ein](https://theuplifters.de/news/7-juli-freiburg-stimmt-ein/) with _The Uplifters_.
--   **10 July 2026** @ [Open Air Hamm](https://www.open-air-hamm.de/) with _The Offbeat Service_.
--   **20 July 2026** @ [ZMF](https://theuplifters.de/news/20-juli-zmf-freiburg/) Freiburg with _The Uplifters_.
--   **24 October 2026** @ [Alte Hackerei](https://altehackerei.de/), Karlsruhe with _The Offbeat Service_. (Support for [Wisecräcker](https://wisecracker.de/), not yet confirmed)
+-   **11 December 2026** @ [Funzel](https://diefunzelworms.de/), Worms with _The Offbeat Service_.
+-   **23 January 2027** @ [Kult 41](https://kult41.de/), Bonn with _The Offbeat Service_.
+
+
+#### 2026 {#2026}
+
+-   23 May 2026 @ [Campingplatz Erlensee](https://theuplifters.de/news/23-mai-campingplatz-erlensee-nahe-rosenheim/) near Rosenheim with _The Uplifters_.
+-   24 May 2026 @ [SKA BBQ at Asta Biergarten](https://theuplifters.de/news/24-mai-asta-biergarten-rosenheim/) in Rosenheim with _The Uplifters_.
+-   5 July 2026 @ [Freiburg Stimmt Ein](https://theuplifters.de/news/7-juli-freiburg-stimmt-ein/) with _The Uplifters_.
+-   10 July 2026 @ [Open Air Hamm](https://www.open-air-hamm.de/) with _The Offbeat Service_.
+-   20 July 2026 @ [ZMF](https://theuplifters.de/news/20-juli-zmf-freiburg/) Freiburg with _The Uplifters_.
 
 
 #### 2025 {#2025}
