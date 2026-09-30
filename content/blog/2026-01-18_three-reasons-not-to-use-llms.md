@@ -3,6 +3,8 @@ title = "More than enough reasons not to use LLMs"
 author = ["Florian Posdziech"]
 date = 2026-01-18
 slug = "three-reasons-not-to-use-llms"
+tags = ["ai"]
+categories = ["tech"]
 draft = false
 +++
 

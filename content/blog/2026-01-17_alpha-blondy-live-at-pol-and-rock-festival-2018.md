@@ -3,6 +3,7 @@ title = "Alpha Blondy - live at POL AND ROCK Festival 2018"
 author = ["Florian Posdziech"]
 date = 2026-01-17
 slug = "alpha-blondy-live-at-pol-and-rock-festival-2018"
+categories = ["music"]
 draft = false
 +++
 

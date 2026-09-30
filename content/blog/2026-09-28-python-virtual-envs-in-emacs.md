@@ -3,6 +3,8 @@ title = "Python virtual environments in Emacs"
 author = ["Florian Posdziech"]
 date = 2026-09-28
 slug = "python-virtual-envs-in-emacs"
+tags = ["pytest", "emacs", "python"]
+categories = ["tech"]
 draft = false
 +++
 
