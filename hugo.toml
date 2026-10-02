@@ -42,6 +42,9 @@ assetDir = "static"
   blog = "/blog/:slugorfilename/"
   tags = "/tags/:slug/"
 
+[pagination]
+  pagerSize = 15
+
 [markup.goldmark.renderer]
   # Allow HTML in md files
   unsafe = true

@@ -1,0 +1,37 @@
+{{ define "main" }}
+<content>
+  <ul class="blog-posts">
+    {{ range .Paginator.Pages }}
+    <li>
+      <span>
+        <i>
+          <time datetime='{{ .Date.Format "2006-01-02" }}' pubdate>
+            {{ .Date.Format (default "02 Jan, 2006" .Site.Params.dateFormat) }}
+          </time>
+        </i>
+      </span>
+      <a href="{{ .Permalink }}">{{ .Title }}</a>
+    </li>
+    {{ else }}
+    <li>
+      No posts yet
+    </li>
+    {{ end }}
+  </ul>
+  {{ partial "pagination.html" . }}
+  <small>
+    <div>
+      Categories:
+        {{ range .Site.Taxonomies.categories }}
+          <a href="{{ .Page.Permalink }}">#{{ .Page.Title }}</a>&nbsp;
+        {{ end }}
+      </div>
+    <div>
+	  Tags:
+        {{ range .Site.Taxonomies.tags }}
+          <a href="{{ .Page.Permalink }}">#{{ .Page.Title }}</a>&nbsp;
+        {{ end }}
+    </div>
+  </small>
+</content>
+{{ end }}
