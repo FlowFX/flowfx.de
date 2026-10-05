@@ -11,8 +11,6 @@ title="Look me up on mastodon!">@flowfx@chaos.social</a>! You can also contact m
 
 - hallo (at) <span style="display: none">don't spam me</span> flowfx (dot) <span style="display: none">really, please don't</span> de
 
-which I read from time to time.
-
 ## secure instant messaging
 
 - Signal: [FlowFX.23](https://signal.me/#eu/XWMoX1isrzJxWtsLfizVQp6S5cl9biBE7F618rpZ3U_e05kt0ZVOzbSs_rFVsFhY) 

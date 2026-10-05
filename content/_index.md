@@ -11,12 +11,10 @@ title = "About Me"
 My name is Florian Posdziech. I'm a software
 [developer](/categories/tech/ "blog articles from category tech"),
 [musician](/categories/music/ "music-related blog posts"),
-[athlete](/categories/training/), and occasional
-[podcaster](/categories/podcaster/).
-I currently live in Mannheim, Germany and work as a backend developer
+and athlete. I currently live in Mannheim, Germany and work as a backend developer
 for [ioki](https://ioki.com/) in Frankfurt am Main.
 
-I like reggae music, baseball, fish tacos, and beer. I've lived, studied and worked in the USA, Norway and Mexico. Maybe it shows.
+I like reggae music, baseball, fish tacos, and beer. I've lived, studied and worked in the USA, Norway and Mexico.
 
 Check my [Now page](/now) to see what I'm up to at the moment.
 
@@ -34,25 +32,14 @@ At any time I train one or more of either running, kettlebelling, heavy club swi
 
 ### Coding
 
-I do most of my coding for work, so the only public repositories that I regularly touch are my configuration files:
-
-- [My dotfiles](https://codeberg.org/flowfx/dotfiles) for Vim, tmux, zsh, i3, and such, and
-- my [Emacs config](https://codeberg.org/flowfx/emacs.d).
-
-### Podcasts
-
-Sometimes I talk into a microphone.
-
-**[Several Ways To Live (in Mexico City)](https://severalwaystolive.com/)**: An English podcast that I record together with my friend [Nick Farr](https://chaos.social/web/accounts/1767). It used to be about Mexican food and culture. Now it's something else.
-
-<!-- **[Tacos und Limetten](https://tacosundlimetten.de/)**: A German podcast where I talk to fellow and former expats in Mexico City. -->
-
-**[Cultural Comments - der C3S-Podcast](https://podcast.c3s.cc/)**: A German podcast by and for the C3S, an upcoming alternative to the GEMA collecting sociaty.
+I do most of my coding for work, so the only public repository that I regularly
+touch is my [Emacs config](https://codeberg.org/flowfx/emacs.d).
 
 ---
 
 ## More of my stuff on the interwebs
 
+- [Several Ways To Live (in Mexico City)](https://severalwaystolive.com/)
+- [Cultural Comments - der C3S-Podcast](https://podcast.c3s.cc/)
 - [Florian Op Tour](https://florianoptour.de/)
 - [flowfx @ Codeberg](https://codeberg.org/flowfx/)
-- [flowfx @ GitHub](https://github.com/flowfx/)

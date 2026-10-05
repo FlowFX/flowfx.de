@@ -12,8 +12,8 @@ I'm living in Mannheim, Germany,
 
 -   working as a backend developer at [ioki](https://ioki.com/),
 -   practicing my trombone under the guidance of [Ralf-Werner Kopp](https://der-trompetenlehrer.de/),
--   rehearsing and playing with [The Uplifters &amp; Block Ice Horn Section](https://theuplifters.de/) and [The Offbeat Service](https://www.instagram.com/theoffbeatservice/),
--   lifting at my local gym and occasionally training at [muskeltiere Mannheim](https://www.muskeltiere-sport.de/).
+-   rehearsing and playing with [The Uplifters &amp; Block Ice Horn Section](https://theuplifters.de/) and [The Offbeat Service](https://www.instagram.com/theoffbeatservice/), and
+-   lifting at my local gym.
 
 When my activities or priorities change, I'll update this page. Last
-update was October 8, 2025.
+update was October 5, 2026.
