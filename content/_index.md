@@ -11,8 +11,8 @@ title = "About Me"
 My name is Florian Posdziech. I'm a software
 [developer](/categories/tech/ "blog articles from category tech"),
 [musician](/categories/music/ "music-related blog posts"),
-and athlete. I currently live in Mannheim, Germany and work as a backend developer
-for [ioki](https://ioki.com/) in Frankfurt am Main.
+and athlete. I currently live in Mannheim, Germany.
+
 
 I like reggae music, baseball, fish tacos, and beer. I've lived, studied and worked in the USA, Norway and Mexico.
 
@@ -32,8 +32,7 @@ At any time I train one or more of either running, kettlebelling, heavy club swi
 
 ### Coding
 
-I do most of my coding for work, so the only public repository that I regularly
-touch is my [Emacs config](https://codeberg.org/flowfx/emacs.d).
+The only coding I regularly do is updating my [Emacs config](https://codeberg.org/flowfx/emacs.d).
 
 ---
 
